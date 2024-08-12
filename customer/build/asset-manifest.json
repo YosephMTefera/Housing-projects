@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88749db1.css",
+    "main.js": "/static/js/main.7381de42.js",
+    "static/js/453.20e5e1a8.chunk.js": "/static/js/453.20e5e1a8.chunk.js",
+    "static/media/overlay.png": "/static/media/overlay.4785301d86b3ec8d7930.png",
+    "static/media/hero-bg 2.png": "/static/media/hero-bg 2.9c051b6cc135e0551acf.png",
+    "static/media/hero-bg 1.png": "/static/media/hero-bg 1.d277ae0733da5a8ca160.png",
+    "static/media/housingImg-2.jpg": "/static/media/housingImg-2.8879356c2e537ecf34e7.jpg",
+    "static/media/housingLogo.png": "/static/media/housingLogo.041341a82bf5b243fc2b.png",
+    "static/media/about.jpg": "/static/media/about.0fc6161b8d2fef1d80ea.jpg",
+    "static/media/connection-lost.png": "/static/media/connection-lost.5f1e209a4cd086f75d1a.png",
+    "static/media/HousingDevelopmentLogo.png": "/static/media/HousingDevelopmentLogo.11f4d24af32d1655c0b3.png",
+    "static/media/housingImg-1.jpg": "/static/media/housingImg-1.1ee777720491d8dd7e28.jpg",
+    "static/media/logo2 (1).png": "/static/media/logo2 (1).3bdd129bad7add553291.png",
+    "index.html": "/index.html",
+    "main.88749db1.css.map": "/static/css/main.88749db1.css.map",
+    "main.7381de42.js.map": "/static/js/main.7381de42.js.map",
+    "453.20e5e1a8.chunk.js.map": "/static/js/453.20e5e1a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88749db1.css",
+    "static/js/main.7381de42.js"
+  ]
+}
