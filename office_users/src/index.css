@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+
+
+body {
+  margin: 0;
+  font-family:Montserrat,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(247, 247, 247);
+
+}
+.hide-scroll-bar::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+.hide-scroll-bar {
+
+  scrollbar-width: none;
+}
+
+
+.custom-heading .table table thead{
+  background:#0C73B8;
+  color:white;
+  font-size:14px;
+ 
+}
+
+.custom-heading .table table thead th{
+  padding:8px 16px;
+  border:1px solid white;
+  
+  
+
+}
+
+.custom-heading .table table tbody td{
+  padding:8px 16px;
+  border:1px solid white;
+  font-size: 12px;
+  
+  
+
+}
+
+.custom-editor .ck-editor__editable_inline {
+  min-height: 500px;
+}
