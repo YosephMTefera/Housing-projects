@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "669fb72b17ae58781866844d"
+  },
+  "firstname": "ልዪ",
+  "middlename": "አስራት",
+  "lastname": "አሰፋ",
+  "username": "lyu1221",
+  "email": "leyuasrat@gmail.com",
+  "password": "$2b$10$wADGLXBKm9HJ7VPFTQi0ie.ZwUgk.MUvoYmvp1NITCQ3CCJXg3Wke",
+  "phone": "0913648514",
+  "gender": "Male",
+  "picture": "1721743147069-943130005-LOGO.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753577fd40ac084cd575ef"
+  },
+  "createdAt": {
+    "$date": "2024-07-23T13:59:07.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T13:59:07.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0a26c97d2345b032f39b0"
+  },
+  "firstname": "ትእግስት",
+  "middlename": "ሃብተማሪያም",
+  "lastname": "ሃብትይመር",
+  "username": "tigist1212",
+  "email": "tigist193661@gmail.com",
+  "password": "$2b$10$RKqKPnuzXfir5kSnpUN8TuT6.OHovyn71TprTCVyaqZq/Qq0PV1YC",
+  "phone": "0919366182",
+  "gender": "Female",
+  "picture": "1721803372450-962277578-housingLogo.041341a82bf5b243fc2b.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753577fd40ac084cd575ef"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T06:42:52.616Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:48:02.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0a29097d2345b032f39c3"
+  },
+  "firstname": "ማርታ",
+  "middlename": "ካሳሁን",
+  "lastname": "እሸቴ",
+  "username": "marta84",
+  "email": "martakassahun2021@gmail.com",
+  "password": "$2b$10$t1E5zIpXJRMh1Rp/i4OyLex6lPxMUebfHr05cUg4ZXxIAb87R3Mpq",
+  "phone": "0920966084",
+  "gender": "Female",
+  "picture": "1721803408856-262062837-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "6697b12120ff858ecdfec0f0"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T06:43:28.942Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:43:28.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a35929be5c30eee794bac6"
+  },
+  "firstname": "ምህረት",
+  "middlename": "ካሳሁን",
+  "lastname": "ቢኬ",
+  "username": "mihret20",
+  "email": "mihretkasahun01@gmail.com",
+  "password": "$2b$10$2YtMAr2jl.oMg0nn1gMx8..5jgnTUJEJb6FH/B5Ip7h2eK0sA9uEm",
+  "phone": "0900660920",
+  "gender": "Female",
+  "picture": "1721981225485-177630982-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "6697b12120ff858ecdfec0f0"
+  },
+  "createdAt": {
+    "$date": "2024-07-26T08:07:05.559Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T08:07:05.559Z"
+  },
+  "__v": 0
+}]

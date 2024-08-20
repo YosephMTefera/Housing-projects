@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "66753577fd40ac084cd575ef"
+  },
+  "firstname": "ልዩ",
+  "middlename": "አስራት",
+  "lastname": "አሰፋ",
+  "username": "lyu1221",
+  "email": "lyu1221@gmail.com",
+  "password": "$2b$10$oxcvJg0fD5cvEst1w6AQ4OqKt6Jf69Iq9HRIvgw4dBT6RxcbcU7te",
+  "phone": "0956302514",
+  "gender": "Male",
+  "picture": "1718957430913-88382875-LOGO.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753079e0813039801f9a4a"
+  },
+  "createdAt": {
+    "$date": "2024-06-21T08:10:31.034Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T08:10:31.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "firstname": "ቤዛዊት",
+  "middlename": "በልሁ",
+  "lastname": "አበበ",
+  "username": "bezawit123",
+  "email": "bezawitbelihu2@gmail.com",
+  "password": "$2b$10$wpWks/I.RXqT14FYdnOSluuxSktiKzDvVtAmDTJkCrJYIf1GNANZO",
+  "phone": "0911100666",
+  "gender": "Female",
+  "picture": "1718971841628-482878085-LOGO.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753079e0813039801f9a4a"
+  },
+  "createdAt": {
+    "$date": "2024-06-21T12:10:41.715Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T12:49:47.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66756e60fd40ac084cd57c7d"
+  },
+  "firstname": "ትህትና",
+  "middlename": "በቀለ",
+  "lastname": "ሲደልል",
+  "username": "tihtina123",
+  "email": "tihitinabekle@gmail.com",
+  "password": "$2b$10$iry/XebZNYdd25l5CASGTeM5lA/o4dIs6c.y79KiOuu69.Q5ifbLi",
+  "phone": "0911437663",
+  "gender": "Female",
+  "picture": "1718972000100-948924943-LOGO.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753079e0813039801f9a4a"
+  },
+  "createdAt": {
+    "$date": "2024-06-21T12:13:20.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:46:31.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697b12120ff858ecdfec0f0"
+  },
+  "firstname": "ውብአምላክ",
+  "middlename": "ደምሌ",
+  "lastname": "አየነው",
+  "username": "wube35",
+  "email": "wubamlak35@gmail.com",
+  "password": "$2b$10$X5yv.UtLQ4n5ma9fCRxlG.mFjbUAUYNJ7/miZdBHGPLVV/vC6H39m",
+  "phone": "920162435",
+  "gender": "Male",
+  "picture": "1721217313296-85175825-LOGO.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753079e0813039801f9a4a"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T11:55:13.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T11:55:13.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697b63920ff858ecdfec41c"
+  },
+  "firstname": "ገዳም",
+  "middlename": "ዋለ",
+  "lastname": "ክፍሉ",
+  "username": "gedam35",
+  "email": "gedamwale7@gmail.com",
+  "password": "$2b$10$W4ZlN.QU9AsN7XEYt7UjbOSu6ZcLNoATmItH659Ksn1bvO/zZUjbK",
+  "phone": "0915628697",
+  "gender": "Female",
+  "picture": "1721218617172-801582330-LOGO.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753079e0813039801f9a4a"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T12:16:57.251Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:25:54.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697b8e920ff858ecdfec6f7"
+  },
+  "firstname": "ማርታ",
+  "middlename": "አበበ",
+  "lastname": "ዴቲ",
+  "username": "martha55",
+  "email": "martiabe47@gmail.com",
+  "password": "$2b$10$DoWzdGxUz9NaLITteDA7iunGAgGTGTiTPsPV9ZUdg/WHTCCR.RHbG",
+  "phone": "0913700705",
+  "gender": "Female",
+  "picture": "1721219305376-599185617-LOGO.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753079e0813039801f9a4a"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T12:28:25.483Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:28:25.483Z"
+  },
+  "__v": 0
+}]

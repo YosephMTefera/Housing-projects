@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "669d032975cd16d593e09c13"
+  },
+  "customer_id": {
+    "$oid": "669d032875cd16d593e09c11"
+  },
+  "updateHistory": [
+    {
+      "updatedByCustomerUser": {
+        "$oid": "669d032875cd16d593e09c11"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669d032975cd16d593e09c14"
+      },
+      "updatedAt": {
+        "$date": "2024-07-21T12:46:33.108Z"
+      }
+    },
+    {
+      "updatedByCustomerUser": {
+        "$oid": "669d032875cd16d593e09c11"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669d035075cd16d593e09c1a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-21T12:47:12.670Z"
+      }
+    },
+    {
+      "updatedByCustomerUser": {
+        "$oid": "669d032875cd16d593e09c11"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669d039575cd16d593e09c21"
+      },
+      "updatedAt": {
+        "$date": "2024-07-21T12:48:21.298Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "Misganu",
+      "middlename": "Oljira",
+      "lastname": "Basha",
+      "email": "misgeob@gmail.com",
+      "password": "$2b$10$V.XZkPPfAVibVPatCMDzIO1iCPBCmh23mXqs8KgSud1A/P1t9jPUC",
+      "subcity": "Addis ketema",
+      "woreda": "09",
+      "house_number": "__",
+      "phone": "0923014791",
+      "house_phone_number": "__",
+      "gender": "Male",
+      "picture": "1721565992924-276446671-IMG_20240721_154525.jpg",
+      "preferred_language": "am",
+      "otp": "657860",
+      "haslogged": "no",
+      "status": "inactive",
+      "_id": {
+        "$oid": "669d032875cd16d593e09c11"
+      }
+    },
+    {
+      "firstname": "Misganu",
+      "middlename": "Oljira",
+      "lastname": "Basha",
+      "email": "misgeob@gmail.com",
+      "password": "$2b$10$V.XZkPPfAVibVPatCMDzIO1iCPBCmh23mXqs8KgSud1A/P1t9jPUC",
+      "subcity": "Addis ketema",
+      "woreda": "09",
+      "house_number": "__",
+      "phone": "0923014791",
+      "house_phone_number": "__",
+      "gender": "Male",
+      "picture": "1721565992924-276446671-IMG_20240721_154525.jpg",
+      "preferred_language": "am",
+      "otp": null,
+      "haslogged": "no",
+      "status": "active",
+      "_id": {
+        "$oid": "669d032875cd16d593e09c11"
+      }
+    },
+    {
+      "firstname": "Misganu",
+      "middlename": "Oljira",
+      "lastname": "Basha",
+      "email": "misgeob@gmail.com",
+      "password": "$2b$10$V.XZkPPfAVibVPatCMDzIO1iCPBCmh23mXqs8KgSud1A/P1t9jPUC",
+      "subcity": "Addis ketema",
+      "woreda": "09",
+      "house_number": "__",
+      "phone": "0923014791",
+      "house_phone_number": "__",
+      "gender": "Male",
+      "picture": "1721565992924-276446671-IMG_20240721_154525.jpg",
+      "preferred_language": "am",
+      "otp": null,
+      "haslogged": "yes",
+      "status": "active",
+      "_id": {
+        "$oid": "669d032875cd16d593e09c11"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-21T12:46:33.112Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-21T12:48:21.297Z"
+  },
+  "__v": 0
+}]

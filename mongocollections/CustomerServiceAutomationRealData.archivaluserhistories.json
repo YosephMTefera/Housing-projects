@@ -1,0 +1,275 @@
+[{
+  "_id": {
+    "$oid": "6697be9720ff858ecdfecfda"
+  },
+  "archival_user_id": {
+    "$oid": "6697be9620ff858ecdfecfd8"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6697be9720ff858ecdfecfdb"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T12:52:39.092Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "አለም ",
+      "middlename": "ከበደ",
+      "lastname": "ሄዪ",
+      "username": "alem12",
+      "email": "alemkebede651@gmail.com",
+      "password": "$2b$10$tSyKe/IZ9HDPXDxWdd7mMup04qoW086qZ2lowM5VpI6hcAi/Ofgzy",
+      "phone": "0920611365",
+      "gender": "Female",
+      "picture": "1721220758887-310097349-images.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "_id": {
+        "$oid": "6697be9620ff858ecdfecfd8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T12:52:39.094Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:52:39.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697ca9d20ff858ecdff0ef2"
+  },
+  "archival_user_id": {
+    "$oid": "6697ca9d20ff858ecdff0ef0"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "6697b63920ff858ecdfec41c"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6697ca9d20ff858ecdff0ef3"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:43:57.832Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669d34e90e0d4cc1b7395838"
+      },
+      "updatedAt": {
+        "$date": "2024-07-21T16:18:49.055Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "እመቤት",
+      "middlename": "መኮንን ",
+      "lastname": "ማዶ",
+      "username": "emebet21",
+      "email": "emeet841@gmail.com",
+      "password": "$2b$10$YNzxMlqgGnpd2pGG6nsDDOKvJUQiOiC/fXKJDRGj4mPex1/OmZsFq",
+      "phone": "0912128210",
+      "gender": "Female",
+      "picture": "1721223837635-283685533-screen saver.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b63920ff858ecdfec41c"
+      },
+      "_id": {
+        "$oid": "6697ca9d20ff858ecdff0ef0"
+      }
+    },
+    {
+      "firstname": "እመቤት",
+      "middlename": "መኮንን ",
+      "lastname": "ማዶ",
+      "username": "emebet21",
+      "email": "emeet841@gmail.com",
+      "password": "$2b$10$YNzxMlqgGnpd2pGG6nsDDOKvJUQiOiC/fXKJDRGj4mPex1/OmZsFq",
+      "phone": "0912128210",
+      "gender": "Female",
+      "picture": "1721578728919-60493499-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b63920ff858ecdfec41c"
+      },
+      "_id": {
+        "$oid": "6697ca9d20ff858ecdff0ef0"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T13:43:57.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-21T16:18:49.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698a9724fe70af0ac095ace"
+  },
+  "archival_user_id": {
+    "$oid": "6698a9724fe70af0ac095acc"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6698a9724fe70af0ac095acf"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T05:34:42.229Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "አለምፀሀይ",
+      "middlename": "ብርሃኔ",
+      "lastname": "ንርአዮ",
+      "username": "Alemtsehay23",
+      "email": "alemtsehaybirhane504@gmil.com",
+      "password": "$2b$10$78xUkP4tDu.yuPmoJPhPDesWxLJTj2r92APDwovRxdgMBvd1iSwM2",
+      "phone": "0911363323",
+      "gender": "Female",
+      "picture": "1721280882048-541553651-logo.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "_id": {
+        "$oid": "6698a9724fe70af0ac095acc"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T05:34:42.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T05:34:42.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e407d86c354d58a1b067b"
+  },
+  "archival_user_id": {
+    "$oid": "669e407d86c354d58a1b0679"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669e407d86c354d58a1b067c"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T11:20:29.598Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "የኔነህ",
+      "middlename": "ደሴ",
+      "lastname": "እውነቱ",
+      "username": "yeneneh65",
+      "email": "yenenehdese86@gmail.com",
+      "password": "$2b$10$vJhRcNlYT0IxxAvHdHJPQeeI50nT0hISxid100zf/Fg1CRilpsr/O",
+      "phone": "0945110165",
+      "gender": "Male",
+      "picture": "1721647229383-512245019-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "_id": {
+        "$oid": "669e407d86c354d58a1b0679"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-22T11:20:29.608Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T11:20:29.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a225ab56d4b37c1d8aa74a"
+  },
+  "archival_user_id": {
+    "$oid": "66a225ab56d4b37c1d8aa748"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a225ab56d4b37c1d8aa74b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T10:15:07.419Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ልዩ",
+      "middlename": "አስራት",
+      "lastname": "አሰፋ",
+      "username": "lyu1221",
+      "email": "liyuasrat@gmail.com",
+      "password": "$2b$10$K7YWiedfFIzfkcvOpsSVUOhg5hjY0D/HNAZYDwjzw.d4XR3BtGEfy",
+      "phone": "0913648514",
+      "gender": "Male",
+      "picture": "1721902507056-997466990-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-25T10:15:07.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:15:07.428Z"
+  },
+  "__v": 0
+}]

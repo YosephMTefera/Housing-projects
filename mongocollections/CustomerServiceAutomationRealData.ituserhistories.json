@@ -1,0 +1,384 @@
+[{
+  "_id": {
+    "$oid": "66753577fd40ac084cd575f1"
+  },
+  "it_user_id": {
+    "$oid": "66753577fd40ac084cd575ef"
+  },
+  "updateHistory": [
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66753577fd40ac084cd575f2"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T08:10:31.158Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ልዩ",
+      "middlename": "አስራት",
+      "lastname": "አሰፋ",
+      "username": "lyu1221",
+      "email": "lyu1221@gmail.com",
+      "password": "$2b$10$oxcvJg0fD5cvEst1w6AQ4OqKt6Jf69Iq9HRIvgw4dBT6RxcbcU7te",
+      "phone": "0956302514",
+      "gender": "Male",
+      "picture": "1718957430913-88382875-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "_id": {
+        "$oid": "66753577fd40ac084cd575ef"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T08:10:31.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T08:10:31.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66756dc1fd40ac084cd57c5d"
+  },
+  "it_user_id": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "updateHistory": [
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66756dc1fd40ac084cd57c5e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:10:41.833Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ቤዛዊት",
+      "middlename": "በልሁ",
+      "lastname": "አበበ",
+      "username": "bezawit123",
+      "email": "bezawitbelihu2@gmail.com",
+      "password": "$2b$10$vlKTz1dCwypMhHDgRfLNBe7UMSHSV2KEhaNmBE9g3CAMUV4U.hMqe",
+      "phone": "0911100666",
+      "gender": "Female",
+      "picture": "1718971841628-482878085-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "_id": {
+        "$oid": "66756dc1fd40ac084cd57c5b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:10:41.836Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T12:10:41.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66756e60fd40ac084cd57c7f"
+  },
+  "it_user_id": {
+    "$oid": "66756e60fd40ac084cd57c7d"
+  },
+  "updateHistory": [
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66756e60fd40ac084cd57c80"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:13:20.287Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697b91720ff858ecdfec72b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T12:29:11.928Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697ba8720ff858ecdfecb1b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T12:35:19.824Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ትህትና",
+      "middlename": "በቀለ",
+      "lastname": "ሲደልል",
+      "username": "tihtina123",
+      "email": "tihtinabekele@gmail.com",
+      "password": "$2b$10$F7NxJMKpKGUW.wFQQojM8uOF0V6TefcvW754/OTVzU.vFoI9yIS06",
+      "phone": "0911437663",
+      "gender": "Female",
+      "picture": "1718972000100-948924943-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "_id": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      }
+    },
+    {
+      "firstname": "ትህትና",
+      "middlename": "በቀለ",
+      "lastname": "ሲደልል",
+      "username": "tihtina123",
+      "email": "tihtinabekle@gmail.com",
+      "password": "$2b$10$F7NxJMKpKGUW.wFQQojM8uOF0V6TefcvW754/OTVzU.vFoI9yIS06",
+      "phone": "0911437663",
+      "gender": "Female",
+      "picture": "1718972000100-948924943-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "_id": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      }
+    },
+    {
+      "firstname": "ትህትና",
+      "middlename": "በቀለ",
+      "lastname": "ሲደልል",
+      "username": "tihtina123",
+      "email": "tihitinabekle@gmail.com",
+      "password": "$2b$10$F7NxJMKpKGUW.wFQQojM8uOF0V6TefcvW754/OTVzU.vFoI9yIS06",
+      "phone": "0911437663",
+      "gender": "Female",
+      "picture": "1718972000100-948924943-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "_id": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:13:20.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:35:19.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697b12120ff858ecdfec0f2"
+  },
+  "it_user_id": {
+    "$oid": "6697b12120ff858ecdfec0f0"
+  },
+  "updateHistory": [
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6697b12120ff858ecdfec0f3"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T11:55:13.487Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ውብአምላክ",
+      "middlename": "ደምሌ",
+      "lastname": "አየነው",
+      "username": "wube35",
+      "email": "wubamlak35@gmail.com",
+      "password": "$2b$10$X5yv.UtLQ4n5ma9fCRxlG.mFjbUAUYNJ7/miZdBHGPLVV/vC6H39m",
+      "phone": "920162435",
+      "gender": "Male",
+      "picture": "1721217313296-85175825-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "_id": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T11:55:13.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T11:55:13.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697b63920ff858ecdfec41e"
+  },
+  "it_user_id": {
+    "$oid": "6697b63920ff858ecdfec41c"
+  },
+  "updateHistory": [
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6697b63920ff858ecdfec41f"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T12:16:57.351Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697b85220ff858ecdfec612"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T12:25:54.345Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ገዳም",
+      "middlename": "ዋለ",
+      "lastname": "ክፍሉ",
+      "username": "ገዳም35",
+      "email": "gedamwale7@gmail.com",
+      "password": "$2b$10$W4ZlN.QU9AsN7XEYt7UjbOSu6ZcLNoATmItH659Ksn1bvO/zZUjbK",
+      "phone": "0915628697",
+      "gender": "Female",
+      "picture": "1721218617172-801582330-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "_id": {
+        "$oid": "6697b63920ff858ecdfec41c"
+      }
+    },
+    {
+      "firstname": "ገዳም",
+      "middlename": "ዋለ",
+      "lastname": "ክፍሉ",
+      "username": "gedam35",
+      "email": "gedamwale7@gmail.com",
+      "password": "$2b$10$W4ZlN.QU9AsN7XEYt7UjbOSu6ZcLNoATmItH659Ksn1bvO/zZUjbK",
+      "phone": "0915628697",
+      "gender": "Female",
+      "picture": "1721218617172-801582330-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "_id": {
+        "$oid": "6697b63920ff858ecdfec41c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T12:16:57.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:25:54.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697b8e920ff858ecdfec6f9"
+  },
+  "it_user_id": {
+    "$oid": "6697b8e920ff858ecdfec6f7"
+  },
+  "updateHistory": [
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6697b8e920ff858ecdfec6fa"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T12:28:25.595Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ማርታ",
+      "middlename": "አበበ",
+      "lastname": "ዴቲ",
+      "username": "martha55",
+      "email": "martiabe47@gmail.com",
+      "password": "$2b$10$DoWzdGxUz9NaLITteDA7iunGAgGTGTiTPsPV9ZUdg/WHTCCR.RHbG",
+      "phone": "0913700705",
+      "gender": "Female",
+      "picture": "1721219305376-599185617-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753079e0813039801f9a4a"
+      },
+      "_id": {
+        "$oid": "6697b8e920ff858ecdfec6f7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T12:28:25.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:28:25.600Z"
+  },
+  "__v": 0
+}]

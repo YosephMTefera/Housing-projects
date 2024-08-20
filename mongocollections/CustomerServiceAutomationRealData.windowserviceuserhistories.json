@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "669fb72b17ae58781866844f"
+  },
+  "window_service_user_id": {
+    "$oid": "669fb72b17ae58781866844d"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669fb72b17ae587818668450"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T13:59:07.285Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ልዪ",
+      "middlename": "አስራት",
+      "lastname": "አሰፋ",
+      "username": "lyu1221",
+      "email": "leyuasrat@gmail.com",
+      "password": "$2b$10$wADGLXBKm9HJ7VPFTQi0ie.ZwUgk.MUvoYmvp1NITCQ3CCJXg3Wke",
+      "phone": "0913648514",
+      "gender": "Male",
+      "picture": "1721743147069-943130005-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669fb72b17ae58781866844d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-23T13:59:07.288Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T13:59:07.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0a26c97d2345b032f39b2"
+  },
+  "window_service_user_id": {
+    "$oid": "66a0a26c97d2345b032f39b0"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a0a26c97d2345b032f39b3"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T06:42:52.733Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a0a33497d2345b032f3b02"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T06:46:12.149Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a0a35d97d2345b032f3b1c"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T06:46:53.459Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a0a3a297d2345b032f3b42"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T06:48:02.756Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ትእግስት",
+      "middlename": "ሃብተማሪያም",
+      "lastname": "ሃብትይመር",
+      "username": "tigist.h",
+      "email": "tigist193661@gmail.com",
+      "password": "$2b$10$RKqKPnuzXfir5kSnpUN8TuT6.OHovyn71TprTCVyaqZq/Qq0PV1YC",
+      "phone": "0919366182",
+      "gender": "Female",
+      "picture": "1721803372450-962277578-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a0a26c97d2345b032f39b0"
+      }
+    },
+    {
+      "firstname": "ትእግስት",
+      "middlename": "ሃብተማሪያም",
+      "lastname": "ሃብትይመር",
+      "username": "tigisthabtemariyam",
+      "email": "tigist193661@gmail.com",
+      "password": "$2b$10$RKqKPnuzXfir5kSnpUN8TuT6.OHovyn71TprTCVyaqZq/Qq0PV1YC",
+      "phone": "0919366182",
+      "gender": "Female",
+      "picture": "1721803372450-962277578-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a0a26c97d2345b032f39b0"
+      }
+    },
+    {
+      "firstname": "ትእግስት",
+      "middlename": "ሃብተማሪያም",
+      "lastname": "ሃብትይመር",
+      "username": "tigist",
+      "email": "tigist193661@gmail.com",
+      "password": "$2b$10$RKqKPnuzXfir5kSnpUN8TuT6.OHovyn71TprTCVyaqZq/Qq0PV1YC",
+      "phone": "0919366182",
+      "gender": "Female",
+      "picture": "1721803372450-962277578-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a0a26c97d2345b032f39b0"
+      }
+    },
+    {
+      "firstname": "ትእግስት",
+      "middlename": "ሃብተማሪያም",
+      "lastname": "ሃብትይመር",
+      "username": "tigist1212",
+      "email": "tigist193661@gmail.com",
+      "password": "$2b$10$RKqKPnuzXfir5kSnpUN8TuT6.OHovyn71TprTCVyaqZq/Qq0PV1YC",
+      "phone": "0919366182",
+      "gender": "Female",
+      "picture": "1721803372450-962277578-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a0a26c97d2345b032f39b0"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-24T06:42:52.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:48:02.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0a29197d2345b032f39c5"
+  },
+  "window_service_user_id": {
+    "$oid": "66a0a29097d2345b032f39c3"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a0a29197d2345b032f39c6"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T06:43:29.042Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ማርታ",
+      "middlename": "ካሳሁን",
+      "lastname": "እሸቴ",
+      "username": "marta84",
+      "email": "martakassahun2021@gmail.com",
+      "password": "$2b$10$t1E5zIpXJRMh1Rp/i4OyLex6lPxMUebfHr05cUg4ZXxIAb87R3Mpq",
+      "phone": "0920966084",
+      "gender": "Female",
+      "picture": "1721803408856-262062837-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "_id": {
+        "$oid": "66a0a29097d2345b032f39c3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-24T06:43:29.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T06:43:29.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a35929be5c30eee794bac8"
+  },
+  "window_service_user_id": {
+    "$oid": "66a35929be5c30eee794bac6"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a35929be5c30eee794bac9"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T08:07:05.659Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ምህረት",
+      "middlename": "ካሳሁን",
+      "lastname": "ቢኬ",
+      "username": "mihret20",
+      "email": "mihretkasahun01@gmail.com",
+      "password": "$2b$10$2YtMAr2jl.oMg0nn1gMx8..5jgnTUJEJb6FH/B5Ip7h2eK0sA9uEm",
+      "phone": "0900660920",
+      "gender": "Female",
+      "picture": "1721981225485-177630982-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "_id": {
+        "$oid": "66a35929be5c30eee794bac6"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-26T08:07:05.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T08:07:05.661Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,5948 @@
+[{
+  "_id": {
+    "$oid": "66757054fd40ac084cd57e0d"
+  },
+  "case_list_id": {
+    "$oid": "66757054fd40ac084cd57e0b"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757054fd40ac084cd57e0e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:21:40.324Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757267fd40ac084cd57eb7"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:30:31.717Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757346fd40ac084cd57f3e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:34:14.775Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667574f3fd40ac084cd5803d"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:41:23.040Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c36a20ff858ecdfef42a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:13:14.506Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669912d34fe70af0ac09d021"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:04:19.751Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669913434fe70af0ac09d26e"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:06:11.265Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6699135c4fe70af0ac09d416"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:06:36.289Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1135656d4b37c1d8a3558"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:44:38.860Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site",
+      "case_name_sm": "Submitting a request to change the site",
+      "case_name_tg": "Submitting a request to change the site",
+      "case_name_af": "Submitting a request to change the site",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site",
+      "case_name_sm": "Submitting a request to change the site",
+      "case_name_tg": "Submitting a request to change the site",
+      "case_name_af": "Submitting a request to change the site",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757267fd40ac084cd57eb1"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site",
+      "case_name_sm": "Submitting a request to change the site",
+      "case_name_tg": "Submitting a request to change the site",
+      "case_name_af": "Submitting a request to change the site",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757267fd40ac084cd57eb1"
+        },
+        {
+          "$oid": "66757346fd40ac084cd57f37"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site",
+      "case_name_sm": "Submitting a request to change the site",
+      "case_name_tg": "Submitting a request to change the site",
+      "case_name_af": "Submitting a request to change the site",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757267fd40ac084cd57eb1"
+        },
+        {
+          "$oid": "66757346fd40ac084cd57f37"
+        },
+        {
+          "$oid": "667574f2fd40ac084cd58035"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site OR",
+      "case_name_sm": "Submitting a request to change the site SO",
+      "case_name_tg": "Submitting a request to change the site TI",
+      "case_name_af": "Submitting a request to change the site AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757267fd40ac084cd57eb1"
+        },
+        {
+          "$oid": "66757346fd40ac084cd57f37"
+        },
+        {
+          "$oid": "667574f2fd40ac084cd58035"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site OR",
+      "case_name_sm": "Submitting a request to change the site SO",
+      "case_name_tg": "Submitting a request to change the site TI",
+      "case_name_af": "Submitting a request to change the site AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757267fd40ac084cd57eb1"
+        },
+        {
+          "$oid": "66757346fd40ac084cd57f37"
+        },
+        {
+          "$oid": "667574f2fd40ac084cd58035"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site OR",
+      "case_name_sm": "Submitting a request to change the site SO",
+      "case_name_tg": "Submitting a request to change the site TI",
+      "case_name_af": "Submitting a request to change the site AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757267fd40ac084cd57eb1"
+        },
+        {
+          "$oid": "66757346fd40ac084cd57f37"
+        },
+        {
+          "$oid": "667574f2fd40ac084cd58035"
+        },
+        {
+          "$oid": "669913434fe70af0ac09d268"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site OR",
+      "case_name_sm": "Submitting a request to change the site SO",
+      "case_name_tg": "Submitting a request to change the site TI",
+      "case_name_af": "Submitting a request to change the site AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757267fd40ac084cd57eb1"
+        },
+        {
+          "$oid": "66757346fd40ac084cd57f37"
+        },
+        {
+          "$oid": "667574f2fd40ac084cd58035"
+        },
+        {
+          "$oid": "669913434fe70af0ac09d268"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site OR",
+      "case_name_sm": "Submitting a request to change the site SO",
+      "case_name_tg": "Submitting a request to change the site TI",
+      "case_name_af": "Submitting a request to change the site AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757267fd40ac084cd57eb1"
+        },
+        {
+          "$oid": "66757346fd40ac084cd57f37"
+        },
+        {
+          "$oid": "667574f2fd40ac084cd58035"
+        },
+        {
+          "$oid": "669913434fe70af0ac09d268"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:21:40.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:44:38.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757566fd40ac084cd580cf"
+  },
+  "case_list_id": {
+    "$oid": "66757566fd40ac084cd580cd"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757566fd40ac084cd580d0"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:43:18.464Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675762bfd40ac084cd581a1"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:46:35.640Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675788efd40ac084cd58337"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:56:46.138Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757979fd40ac084cd5838e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:00:41.212Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667d1d86fbbd97c3f9b07203"
+      },
+      "updatedAt": {
+        "$date": "2024-06-27T08:06:30.721Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697bc3520ff858ecdfece7f"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T12:42:29.322Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1137a56d4b37c1d8a3b7e"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:45:14.576Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Submitting a request for a house assignment",
+      "case_name_am": "የቤት ይመደብልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request for a house assignment",
+      "case_name_sm": "Submitting a request for a house assignment",
+      "case_name_tg": "Submitting a request for a house assignment",
+      "case_name_af": "Submitting a request for a house assignment",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757566fd40ac084cd580cd"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request for a house assignment",
+      "case_name_am": "የቤት ይመደብልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request for a house assignment",
+      "case_name_sm": "Submitting a request for a house assignment",
+      "case_name_tg": "Submitting a request for a house assignment",
+      "case_name_af": "Submitting a request for a house assignment",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675762bfd40ac084cd5819b"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757566fd40ac084cd580cd"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request for a house assignment",
+      "case_name_am": "የቤት ይመደብልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request for a house assignment",
+      "case_name_sm": "Submitting a request for a house assignment",
+      "case_name_tg": "Submitting a request for a house assignment",
+      "case_name_af": "Submitting a request for a house assignment",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675762bfd40ac084cd5819b"
+        },
+        {
+          "$oid": "6675788dfd40ac084cd58330"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757566fd40ac084cd580cd"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request for a house assignment",
+      "case_name_am": "የቤት ይመደብልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request for a house assignment",
+      "case_name_sm": "Submitting a request for a house assignment",
+      "case_name_tg": "Submitting a request for a house assignment",
+      "case_name_af": "Submitting a request for a house assignment",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675762bfd40ac084cd5819b"
+        },
+        {
+          "$oid": "6675788dfd40ac084cd58330"
+        },
+        {
+          "$oid": "66757979fd40ac084cd58386"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757566fd40ac084cd580cd"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request for a house assignment",
+      "case_name_am": "የቤት ይመደብልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request for a house assignment",
+      "case_name_sm": "Submitting a request for a house assignment",
+      "case_name_tg": "Submitting a request for a house assignment",
+      "case_name_af": "Submitting a request for a house assignment",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675762bfd40ac084cd5819b"
+        },
+        {
+          "$oid": "6675788dfd40ac084cd58330"
+        },
+        {
+          "$oid": "66757979fd40ac084cd58386"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757566fd40ac084cd580cd"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request for a house assignment",
+      "case_name_am": "የቤት ይመደብልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request for a house assignment",
+      "case_name_sm": "Submitting a request for a house assignment",
+      "case_name_tg": "Submitting a request for a house assignment",
+      "case_name_af": "Submitting a request for a house assignment",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675762bfd40ac084cd5819b"
+        },
+        {
+          "$oid": "6675788dfd40ac084cd58330"
+        },
+        {
+          "$oid": "66757979fd40ac084cd58386"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757566fd40ac084cd580cd"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request for a house assignment",
+      "case_name_am": "የቤት ይመደብልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request for a house assignment",
+      "case_name_sm": "Submitting a request for a house assignment",
+      "case_name_tg": "Submitting a request for a house assignment",
+      "case_name_af": "Submitting a request for a house assignment",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675762bfd40ac084cd5819b"
+        },
+        {
+          "$oid": "6675788dfd40ac084cd58330"
+        },
+        {
+          "$oid": "66757979fd40ac084cd58386"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757566fd40ac084cd580cd"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:43:18.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:45:14.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757926fd40ac084cd5836f"
+  },
+  "case_list_id": {
+    "$oid": "66757926fd40ac084cd5836d"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757926fd40ac084cd58370"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:59:18.916Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757b76fd40ac084cd584b8"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:09:10.853Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757c5bfd40ac084cd58572"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:12:59.888Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757c77fd40ac084cd5860e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:13:27.470Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c23620ff858ecdfee66b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:08:06.599Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c24b20ff858ecdfee7a3"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:08:27.125Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a113e056d4b37c1d8a4195"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:46:56.312Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Regarding the question of the cases that have not been answered by the branch offices",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች ምላሽ ያልሰጡባቸው ጉዳዮች ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding the question of the cases that have not been answered by the branch offices OR",
+      "case_name_sm": "Regarding the question of the cases that have not been answered by the branch offices SM",
+      "case_name_tg": "Regarding the question of the cases that have not been answered by the branch offices TG",
+      "case_name_af": "Regarding the question of the cases that have not been answered by the branch offices AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 2,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757926fd40ac084cd5836d"
+      }
+    },
+    {
+      "case_name_en": "Regarding the question of the cases that have not been answered by the branch offices",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች ምላሽ ያልሰጡባቸው ጉዳዮች ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding the question of the cases that have not been answered by the branch offices OR",
+      "case_name_sm": "Regarding the question of the cases that have not been answered by the branch offices SM",
+      "case_name_tg": "Regarding the question of the cases that have not been answered by the branch offices TG",
+      "case_name_af": "Regarding the question of the cases that have not been answered by the branch offices AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 2,
+      "questions": [
+        {
+          "$oid": "66757b76fd40ac084cd584b2"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757926fd40ac084cd5836d"
+      }
+    },
+    {
+      "case_name_en": "Regarding the question of the cases that have not been answered by the branch offices",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች ምላሽ ያልሰጡባቸው ጉዳዮች ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding the question of the cases that have not been answered by the branch offices OR",
+      "case_name_sm": "Regarding the question of the cases that have not been answered by the branch offices SM",
+      "case_name_tg": "Regarding the question of the cases that have not been answered by the branch offices TG",
+      "case_name_af": "Regarding the question of the cases that have not been answered by the branch offices AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 2,
+      "questions": [
+        {
+          "$oid": "66757b76fd40ac084cd584b2"
+        },
+        {
+          "$oid": "66757c5bfd40ac084cd5856e"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757926fd40ac084cd5836d"
+      }
+    },
+    {
+      "case_name_en": "Regarding the question of the cases that have not been answered by the branch offices",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች ምላሽ ያልሰጡባቸው ጉዳዮች ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding the question of the cases that have not been answered by the branch offices OR",
+      "case_name_sm": "Regarding the question of the cases that have not been answered by the branch offices SM",
+      "case_name_tg": "Regarding the question of the cases that have not been answered by the branch offices TG",
+      "case_name_af": "Regarding the question of the cases that have not been answered by the branch offices AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 2,
+      "questions": [
+        {
+          "$oid": "66757b76fd40ac084cd584b2"
+        },
+        {
+          "$oid": "66757c5bfd40ac084cd5856e"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757926fd40ac084cd5836d"
+      }
+    },
+    {
+      "case_name_en": "Regarding the question of the cases that have not been answered by the branch offices",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች ምላሽ ያልሰጡባቸው ጉዳዮች ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding the question of the cases that have not been answered by the branch offices OR",
+      "case_name_sm": "Regarding the question of the cases that have not been answered by the branch offices SM",
+      "case_name_tg": "Regarding the question of the cases that have not been answered by the branch offices TG",
+      "case_name_af": "Regarding the question of the cases that have not been answered by the branch offices AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 2,
+      "questions": [
+        {
+          "$oid": "66757b76fd40ac084cd584b2"
+        },
+        {
+          "$oid": "66757c5bfd40ac084cd5856e"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757926fd40ac084cd5836d"
+      }
+    },
+    {
+      "case_name_en": "Regarding the question of the cases that have not been answered by the branch offices",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች ምላሽ ያልሰጡባቸው ጉዳዮች ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding the question of the cases that have not been answered by the branch offices OR",
+      "case_name_sm": "Regarding the question of the cases that have not been answered by the branch offices SM",
+      "case_name_tg": "Regarding the question of the cases that have not been answered by the branch offices TG",
+      "case_name_af": "Regarding the question of the cases that have not been answered by the branch offices AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757b76fd40ac084cd584b2"
+        },
+        {
+          "$oid": "66757c5bfd40ac084cd5856e"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757926fd40ac084cd5836d"
+      }
+    },
+    {
+      "case_name_en": "Regarding the question of the cases that have not been answered by the branch offices",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች ምላሽ ያልሰጡባቸው ጉዳዮች ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding the question of the cases that have not been answered by the branch offices OR",
+      "case_name_sm": "Regarding the question of the cases that have not been answered by the branch offices SM",
+      "case_name_tg": "Regarding the question of the cases that have not been answered by the branch offices TG",
+      "case_name_af": "Regarding the question of the cases that have not been answered by the branch offices AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757b76fd40ac084cd584b2"
+        },
+        {
+          "$oid": "66757c5bfd40ac084cd5856e"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757926fd40ac084cd5836d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:59:18.919Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:46:56.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667579cbfd40ac084cd58434"
+  },
+  "case_list_id": {
+    "$oid": "667579cafd40ac084cd58432"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "667579cbfd40ac084cd58435"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:02:03.103Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757a98fd40ac084cd58479"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:05:28.572Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757b96fd40ac084cd5852d"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:09:42.768Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757ca3fd40ac084cd5866f"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:14:11.006Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667d1d5efbbd97c3f9b07021"
+      },
+      "updatedAt": {
+        "$date": "2024-06-27T08:05:50.385Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Submission of a request to change the house",
+      "case_name_am": "የቤት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submission of a request to change the house",
+      "case_name_sm": "Submission of a request to change the house",
+      "case_name_tg": "Submission of a request to change the house",
+      "case_name_af": "Submission of a request to change the house",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667579cafd40ac084cd58432"
+      }
+    },
+    {
+      "case_name_en": "Submission of a request to change the house",
+      "case_name_am": "የቤት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submission of a request to change the house",
+      "case_name_sm": "Submission of a request to change the house",
+      "case_name_tg": "Submission of a request to change the house",
+      "case_name_af": "Submission of a request to change the house",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757a98fd40ac084cd58473"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667579cafd40ac084cd58432"
+      }
+    },
+    {
+      "case_name_en": "Submission of a request to change the house",
+      "case_name_am": "የቤት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submission of a request to change the house",
+      "case_name_sm": "Submission of a request to change the house",
+      "case_name_tg": "Submission of a request to change the house",
+      "case_name_af": "Submission of a request to change the house",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757a98fd40ac084cd58473"
+        },
+        {
+          "$oid": "66757b96fd40ac084cd58526"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667579cafd40ac084cd58432"
+      }
+    },
+    {
+      "case_name_en": "Submission of a request to change the house",
+      "case_name_am": "የቤት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submission of a request to change the house",
+      "case_name_sm": "Submission of a request to change the house",
+      "case_name_tg": "Submission of a request to change the house",
+      "case_name_af": "Submission of a request to change the house",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757a98fd40ac084cd58473"
+        },
+        {
+          "$oid": "66757b96fd40ac084cd58526"
+        },
+        {
+          "$oid": "66757ca2fd40ac084cd58667"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667579cafd40ac084cd58432"
+      }
+    },
+    {
+      "case_name_en": "Submission of a request to change the house",
+      "case_name_am": "የቤት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submission of a request to change the house",
+      "case_name_sm": "Submission of a request to change the house",
+      "case_name_tg": "Submission of a request to change the house",
+      "case_name_af": "Submission of a request to change the house",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757a98fd40ac084cd58473"
+        },
+        {
+          "$oid": "66757b96fd40ac084cd58526"
+        },
+        {
+          "$oid": "66757ca2fd40ac084cd58667"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667579cafd40ac084cd58432"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:02:03.106Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T08:05:50.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757ce7fd40ac084cd5870b"
+  },
+  "case_list_id": {
+    "$oid": "66757ce6fd40ac084cd58709"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757ce7fd40ac084cd5870c"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:15:19.030Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757e76fd40ac084cd58806"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:21:58.527Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66757f46fd40ac084cd5884d"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:25:26.068Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697bfea20ff858ecdfed21a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T12:58:18.678Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1146356d4b37c1d8a4fc3"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:49:07.073Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Booklet and map request",
+      "case_name_am": "የቡክሌት እና ካርታ እንዲስተካከልልኝ ጥያቄ",
+      "case_name_or": "Booklet and map request",
+      "case_name_sm": "Booklet and map request",
+      "case_name_tg": "Booklet and map request",
+      "case_name_af": "Booklet and map request",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757ce6fd40ac084cd58709"
+      }
+    },
+    {
+      "case_name_en": "Booklet and map request",
+      "case_name_am": "የቡክሌት እና ካርታ እንዲስተካከልልኝ ጥያቄ",
+      "case_name_or": "Booklet and map request",
+      "case_name_sm": "Booklet and map request",
+      "case_name_tg": "Booklet and map request",
+      "case_name_af": "Booklet and map request",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757e76fd40ac084cd58800"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757ce6fd40ac084cd58709"
+      }
+    },
+    {
+      "case_name_en": "Booklet and map request",
+      "case_name_am": "የቡክሌት እና ካርታ እንዲስተካከልልኝ ጥያቄ",
+      "case_name_or": "Booklet and map request",
+      "case_name_sm": "Booklet and map request",
+      "case_name_tg": "Booklet and map request",
+      "case_name_af": "Booklet and map request",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757e76fd40ac084cd58800"
+        },
+        {
+          "$oid": "66757f45fd40ac084cd58845"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757ce6fd40ac084cd58709"
+      }
+    },
+    {
+      "case_name_en": "Booklet and map request",
+      "case_name_am": "የቡክሌት እና ካርታ እንዲስተካከልልኝ ጥያቄ",
+      "case_name_or": "Booklet and map request OR",
+      "case_name_sm": "Booklet and map request SO",
+      "case_name_tg": "Booklet and map request TI",
+      "case_name_af": "Booklet and map request AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757e76fd40ac084cd58800"
+        },
+        {
+          "$oid": "66757f45fd40ac084cd58845"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757ce6fd40ac084cd58709"
+      }
+    },
+    {
+      "case_name_en": "Booklet and map request",
+      "case_name_am": "የቡክሌት እና ካርታ እንዲስተካከልልኝ ጥያቄ",
+      "case_name_or": "Booklet and map request OR",
+      "case_name_sm": "Booklet and map request SO",
+      "case_name_tg": "Booklet and map request TI",
+      "case_name_af": "Booklet and map request AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66757e76fd40ac084cd58800"
+        },
+        {
+          "$oid": "66757f45fd40ac084cd58845"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757ce6fd40ac084cd58709"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:15:19.033Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:49:07.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757f5afd40ac084cd5888b"
+  },
+  "case_list_id": {
+    "$oid": "66757f5afd40ac084cd58889"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757f5afd40ac084cd5888c"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:25:46.940Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667580f2fd40ac084cd58971"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:32:34.982Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Regarding payment requests submitted by branches and centers",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች እና በማዕከል ለሚቀርቡ የክፍያ ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding payment requests submitted by branches and centers or",
+      "case_name_sm": "Regarding payment requests submitted by branches and centers so",
+      "case_name_tg": "Regarding payment requests submitted by branches and centers tg",
+      "case_name_af": "Regarding payment requests submitted by branches and centers af",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757f5afd40ac084cd58889"
+      }
+    },
+    {
+      "case_name_en": "Regarding payment requests submitted by branches and centers",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች እና በማዕከል ለሚቀርቡ የክፍያ ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding payment requests submitted by branches and centers or",
+      "case_name_sm": "Regarding payment requests submitted by branches and centers so",
+      "case_name_tg": "Regarding payment requests submitted by branches and centers tg",
+      "case_name_af": "Regarding payment requests submitted by branches and centers af",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667580f2fd40ac084cd5896b"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757f5afd40ac084cd58889"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:25:46.943Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:32:34.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757fccfd40ac084cd58924"
+  },
+  "case_list_id": {
+    "$oid": "66757fccfd40ac084cd58922"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757fccfd40ac084cd58925"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:27:40.422Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667580f7fd40ac084cd58985"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:32:39.710Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667581acfd40ac084cd58a7e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:35:40.751Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c03320ff858ecdfed48b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T12:59:31.282Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698bfc34fe70af0ac09674d"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:09:55.921Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698c0154fe70af0ac096992"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:11:17.584Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1149b56d4b37c1d8a55e2"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:50:03.206Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Let the court order and decision be executed",
+      "case_name_am": "የፍርድ ቤት ትዕዛዝ  እና ውሳኔ ይፈፀምልኝ",
+      "case_name_or": "Let the court order and decision be executed",
+      "case_name_sm": "Let the court order and decision be executed",
+      "case_name_tg": "Let the court order and decision be executed",
+      "case_name_af": "Let the court order and decision be executed",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757fccfd40ac084cd58922"
+      }
+    },
+    {
+      "case_name_en": "Let the court order and decision be executed",
+      "case_name_am": "የፍርድ ቤት ትዕዛዝ  እና ውሳኔ ይፈፀምልኝ",
+      "case_name_or": "Let the court order and decision be executed",
+      "case_name_sm": "Let the court order and decision be executed",
+      "case_name_tg": "Let the court order and decision be executed",
+      "case_name_af": "Let the court order and decision be executed",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667580f7fd40ac084cd5897d"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757fccfd40ac084cd58922"
+      }
+    },
+    {
+      "case_name_en": "Let the court order and decision be executed",
+      "case_name_am": "የፍርድ ቤት ትዕዛዝ  እና ውሳኔ ይፈፀምልኝ",
+      "case_name_or": "Let the court order and decision be executed",
+      "case_name_sm": "Let the court order and decision be executed",
+      "case_name_tg": "Let the court order and decision be executed",
+      "case_name_af": "Let the court order and decision be executed",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667580f7fd40ac084cd5897d"
+        },
+        {
+          "$oid": "667581acfd40ac084cd58a76"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757fccfd40ac084cd58922"
+      }
+    },
+    {
+      "case_name_en": "Let the court order and decision be executed",
+      "case_name_am": "የፍርድ ቤት ትዕዛዝ  እና ውሳኔ ይፈፀምልኝ",
+      "case_name_or": "Let the court order and decision be executed OR",
+      "case_name_sm": "Let the court order and decision be executed SO",
+      "case_name_tg": "Let the court order and decision be executed TI",
+      "case_name_af": "Let the court order and decision be executed AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667580f7fd40ac084cd5897d"
+        },
+        {
+          "$oid": "667581acfd40ac084cd58a76"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757fccfd40ac084cd58922"
+      }
+    },
+    {
+      "case_name_en": "Let the court order and decision be executed",
+      "case_name_am": "የፍርድ ቤት ትዕዛዝ  እና ውሳኔ ይፈፀምልኝ",
+      "case_name_or": "Let the court order and decision be executed OR",
+      "case_name_sm": "Let the court order and decision be executed SO",
+      "case_name_tg": "Let the court order and decision be executed TI",
+      "case_name_af": "Let the court order and decision be executed AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667580f7fd40ac084cd5897d"
+        },
+        {
+          "$oid": "667581acfd40ac084cd58a76"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757fccfd40ac084cd58922"
+      }
+    },
+    {
+      "case_name_en": "Let the court order and decision be executed",
+      "case_name_am": "የፍርድ ቤት ትዕዛዝ  እና ውሳኔ ይፈፀምልኝ",
+      "case_name_or": "Let the court order and decision be executed OR",
+      "case_name_sm": "Let the court order and decision be executed SO",
+      "case_name_tg": "Let the court order and decision be executed TI",
+      "case_name_af": "Let the court order and decision be executed AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667580f7fd40ac084cd5897d"
+        },
+        {
+          "$oid": "667581acfd40ac084cd58a76"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757fccfd40ac084cd58922"
+      }
+    },
+    {
+      "case_name_en": "Let the court order and decision be executed",
+      "case_name_am": "የፍርድ ቤት ትዕዛዝ  እና ውሳኔ ይፈፀምልኝ",
+      "case_name_or": "Let the court order and decision be executed OR",
+      "case_name_sm": "Let the court order and decision be executed SO",
+      "case_name_tg": "Let the court order and decision be executed TI",
+      "case_name_af": "Let the court order and decision be executed AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667580f7fd40ac084cd5897d"
+        },
+        {
+          "$oid": "667581acfd40ac084cd58a76"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757fccfd40ac084cd58922"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:27:40.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:50:03.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66758273fd40ac084cd58b82"
+  },
+  "case_list_id": {
+    "$oid": "66758273fd40ac084cd58b80"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b83"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:38:59.380Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667583d6fd40ac084cd58bfa"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:44:54.430Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66758561fd40ac084cd58c42"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:51:29.699Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667586edfd40ac084cd58d6f"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:58:05.689Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c06620ff858ecdfed6fc"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:00:22.138Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66990d734fe70af0ac09c84d"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T12:41:23.027Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66990f644fe70af0ac09c92e"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T12:49:40.466Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66990faf4fe70af0ac09cabe"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T12:50:55.936Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669910224fe70af0ac09ccf2"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T12:52:50.212Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669910de4fe70af0ac09ce12"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T12:55:58.821Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1176356d4b37c1d8a647f"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T15:01:55.072Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a2c79cbe5c30eee794b25e"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T21:46:04.912Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        },
+        {
+          "$oid": "66758561fd40ac084cd58c3a"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        },
+        {
+          "$oid": "66758561fd40ac084cd58c3a"
+        },
+        {
+          "$oid": "667586edfd40ac084cd58d67"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract OR",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract SO",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract TI",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        },
+        {
+          "$oid": "66758561fd40ac084cd58c3a"
+        },
+        {
+          "$oid": "667586edfd40ac084cd58d67"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract OR",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract SO",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract TI",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        },
+        {
+          "$oid": "66758561fd40ac084cd58c3a"
+        },
+        {
+          "$oid": "667586edfd40ac084cd58d67"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract OR",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract SO",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract TI",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        },
+        {
+          "$oid": "66758561fd40ac084cd58c3a"
+        },
+        {
+          "$oid": "667586edfd40ac084cd58d67"
+        },
+        {
+          "$oid": "66990f644fe70af0ac09c928"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract OR",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract SO",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract TI",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        },
+        {
+          "$oid": "66758561fd40ac084cd58c3a"
+        },
+        {
+          "$oid": "667586edfd40ac084cd58d67"
+        },
+        {
+          "$oid": "66990f644fe70af0ac09c928"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract OR",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract SO",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract TI",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        },
+        {
+          "$oid": "66758561fd40ac084cd58c3a"
+        },
+        {
+          "$oid": "667586edfd40ac084cd58d67"
+        },
+        {
+          "$oid": "66990f644fe70af0ac09c928"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract OR",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract SO",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract TI",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        },
+        {
+          "$oid": "66758561fd40ac084cd58c3a"
+        },
+        {
+          "$oid": "667586edfd40ac084cd58d67"
+        },
+        {
+          "$oid": "66990f644fe70af0ac09c928"
+        },
+        {
+          "$oid": "669910de4fe70af0ac09ce0c"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract OR",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract SO",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract TI",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        },
+        {
+          "$oid": "66758561fd40ac084cd58c3a"
+        },
+        {
+          "$oid": "667586edfd40ac084cd58d67"
+        },
+        {
+          "$oid": "66990f644fe70af0ac09c928"
+        },
+        {
+          "$oid": "669910de4fe70af0ac09ce0c"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    },
+    {
+      "case_name_en": "Submitting a business/residential request that has passed without a contract",
+      "case_name_am": "ውል ሳይዋዋሉ ያለፋቸው ንግድ/መኖሪያ ቤት ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a business/residential request that has passed without a contract OR",
+      "case_name_sm": "Submitting a business/residential request that has passed without a contract SO",
+      "case_name_tg": "Submitting a business/residential request that has passed without a contract TI",
+      "case_name_af": "Submitting a business/residential request that has passed without a contract AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "667583d6fd40ac084cd58bf4"
+        },
+        {
+          "$oid": "66758561fd40ac084cd58c3a"
+        },
+        {
+          "$oid": "667586edfd40ac084cd58d67"
+        },
+        {
+          "$oid": "66990f644fe70af0ac09c928"
+        },
+        {
+          "$oid": "669910de4fe70af0ac09ce0c"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758273fd40ac084cd58b80"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:38:59.382Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T21:46:04.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66758727fd40ac084cd58dcf"
+  },
+  "case_list_id": {
+    "$oid": "66758727fd40ac084cd58dcd"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66758727fd40ac084cd58dd0"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:59:03.327Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66758817fd40ac084cd58e22"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T14:03:03.317Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c0b720ff858ecdfed93e"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:01:43.383Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698c0bc4fe70af0ac096cfe"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:14:04.047Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698c1884fe70af0ac096e1d"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:17:28.905Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698c2014fe70af0ac09704d"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:19:29.500Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a114b956d4b37c1d8a589d"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:50:33.185Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": " Submitting a request for a refund",
+      "case_name_am": "ገንዘብ ተመላሽ ይገረግልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submitting a request for a refund",
+      "case_name_sm": " Submitting a request for a refund",
+      "case_name_tg": " Submitting a request for a refund",
+      "case_name_af": " Submitting a request for a refund",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758727fd40ac084cd58dcd"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request for a refund",
+      "case_name_am": "ገንዘብ ተመላሽ ይገረግልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submitting a request for a refund",
+      "case_name_sm": " Submitting a request for a refund",
+      "case_name_tg": " Submitting a request for a refund",
+      "case_name_af": " Submitting a request for a refund",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66758817fd40ac084cd58e1a"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758727fd40ac084cd58dcd"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request for a refund",
+      "case_name_am": "ገንዘብ ተመላሽ ይደረግልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submitting a request for a refund OR",
+      "case_name_sm": " Submitting a request for a refund SO",
+      "case_name_tg": " Submitting a request for a refund TI",
+      "case_name_af": " Submitting a request for a refund AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66758817fd40ac084cd58e1a"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758727fd40ac084cd58dcd"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request for a refund",
+      "case_name_am": "ገንዘብ ተመላሽ ይደረግልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submitting a request for a refund OR",
+      "case_name_sm": " Submitting a request for a refund SO",
+      "case_name_tg": " Submitting a request for a refund TI",
+      "case_name_af": " Submitting a request for a refund AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66758817fd40ac084cd58e1a"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758727fd40ac084cd58dcd"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request for a refund",
+      "case_name_am": "ገንዘብ ተመላሽ ይደረግልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submitting a request for a refund OR",
+      "case_name_sm": " Submitting a request for a refund SO",
+      "case_name_tg": " Submitting a request for a refund TI",
+      "case_name_af": " Submitting a request for a refund AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66758817fd40ac084cd58e1a"
+        },
+        {
+          "$oid": "6698c1884fe70af0ac096e15"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758727fd40ac084cd58dcd"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request for a refund",
+      "case_name_am": "ገንዘብ ተመላሽ ይደረግልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submitting a request for a refund OR",
+      "case_name_sm": " Submitting a request for a refund SO",
+      "case_name_tg": " Submitting a request for a refund TI",
+      "case_name_af": " Submitting a request for a refund AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66758817fd40ac084cd58e1a"
+        },
+        {
+          "$oid": "6698c1884fe70af0ac096e15"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758727fd40ac084cd58dcd"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request for a refund",
+      "case_name_am": "ገንዘብ ተመላሽ ይደረግልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submitting a request for a refund OR",
+      "case_name_sm": " Submitting a request for a refund SO",
+      "case_name_tg": " Submitting a request for a refund TI",
+      "case_name_af": " Submitting a request for a refund AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "66758817fd40ac084cd58e1a"
+        },
+        {
+          "$oid": "6698c1884fe70af0ac096e15"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758727fd40ac084cd58dcd"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:59:03.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:50:33.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66758859fd40ac084cd58e7b"
+  },
+  "case_list_id": {
+    "$oid": "66758859fd40ac084cd58e79"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66758859fd40ac084cd58e7c"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T14:04:09.262Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675894afd40ac084cd58ed2"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T14:08:10.664Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66758a68fd40ac084cd58f23"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T14:12:56.908Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c0e820ff858ecdfedb20"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:02:32.514Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a114f656d4b37c1d8a5d70"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:51:34.072Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Submission of key delivery request",
+      "case_name_am": "የቁልፍ መረከቢያ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submission of key delivery request",
+      "case_name_sm": "Submission of key delivery request",
+      "case_name_tg": "Submission of key delivery request",
+      "case_name_af": "Submission of key delivery request",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758859fd40ac084cd58e79"
+      }
+    },
+    {
+      "case_name_en": "Submission of key delivery request",
+      "case_name_am": "የቁልፍ መረከቢያ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submission of key delivery request",
+      "case_name_sm": "Submission of key delivery request",
+      "case_name_tg": "Submission of key delivery request",
+      "case_name_af": "Submission of key delivery request",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675894afd40ac084cd58eca"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758859fd40ac084cd58e79"
+      }
+    },
+    {
+      "case_name_en": "Submission of key delivery request",
+      "case_name_am": "የቁልፍ መረከቢያ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submission of key delivery request",
+      "case_name_sm": "Submission of key delivery request",
+      "case_name_tg": "Submission of key delivery request",
+      "case_name_af": "Submission of key delivery request",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675894afd40ac084cd58eca"
+        },
+        {
+          "$oid": "66758a68fd40ac084cd58f1b"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758859fd40ac084cd58e79"
+      }
+    },
+    {
+      "case_name_en": "Submission of key delivery request",
+      "case_name_am": "የቁልፍ መረከቢያ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submission of key delivery request OR",
+      "case_name_sm": "Submission of key delivery request SO",
+      "case_name_tg": "Submission of key delivery request TI",
+      "case_name_af": "Submission of key delivery request AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675894afd40ac084cd58eca"
+        },
+        {
+          "$oid": "66758a68fd40ac084cd58f1b"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758859fd40ac084cd58e79"
+      }
+    },
+    {
+      "case_name_en": "Submission of key delivery request",
+      "case_name_am": "የቁልፍ መረከቢያ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submission of key delivery request OR",
+      "case_name_sm": "Submission of key delivery request SO",
+      "case_name_tg": "Submission of key delivery request TI",
+      "case_name_af": "Submission of key delivery request AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675894afd40ac084cd58eca"
+        },
+        {
+          "$oid": "66758a68fd40ac084cd58f1b"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758859fd40ac084cd58e79"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T14:04:09.265Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:51:34.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675b03cfd40ac084cd58fd5"
+  },
+  "case_list_id": {
+    "$oid": "6675b03cfd40ac084cd58fd3"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675b03cfd40ac084cd58fd6"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T16:54:20.959Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675b155fd40ac084cd59067"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T16:59:01.701Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675b199fd40ac084cd590ae"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T17:00:09.593Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667d1ceefbbd97c3f9b06aa0"
+      },
+      "updatedAt": {
+        "$date": "2024-06-27T08:03:58.806Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Payment request",
+      "case_name_am": "የክፍያ ጥያቄ",
+      "case_name_or": "Payment request",
+      "case_name_sm": "Payment request",
+      "case_name_tg": "Payment request",
+      "case_name_af": "Payment request",
+      "division": {
+        "$oid": "6675415dfd40ac084cd5779f"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675b03cfd40ac084cd58fd3"
+      }
+    },
+    {
+      "case_name_en": "Payment request",
+      "case_name_am": "የክፍያ ጥያቄ",
+      "case_name_or": "Payment request",
+      "case_name_sm": "Payment request",
+      "case_name_tg": "Payment request",
+      "case_name_af": "Payment request",
+      "division": {
+        "$oid": "6675415dfd40ac084cd5779f"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675b155fd40ac084cd59063"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675b03cfd40ac084cd58fd3"
+      }
+    },
+    {
+      "case_name_en": "Payment request",
+      "case_name_am": "የክፍያ ጥያቄ",
+      "case_name_or": "Payment request",
+      "case_name_sm": "Payment request",
+      "case_name_tg": "Payment request",
+      "case_name_af": "Payment request",
+      "division": {
+        "$oid": "6675415dfd40ac084cd5779f"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675b155fd40ac084cd59063"
+        },
+        {
+          "$oid": "6675b199fd40ac084cd590aa"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675b03cfd40ac084cd58fd3"
+      }
+    },
+    {
+      "case_name_en": "Payment request",
+      "case_name_am": "የክፍያ ጥያቄ",
+      "case_name_or": "Payment request",
+      "case_name_sm": "Payment request",
+      "case_name_tg": "Payment request",
+      "case_name_af": "Payment request",
+      "division": {
+        "$oid": "6675415dfd40ac084cd5779f"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675b155fd40ac084cd59063"
+        },
+        {
+          "$oid": "6675b199fd40ac084cd590aa"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675b03cfd40ac084cd58fd3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T16:54:20.962Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T08:03:58.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675ba12fd40ac084cd5911d"
+  },
+  "case_list_id": {
+    "$oid": "6675ba12fd40ac084cd5911b"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T17:36:18.832Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675bb26fd40ac084cd59170"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T17:40:54.523Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675bbe0fd40ac084cd591bd"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T17:44:00.129Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667d1d13fbbd97c3f9b06c77"
+      },
+      "updatedAt": {
+        "$date": "2024-06-27T08:04:35.069Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667d1d2cfbbd97c3f9b06dad"
+      },
+      "updatedAt": {
+        "$date": "2024-06-27T08:05:00.090Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c14420ff858ecdfede0c"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:04:04.090Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698c4724fe70af0ac0974c9"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:29:54.040Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698c4f94fe70af0ac097771"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:32:09.029Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6699080e4fe70af0ac09bd62"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T12:18:22.998Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669908d84fe70af0ac09bff7"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T12:21:44.254Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a114c956d4b37c1d8a5aad"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:50:49.013Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name",
+      "case_name_sm": " Submit a request to correct my name",
+      "case_name_tg": " Submit a request to correct my name",
+      "case_name_af": " Submit a request to correct my name",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    },
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name",
+      "case_name_sm": " Submit a request to correct my name",
+      "case_name_tg": " Submit a request to correct my name",
+      "case_name_af": " Submit a request to correct my name",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bb26fd40ac084cd59168"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    },
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name",
+      "case_name_sm": " Submit a request to correct my name",
+      "case_name_tg": " Submit a request to correct my name",
+      "case_name_af": " Submit a request to correct my name",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bb26fd40ac084cd59168"
+        },
+        {
+          "$oid": "6675bbdffd40ac084cd591b5"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    },
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name",
+      "case_name_sm": " Submit a request to correct my name",
+      "case_name_tg": " Submit a request to correct my name",
+      "case_name_af": " Submit a request to correct my name",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bb26fd40ac084cd59168"
+        },
+        {
+          "$oid": "6675bbdffd40ac084cd591b5"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    },
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name",
+      "case_name_sm": " Submit a request to correct my name",
+      "case_name_tg": " Submit a request to correct my name",
+      "case_name_af": " Submit a request to correct my name",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bb26fd40ac084cd59168"
+        },
+        {
+          "$oid": "6675bbdffd40ac084cd591b5"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    },
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name OR",
+      "case_name_sm": " Submit a request to correct my name SO",
+      "case_name_tg": " Submit a request to correct my name TI",
+      "case_name_af": " Submit a request to correct my name AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bb26fd40ac084cd59168"
+        },
+        {
+          "$oid": "6675bbdffd40ac084cd591b5"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    },
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name OR",
+      "case_name_sm": " Submit a request to correct my name SO",
+      "case_name_tg": " Submit a request to correct my name TI",
+      "case_name_af": " Submit a request to correct my name AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bb26fd40ac084cd59168"
+        },
+        {
+          "$oid": "6675bbdffd40ac084cd591b5"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    },
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name OR",
+      "case_name_sm": " Submit a request to correct my name SO",
+      "case_name_tg": " Submit a request to correct my name TI",
+      "case_name_af": " Submit a request to correct my name AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bb26fd40ac084cd59168"
+        },
+        {
+          "$oid": "6675bbdffd40ac084cd591b5"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    },
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name OR",
+      "case_name_sm": " Submit a request to correct my name SO",
+      "case_name_tg": " Submit a request to correct my name TI",
+      "case_name_af": " Submit a request to correct my name AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bb26fd40ac084cd59168"
+        },
+        {
+          "$oid": "6675bbdffd40ac084cd591b5"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    },
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name OR",
+      "case_name_sm": " Submit a request to correct my name SO",
+      "case_name_tg": " Submit a request to correct my name TI",
+      "case_name_af": " Submit a request to correct my name AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bb26fd40ac084cd59168"
+        },
+        {
+          "$oid": "6675bbdffd40ac084cd591b5"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    },
+    {
+      "case_name_en": " Submit a request to correct my name",
+      "case_name_am": "ስም ይስተካከልልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": " Submit a request to correct my name OR",
+      "case_name_sm": " Submit a request to correct my name SO",
+      "case_name_tg": " Submit a request to correct my name TI",
+      "case_name_af": " Submit a request to correct my name AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bb26fd40ac084cd59168"
+        },
+        {
+          "$oid": "6675bbdffd40ac084cd591b5"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T17:36:18.835Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:50:49.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675be13fd40ac084cd59270"
+  },
+  "case_list_id": {
+    "$oid": "6675be13fd40ac084cd5926e"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675be13fd40ac084cd59271"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T17:53:23.231Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675bfa6fd40ac084cd592c1"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:00:06.151Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675c24bfd40ac084cd5930f"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:11:23.691Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675c463fd40ac084cd5935c"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:20:19.490Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667d1da1fbbd97c3f9b073de"
+      },
+      "updatedAt": {
+        "$date": "2024-06-27T08:06:57.170Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c1ab20ff858ecdfee0d5"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:05:47.043Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1149156d4b37c1d8a53ea"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:49:53.539Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": " Submitting a request to terminate the contract",
+      "case_name_am": "ውል ይቋረጥልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to terminate the contract",
+      "case_name_sm": " Submitting a request to terminate the contract",
+      "case_name_tg": "Submitting a request to terminate the contract",
+      "case_name_af": "Submitting a request to terminate the contract",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675be13fd40ac084cd5926e"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request to terminate the contract",
+      "case_name_am": "ውል ይቋረጥልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to terminate the contract",
+      "case_name_sm": " Submitting a request to terminate the contract",
+      "case_name_tg": "Submitting a request to terminate the contract",
+      "case_name_af": "Submitting a request to terminate the contract",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bfa5fd40ac084cd592bb"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675be13fd40ac084cd5926e"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request to terminate the contract",
+      "case_name_am": "ውል ይቋረጥልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to terminate the contract",
+      "case_name_sm": " Submitting a request to terminate the contract",
+      "case_name_tg": "Submitting a request to terminate the contract",
+      "case_name_af": "Submitting a request to terminate the contract",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bfa5fd40ac084cd592bb"
+        },
+        {
+          "$oid": "6675c24bfd40ac084cd59308"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675be13fd40ac084cd5926e"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request to terminate the contract",
+      "case_name_am": "ውል ይቋረጥልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to terminate the contract",
+      "case_name_sm": " Submitting a request to terminate the contract",
+      "case_name_tg": "Submitting a request to terminate the contract",
+      "case_name_af": "Submitting a request to terminate the contract",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bfa5fd40ac084cd592bb"
+        },
+        {
+          "$oid": "6675c24bfd40ac084cd59308"
+        },
+        {
+          "$oid": "6675c463fd40ac084cd59354"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675be13fd40ac084cd5926e"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request to terminate the contract",
+      "case_name_am": "ውል ይቋረጥልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to terminate the contract",
+      "case_name_sm": " Submitting a request to terminate the contract",
+      "case_name_tg": "Submitting a request to terminate the contract",
+      "case_name_af": "Submitting a request to terminate the contract",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bfa5fd40ac084cd592bb"
+        },
+        {
+          "$oid": "6675c24bfd40ac084cd59308"
+        },
+        {
+          "$oid": "6675c463fd40ac084cd59354"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675be13fd40ac084cd5926e"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request to terminate the contract",
+      "case_name_am": "ውል ይቋረጥልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to terminate the contract OR",
+      "case_name_sm": " Submitting a request to terminate the contract SO",
+      "case_name_tg": "Submitting a request to terminate the contract TI",
+      "case_name_af": "Submitting a request to terminate the contract AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bfa5fd40ac084cd592bb"
+        },
+        {
+          "$oid": "6675c24bfd40ac084cd59308"
+        },
+        {
+          "$oid": "6675c463fd40ac084cd59354"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675be13fd40ac084cd5926e"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request to terminate the contract",
+      "case_name_am": "ውል ይቋረጥልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to terminate the contract OR",
+      "case_name_sm": " Submitting a request to terminate the contract SO",
+      "case_name_tg": "Submitting a request to terminate the contract TI",
+      "case_name_af": "Submitting a request to terminate the contract AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675bfa5fd40ac084cd592bb"
+        },
+        {
+          "$oid": "6675c24bfd40ac084cd59308"
+        },
+        {
+          "$oid": "6675c463fd40ac084cd59354"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675be13fd40ac084cd5926e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T17:53:23.233Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:49:53.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675c513fd40ac084cd593bb"
+  },
+  "case_list_id": {
+    "$oid": "6675c513fd40ac084cd593b9"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675c513fd40ac084cd593bc"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:23:15.233Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675c66dfd40ac084cd5940c"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:29:01.971Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c1f320ff858ecdfee37d"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:06:59.024Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1146856d4b37c1d8a4fd2"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:49:12.094Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Unfinished construction and infrastructure works",
+      "case_name_am": "የግንባታ እና መሰረተ ልማት ስራዎች ያልተጠናቀቀ ጥያቄ",
+      "case_name_or": "Unfinished construction and infrastructure works",
+      "case_name_sm": "Unfinished construction and infrastructure works",
+      "case_name_tg": "Unfinished construction and infrastructure works",
+      "case_name_af": "Unfinished construction and infrastructure works",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c513fd40ac084cd593b9"
+      }
+    },
+    {
+      "case_name_en": "Unfinished construction and infrastructure works",
+      "case_name_am": "የግንባታ እና መሰረተ ልማት ስራዎች ያልተጠናቀቀ ጥያቄ",
+      "case_name_or": "Unfinished construction and infrastructure works",
+      "case_name_sm": "Unfinished construction and infrastructure works",
+      "case_name_tg": "Unfinished construction and infrastructure works",
+      "case_name_af": "Unfinished construction and infrastructure works",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675c66dfd40ac084cd59405"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c513fd40ac084cd593b9"
+      }
+    },
+    {
+      "case_name_en": "Unfinished construction and infrastructure works",
+      "case_name_am": "የግንባታ እና መሰረተ ልማት ስራዎች ያልተጠናቀቀ ጥያቄ",
+      "case_name_or": "Unfinished construction and infrastructure works OR",
+      "case_name_sm": "Unfinished construction and infrastructure works SO",
+      "case_name_tg": "Unfinished construction and infrastructure works TI",
+      "case_name_af": "Unfinished construction and infrastructure works AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675c66dfd40ac084cd59405"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c513fd40ac084cd593b9"
+      }
+    },
+    {
+      "case_name_en": "Unfinished construction and infrastructure works",
+      "case_name_am": "የግንባታ እና መሰረተ ልማት ስራዎች ያልተጠናቀቀ ጥያቄ",
+      "case_name_or": "Unfinished construction and infrastructure works OR",
+      "case_name_sm": "Unfinished construction and infrastructure works SO",
+      "case_name_tg": "Unfinished construction and infrastructure works TI",
+      "case_name_af": "Unfinished construction and infrastructure works AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675c66dfd40ac084cd59405"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c513fd40ac084cd593b9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T18:23:15.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:49:12.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675c774fd40ac084cd5945e"
+  },
+  "case_list_id": {
+    "$oid": "6675c774fd40ac084cd5945c"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675c774fd40ac084cd5945f"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:33:24.708Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675c90ffd40ac084cd594b4"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:40:15.314Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675cae6fd40ac084cd594ff"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:48:06.192Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c2b020ff858ecdfeebce"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:10:08.000Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1144656d4b37c1d8a4a6e"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:48:38.151Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1180256d4b37c1d8a68a6"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T15:04:34.594Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1184456d4b37c1d8a6b6a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T15:05:40.717Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Regarding payment requests submitted by branches and centers",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች እና በማዕከል ለሚቀርቡ የክፍያ ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding payment requests submitted by branches and centers",
+      "case_name_sm": "Regarding payment requests submitted by branches and centers",
+      "case_name_tg": "Regarding payment requests submitted by branches and centers",
+      "case_name_af": "Regarding payment requests submitted by branches and centers",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c774fd40ac084cd5945c"
+      }
+    },
+    {
+      "case_name_en": "Regarding payment requests submitted by branches and centers",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች እና በማዕከል ለሚቀርቡ የክፍያ ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding payment requests submitted by branches and centers",
+      "case_name_sm": "Regarding payment requests submitted by branches and centers",
+      "case_name_tg": "Regarding payment requests submitted by branches and centers",
+      "case_name_af": "Regarding payment requests submitted by branches and centers",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675c90ffd40ac084cd594ae"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c774fd40ac084cd5945c"
+      }
+    },
+    {
+      "case_name_en": "Regarding payment requests submitted by branches and centers",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች እና በማዕከል ለሚቀርቡ የክፍያ ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding payment requests submitted by branches and centers",
+      "case_name_sm": "Regarding payment requests submitted by branches and centers",
+      "case_name_tg": "Regarding payment requests submitted by branches and centers",
+      "case_name_af": "Regarding payment requests submitted by branches and centers",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675c90ffd40ac084cd594ae"
+        },
+        {
+          "$oid": "6675cae5fd40ac084cd594f3"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c774fd40ac084cd5945c"
+      }
+    },
+    {
+      "case_name_en": "Regarding payment requests submitted by branches and centers",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች እና በማዕከል ለሚቀርቡ የክፍያ ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding payment requests submitted by branches and centers OR",
+      "case_name_sm": "Regarding payment requests submitted by branches and centers SO",
+      "case_name_tg": "Regarding payment requests submitted by branches and centers TI",
+      "case_name_af": "Regarding payment requests submitted by branches and centers AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675c90ffd40ac084cd594ae"
+        },
+        {
+          "$oid": "6675cae5fd40ac084cd594f3"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c774fd40ac084cd5945c"
+      }
+    },
+    {
+      "case_name_en": "Regarding payment requests submitted by branches and centers",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች እና በማዕከል ለሚቀርቡ የክፍያ ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding payment requests submitted by branches and centers OR",
+      "case_name_sm": "Regarding payment requests submitted by branches and centers SO",
+      "case_name_tg": "Regarding payment requests submitted by branches and centers TI",
+      "case_name_af": "Regarding payment requests submitted by branches and centers AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675c90ffd40ac084cd594ae"
+        },
+        {
+          "$oid": "6675cae5fd40ac084cd594f3"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c774fd40ac084cd5945c"
+      }
+    },
+    {
+      "case_name_en": "Regarding payment requests submitted by branches and centers",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች እና በማዕከል ለሚቀርቡ የክፍያ ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding payment requests submitted by branches and centers OR",
+      "case_name_sm": "Regarding payment requests submitted by branches and centers SO",
+      "case_name_tg": "Regarding payment requests submitted by branches and centers TI",
+      "case_name_af": "Regarding payment requests submitted by branches and centers AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675c90ffd40ac084cd594ae"
+        },
+        {
+          "$oid": "6675cae5fd40ac084cd594f3"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c774fd40ac084cd5945c"
+      }
+    },
+    {
+      "case_name_en": "Regarding payment requests submitted by branches and centers",
+      "case_name_am": "በቅርንጫፍ ጽ/ቤቶች እና በማዕከል ለሚቀርቡ የክፍያ ጥያቄ በተመለከተ",
+      "case_name_or": "Regarding payment requests submitted by branches and centers OR",
+      "case_name_sm": "Regarding payment requests submitted by branches and centers SO",
+      "case_name_tg": "Regarding payment requests submitted by branches and centers TI",
+      "case_name_af": "Regarding payment requests submitted by branches and centers AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675c90ffd40ac084cd594ae"
+        },
+        {
+          "$oid": "6675cae5fd40ac084cd594f3"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c774fd40ac084cd5945c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T18:33:24.710Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T15:05:40.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675dc23fd40ac084cd5959a"
+  },
+  "case_list_id": {
+    "$oid": "6675dc23fd40ac084cd59598"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675dc23fd40ac084cd5959b"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:01:39.912Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675dcabfd40ac084cd595eb"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:03:55.558Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675dd70fd40ac084cd59637"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:07:12.550Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675de26fd40ac084cd5968a"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:10:14.660Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c31020ff858ecdfeeee6"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:11:44.599Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1142356d4b37c1d8a465f"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:48:03.841Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Submitting a request to change the floor",
+      "case_name_am": "የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the floor",
+      "case_name_sm": "Submitting a request to change the floor",
+      "case_name_tg": "Submitting a request to change the floor",
+      "case_name_af": "Submitting a request to change the floor",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675dc23fd40ac084cd59598"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the floor",
+      "case_name_am": "የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the floor",
+      "case_name_sm": "Submitting a request to change the floor",
+      "case_name_tg": "Submitting a request to change the floor",
+      "case_name_af": "Submitting a request to change the floor",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675dcabfd40ac084cd595e5"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675dc23fd40ac084cd59598"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the floor",
+      "case_name_am": "የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the floor",
+      "case_name_sm": "Submitting a request to change the floor",
+      "case_name_tg": "Submitting a request to change the floor",
+      "case_name_af": "Submitting a request to change the floor",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675dcabfd40ac084cd595e5"
+        },
+        {
+          "$oid": "6675dd70fd40ac084cd59630"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675dc23fd40ac084cd59598"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the floor",
+      "case_name_am": "የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the floor",
+      "case_name_sm": "Submitting a request to change the floor",
+      "case_name_tg": "Submitting a request to change the floor",
+      "case_name_af": "Submitting a request to change the floor",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675dcabfd40ac084cd595e5"
+        },
+        {
+          "$oid": "6675dd70fd40ac084cd59630"
+        },
+        {
+          "$oid": "6675de26fd40ac084cd59682"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675dc23fd40ac084cd59598"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the floor",
+      "case_name_am": "የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the floor OR",
+      "case_name_sm": "Submitting a request to change the floor SO",
+      "case_name_tg": "Submitting a request to change the floor TI",
+      "case_name_af": "Submitting a request to change the floor AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675dcabfd40ac084cd595e5"
+        },
+        {
+          "$oid": "6675dd70fd40ac084cd59630"
+        },
+        {
+          "$oid": "6675de26fd40ac084cd59682"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675dc23fd40ac084cd59598"
+      }
+    },
+    {
+      "case_name_en": "Submitting a request to change the floor",
+      "case_name_am": "የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the floor OR",
+      "case_name_sm": "Submitting a request to change the floor SO",
+      "case_name_tg": "Submitting a request to change the floor TI",
+      "case_name_af": "Submitting a request to change the floor AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675dcabfd40ac084cd595e5"
+        },
+        {
+          "$oid": "6675dd70fd40ac084cd59630"
+        },
+        {
+          "$oid": "6675de26fd40ac084cd59682"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675dc23fd40ac084cd59598"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:01:39.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:48:03.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675df87fd40ac084cd596e8"
+  },
+  "case_list_id": {
+    "$oid": "6675df87fd40ac084cd596e6"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675df87fd40ac084cd596e9"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:16:07.265Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675e01cfd40ac084cd5973e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:18:36.456Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675e117fd40ac084cd5978b"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:22:47.345Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675e1effd40ac084cd597dd"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:26:23.949Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": " Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site",
+      "case_name_sm": " Submitting a request to change the site",
+      "case_name_tg": "Submitting a request to change the site",
+      "case_name_af": "Submitting a request to change the site",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675df87fd40ac084cd596e6"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site",
+      "case_name_sm": " Submitting a request to change the site",
+      "case_name_tg": "Submitting a request to change the site",
+      "case_name_af": "Submitting a request to change the site",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e01cfd40ac084cd59738"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675df87fd40ac084cd596e6"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site",
+      "case_name_sm": " Submitting a request to change the site",
+      "case_name_tg": "Submitting a request to change the site",
+      "case_name_af": "Submitting a request to change the site",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e01cfd40ac084cd59738"
+        },
+        {
+          "$oid": "6675e117fd40ac084cd59784"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675df87fd40ac084cd596e6"
+      }
+    },
+    {
+      "case_name_en": " Submitting a request to change the site",
+      "case_name_am": "የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Submitting a request to change the site",
+      "case_name_sm": " Submitting a request to change the site",
+      "case_name_tg": "Submitting a request to change the site",
+      "case_name_af": "Submitting a request to change the site",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e01cfd40ac084cd59738"
+        },
+        {
+          "$oid": "6675e117fd40ac084cd59784"
+        },
+        {
+          "$oid": "6675e1effd40ac084cd597d5"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675df87fd40ac084cd596e6"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:16:07.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:26:23.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e344fd40ac084cd598ba"
+  },
+  "case_list_id": {
+    "$oid": "6675e344fd40ac084cd598b8"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e344fd40ac084cd598bb"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:32:04.155Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675e3a0fd40ac084cd59910"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:33:36.744Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675e493fd40ac084cd5995d"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:37:39.770Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675e53bfd40ac084cd599ae"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:40:27.709Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66991fd94fe70af0ac09e9b9"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:59:53.454Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "Request to change house type (number of rooms)",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Request to change house type (number of rooms)",
+      "case_name_sm": "Request to change house type (number of rooms)",
+      "case_name_tg": "Request to change house type (number of rooms)",
+      "case_name_af": "Request to change house type (number of rooms)",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e344fd40ac084cd598b8"
+      }
+    },
+    {
+      "case_name_en": "Request to change house type (number of rooms)",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Request to change house type (number of rooms)",
+      "case_name_sm": "Request to change house type (number of rooms)",
+      "case_name_tg": "Request to change house type (number of rooms)",
+      "case_name_af": "Request to change house type (number of rooms)",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e3a0fd40ac084cd5990a"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e344fd40ac084cd598b8"
+      }
+    },
+    {
+      "case_name_en": "Request to change house type (number of rooms)",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Request to change house type (number of rooms)",
+      "case_name_sm": "Request to change house type (number of rooms)",
+      "case_name_tg": "Request to change house type (number of rooms)",
+      "case_name_af": "Request to change house type (number of rooms)",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e3a0fd40ac084cd5990a"
+        },
+        {
+          "$oid": "6675e493fd40ac084cd59956"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e344fd40ac084cd598b8"
+      }
+    },
+    {
+      "case_name_en": "Request to change house type (number of rooms)",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Request to change house type (number of rooms)",
+      "case_name_sm": "Request to change house type (number of rooms)",
+      "case_name_tg": "Request to change house type (number of rooms)",
+      "case_name_af": "Request to change house type (number of rooms)",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e3a0fd40ac084cd5990a"
+        },
+        {
+          "$oid": "6675e493fd40ac084cd59956"
+        },
+        {
+          "$oid": "6675e53bfd40ac084cd599a6"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e344fd40ac084cd598b8"
+      }
+    },
+    {
+      "case_name_en": "Request to change house type (number of rooms)",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "Request to change house type (number of rooms)",
+      "case_name_sm": "Request to change house type (number of rooms)",
+      "case_name_tg": "Request to change house type (number of rooms)",
+      "case_name_af": "Request to change house type (number of rooms)",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e3a0fd40ac084cd5990a"
+        },
+        {
+          "$oid": "6675e493fd40ac084cd59956"
+        },
+        {
+          "$oid": "6675e53bfd40ac084cd599a6"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e344fd40ac084cd598b8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:32:04.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T13:59:53.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e59dfd40ac084cd59a0c"
+  },
+  "case_list_id": {
+    "$oid": "6675e59dfd40ac084cd59a0a"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0d"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:42:05.546Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675e642fd40ac084cd59a62"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:44:50.833Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675e75ffd40ac084cd59aab"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:49:35.891Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675e7f0fd40ac084cd59af9"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:52:00.798Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c43820ff858ecdfefa35"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:16:40.119Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6699138b4fe70af0ac09d616"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:07:23.328Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669914434fe70af0ac09d786"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:10:27.557Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66991d584fe70af0ac09e629"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:49:12.661Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1138656d4b37c1d8a3d8f"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:45:26.897Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a113e156d4b37c1d8a41a8"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:46:57.960Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "House type (number of rooms) and request for floor change",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) እና የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms) and request for floor change",
+      "case_name_sm": "House type (number of rooms) and request for floor change",
+      "case_name_tg": "House type (number of rooms) and request for floor change",
+      "case_name_af": "House type (number of rooms) and request for floor change",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms) and request for floor change",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) እና የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms) and request for floor change",
+      "case_name_sm": "House type (number of rooms) and request for floor change",
+      "case_name_tg": "House type (number of rooms) and request for floor change",
+      "case_name_af": "House type (number of rooms) and request for floor change",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e642fd40ac084cd59a5c"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms) and request for floor change",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) እና የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms) and request for floor change",
+      "case_name_sm": "House type (number of rooms) and request for floor change",
+      "case_name_tg": "House type (number of rooms) and request for floor change",
+      "case_name_af": "House type (number of rooms) and request for floor change",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e642fd40ac084cd59a5c"
+        },
+        {
+          "$oid": "6675e75ffd40ac084cd59aa4"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms) and request for floor change",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) እና የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms) and request for floor change",
+      "case_name_sm": "House type (number of rooms) and request for floor change",
+      "case_name_tg": "House type (number of rooms) and request for floor change",
+      "case_name_af": "House type (number of rooms) and request for floor change",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e642fd40ac084cd59a5c"
+        },
+        {
+          "$oid": "6675e75ffd40ac084cd59aa4"
+        },
+        {
+          "$oid": "6675e7f0fd40ac084cd59af1"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms) and request for floor change",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) እና የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms) and request for floor change OR",
+      "case_name_sm": "House type (number of rooms) and request for floor change SO",
+      "case_name_tg": "House type (number of rooms) and request for floor change TI",
+      "case_name_af": "House type (number of rooms) and request for floor change AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e642fd40ac084cd59a5c"
+        },
+        {
+          "$oid": "6675e75ffd40ac084cd59aa4"
+        },
+        {
+          "$oid": "6675e7f0fd40ac084cd59af1"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms) and request for floor change",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) እና የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms) and request for floor change OR",
+      "case_name_sm": "House type (number of rooms) and request for floor change SO",
+      "case_name_tg": "House type (number of rooms) and request for floor change TI",
+      "case_name_af": "House type (number of rooms) and request for floor change AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e642fd40ac084cd59a5c"
+        },
+        {
+          "$oid": "6675e75ffd40ac084cd59aa4"
+        },
+        {
+          "$oid": "6675e7f0fd40ac084cd59af1"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms) and request for floor change",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) እና የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms) and request for floor change OR",
+      "case_name_sm": "House type (number of rooms) and request for floor change SO",
+      "case_name_tg": "House type (number of rooms) and request for floor change TI",
+      "case_name_af": "House type (number of rooms) and request for floor change AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e642fd40ac084cd59a5c"
+        },
+        {
+          "$oid": "6675e75ffd40ac084cd59aa4"
+        },
+        {
+          "$oid": "6675e7f0fd40ac084cd59af1"
+        },
+        {
+          "$oid": "669914434fe70af0ac09d780"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms) and request for floor change",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) እና የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms) and request for floor change OR",
+      "case_name_sm": "House type (number of rooms) and request for floor change SO",
+      "case_name_tg": "House type (number of rooms) and request for floor change TI",
+      "case_name_af": "House type (number of rooms) and request for floor change AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e642fd40ac084cd59a5c"
+        },
+        {
+          "$oid": "6675e75ffd40ac084cd59aa4"
+        },
+        {
+          "$oid": "6675e7f0fd40ac084cd59af1"
+        },
+        {
+          "$oid": "669914434fe70af0ac09d780"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms) and request for floor change",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) እና የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms) and request for floor change OR",
+      "case_name_sm": "House type (number of rooms) and request for floor change SO",
+      "case_name_tg": "House type (number of rooms) and request for floor change TI",
+      "case_name_af": "House type (number of rooms) and request for floor change AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e642fd40ac084cd59a5c"
+        },
+        {
+          "$oid": "6675e75ffd40ac084cd59aa4"
+        },
+        {
+          "$oid": "6675e7f0fd40ac084cd59af1"
+        },
+        {
+          "$oid": "669914434fe70af0ac09d780"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms) and request for floor change",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) እና የወለል ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms) and request for floor change OR",
+      "case_name_sm": "House type (number of rooms) and request for floor change SO",
+      "case_name_tg": "House type (number of rooms) and request for floor change TI",
+      "case_name_af": "House type (number of rooms) and request for floor change AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e642fd40ac084cd59a5c"
+        },
+        {
+          "$oid": "6675e75ffd40ac084cd59aa4"
+        },
+        {
+          "$oid": "6675e7f0fd40ac084cd59af1"
+        },
+        {
+          "$oid": "669914434fe70af0ac09d780"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:42:05.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:46:57.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e857fd40ac084cd59b53"
+  },
+  "case_list_id": {
+    "$oid": "6675e856fd40ac084cd59b51"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e857fd40ac084cd59b54"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:53:43.059Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675e8fefd40ac084cd59ba4"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:56:30.102Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c47a20ff858ecdfefce8"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:17:46.252Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c6b320ff858ecdff098b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:27:15.290Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c80220ff858ecdff0cf6"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:32:50.226Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1136c56d4b37c1d8a3970"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:45:00.954Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "A request to give us sanitary equipment",
+      "case_name_am": "የሳኒተሪ ዕቃ ይሰጠን ጥያቄ",
+      "case_name_or": "A request to give us sanitary equipment",
+      "case_name_sm": "A request to give us sanitary equipment",
+      "case_name_tg": "A request to give us sanitary equipment",
+      "case_name_af": "A request to give us sanitary equipment",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e856fd40ac084cd59b51"
+      }
+    },
+    {
+      "case_name_en": "A request to give us sanitary equipment",
+      "case_name_am": "የሳኒተሪ ዕቃ ይሰጠን ጥያቄ",
+      "case_name_or": "A request to give us sanitary equipment",
+      "case_name_sm": "A request to give us sanitary equipment",
+      "case_name_tg": "A request to give us sanitary equipment",
+      "case_name_af": "A request to give us sanitary equipment",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e8fdfd40ac084cd59b9f"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e856fd40ac084cd59b51"
+      }
+    },
+    {
+      "case_name_en": "A request to give us sanitary equipment",
+      "case_name_am": "የሳኒተሪ ዕቃ ይሰጠን ጥያቄ",
+      "case_name_or": "A request to give us sanitary equipment OR",
+      "case_name_sm": "A request to give us sanitary equipment SO",
+      "case_name_tg": "A request to give us sanitary equipment TI",
+      "case_name_af": "A request to give us sanitary equipment AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e8fdfd40ac084cd59b9f"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e856fd40ac084cd59b51"
+      }
+    },
+    {
+      "case_name_en": "A request to give us sanitary equipment",
+      "case_name_am": "የሳኒተሪ ዕቃ ይሰጠን ጥያቄ",
+      "case_name_or": "A request to give us sanitary equipment OR",
+      "case_name_sm": "A request to give us sanitary equipment SO",
+      "case_name_tg": "A request to give us sanitary equipment TI",
+      "case_name_af": "A request to give us sanitary equipment AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e8fdfd40ac084cd59b9f"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e856fd40ac084cd59b51"
+      }
+    },
+    {
+      "case_name_en": "A request to give us sanitary equipment",
+      "case_name_am": "የሳኒተሪ ዕቃ ይሰጠን ጥያቄ",
+      "case_name_or": "A request to give us sanitary equipment OR",
+      "case_name_sm": "A request to give us sanitary equipment SO",
+      "case_name_tg": "A request to give us sanitary equipment TI",
+      "case_name_af": "A request to give us sanitary equipment AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e8fdfd40ac084cd59b9f"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e856fd40ac084cd59b51"
+      }
+    },
+    {
+      "case_name_en": "A request to give us sanitary equipment",
+      "case_name_am": "የሳኒተሪ ዕቃ ይሰጠን ጥያቄ",
+      "case_name_or": "A request to give us sanitary equipment OR",
+      "case_name_sm": "A request to give us sanitary equipment SO",
+      "case_name_tg": "A request to give us sanitary equipment TI",
+      "case_name_af": "A request to give us sanitary equipment AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675e8fdfd40ac084cd59b9f"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e856fd40ac084cd59b51"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:53:43.060Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:45:00.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e990fd40ac084cd59bfb"
+  },
+  "case_list_id": {
+    "$oid": "6675e98ffd40ac084cd59bf9"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e990fd40ac084cd59bfc"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:58:56.078Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675ea5dfd40ac084cd59cbc"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T21:02:21.951Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6675eb1dfd40ac084cd59d04"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T21:05:33.800Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c3f720ff858ecdfef79e"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:15:35.482Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c50a20ff858ecdfeffd4"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:20:10.432Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6699199b4fe70af0ac09e039"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:33:15.852Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66991b7d4fe70af0ac09e16a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:41:17.154Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66991c5f4fe70af0ac09e1b7"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:45:03.068Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66991d414fe70af0ac09e415"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:48:49.029Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a1135156d4b37c1d8a353f"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T14:44:33.938Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "case_name_en": "House type (number of rooms), floor and site change requests",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ፣ የወለል እና የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms), floor and site change requests",
+      "case_name_sm": "House type (number of rooms), floor and site change requests",
+      "case_name_tg": "House type (number of rooms), floor and site change requests",
+      "case_name_af": "House type (number of rooms), floor and site change requests",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms), floor and site change requests",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ፣ የወለል እና የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms), floor and site change requests",
+      "case_name_sm": "House type (number of rooms), floor and site change requests",
+      "case_name_tg": "House type (number of rooms), floor and site change requests",
+      "case_name_af": "House type (number of rooms), floor and site change requests",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675ea5dfd40ac084cd59cb6"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms), floor and site change requests",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ፣ የወለል እና የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms), floor and site change requests",
+      "case_name_sm": "House type (number of rooms), floor and site change requests",
+      "case_name_tg": "House type (number of rooms), floor and site change requests",
+      "case_name_af": "House type (number of rooms), floor and site change requests",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675ea5dfd40ac084cd59cb6"
+        },
+        {
+          "$oid": "6675eb1dfd40ac084cd59cfd"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms), floor and site change requests",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ፣ የወለል እና የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms), floor and site change requests OR",
+      "case_name_sm": "House type (number of rooms), floor and site change requests SO",
+      "case_name_tg": "House type (number of rooms), floor and site change requests TI",
+      "case_name_af": "House type (number of rooms), floor and site change requests AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675ea5dfd40ac084cd59cb6"
+        },
+        {
+          "$oid": "6675eb1dfd40ac084cd59cfd"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms), floor and site change requests",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ፣ የወለል እና የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms), floor and site change requests OR",
+      "case_name_sm": "House type (number of rooms), floor and site change requests SO",
+      "case_name_tg": "House type (number of rooms), floor and site change requests TI",
+      "case_name_af": "House type (number of rooms), floor and site change requests AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675ea5dfd40ac084cd59cb6"
+        },
+        {
+          "$oid": "6675eb1dfd40ac084cd59cfd"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms), floor and site change requests",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ፣ የወለል እና የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms), floor and site change requests OR",
+      "case_name_sm": "House type (number of rooms), floor and site change requests SO",
+      "case_name_tg": "House type (number of rooms), floor and site change requests TI",
+      "case_name_af": "House type (number of rooms), floor and site change requests AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675ea5dfd40ac084cd59cb6"
+        },
+        {
+          "$oid": "6675eb1dfd40ac084cd59cfd"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms), floor and site change requests",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ፣ የወለል እና የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms), floor and site change requests OR",
+      "case_name_sm": "House type (number of rooms), floor and site change requests SO",
+      "case_name_tg": "House type (number of rooms), floor and site change requests TI",
+      "case_name_af": "House type (number of rooms), floor and site change requests AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675ea5dfd40ac084cd59cb6"
+        },
+        {
+          "$oid": "6675eb1dfd40ac084cd59cfd"
+        },
+        {
+          "$oid": "66991b7c4fe70af0ac09e164"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms), floor and site change requests",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ፣ የወለል እና የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms), floor and site change requests OR",
+      "case_name_sm": "House type (number of rooms), floor and site change requests SO",
+      "case_name_tg": "House type (number of rooms), floor and site change requests TI",
+      "case_name_af": "House type (number of rooms), floor and site change requests AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675ea5dfd40ac084cd59cb6"
+        },
+        {
+          "$oid": "6675eb1dfd40ac084cd59cfd"
+        },
+        {
+          "$oid": "66991b7c4fe70af0ac09e164"
+        },
+        {
+          "$oid": "66991c5e4fe70af0ac09e1b1"
+        }
+      ],
+      "status": "inactive",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms), floor and site change requests",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ፣ የወለል እና የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms), floor and site change requests OR",
+      "case_name_sm": "House type (number of rooms), floor and site change requests SO",
+      "case_name_tg": "House type (number of rooms), floor and site change requests TI",
+      "case_name_af": "House type (number of rooms), floor and site change requests AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "Directors",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675ea5dfd40ac084cd59cb6"
+        },
+        {
+          "$oid": "6675eb1dfd40ac084cd59cfd"
+        },
+        {
+          "$oid": "66991b7c4fe70af0ac09e164"
+        },
+        {
+          "$oid": "66991c5e4fe70af0ac09e1b1"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      }
+    },
+    {
+      "case_name_en": "House type (number of rooms), floor and site change requests",
+      "case_name_am": "የቤት አይነት (የክፍል ብዛት) ፣ የወለል እና የሳይት ይቀየርልኝ ጥያቄ ማቅረቢያ",
+      "case_name_or": "House type (number of rooms), floor and site change requests OR",
+      "case_name_sm": "House type (number of rooms), floor and site change requests SO",
+      "case_name_tg": "House type (number of rooms), floor and site change requests TI",
+      "case_name_af": "House type (number of rooms), floor and site change requests AF",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "answer_by": "DivisionManagers",
+      "timelimit": 3,
+      "questions": [
+        {
+          "$oid": "6675ea5dfd40ac084cd59cb6"
+        },
+        {
+          "$oid": "6675eb1dfd40ac084cd59cfd"
+        },
+        {
+          "$oid": "66991b7c4fe70af0ac09e164"
+        },
+        {
+          "$oid": "66991c5e4fe70af0ac09e1b1"
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:58:56.080Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T14:44:33.930Z"
+  },
+  "__v": 0
+}]

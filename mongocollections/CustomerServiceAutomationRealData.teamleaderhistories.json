@@ -1,0 +1,1855 @@
+[{
+  "_id": {
+    "$oid": "66981e264fe70af0ac094ee0"
+  },
+  "team_leader_id": {
+    "$oid": "66981e264fe70af0ac094ede"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66981e264fe70af0ac094ee1"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T19:40:22.936Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66981f534fe70af0ac094f2c"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T19:45:23.766Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66988fe24fe70af0ac0951db"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T03:45:38.690Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a0ffe897d2345b032f8f1a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T13:21:44.040Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a102d397d2345b032f91cf"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T13:34:11.134Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "commercial houses auction management team",
+      "name_am": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "name_or": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - or",
+      "name_sm": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን -  sm",
+      "name_tg": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - TG",
+      "name_af": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - AF",
+      "description_en": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_am": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_or": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_sm": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_tg": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_af": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": null,
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66981e264fe70af0ac094ede"
+      }
+    },
+    {
+      "name_en": "commercial houses auction management team",
+      "name_am": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "name_or": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - or",
+      "name_sm": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን -  sm",
+      "name_tg": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - TG",
+      "name_af": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - AF",
+      "description_en": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_am": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_or": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_sm": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_tg": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_af": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": null,
+      "members": [
+        {
+          "users": {
+            "$oid": "66981f534fe70af0ac094f25"
+          },
+          "_id": {
+            "$oid": "66981f534fe70af0ac094f27"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66981e264fe70af0ac094ede"
+      }
+    },
+    {
+      "name_en": "commercial houses auction management team",
+      "name_am": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "name_or": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - or",
+      "name_sm": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን -  sm",
+      "name_tg": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - TG",
+      "name_af": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - AF",
+      "description_en": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_am": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_or": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_sm": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_tg": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_af": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "66981ba020ff858ecdff1384"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "66981f534fe70af0ac094f25"
+          },
+          "_id": {
+            "$oid": "66981f534fe70af0ac094f27"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66981e264fe70af0ac094ede"
+      }
+    },
+    {
+      "name_en": "commercial houses auction management team",
+      "name_am": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "name_or": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - or",
+      "name_sm": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን -  sm",
+      "name_tg": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - TG",
+      "name_af": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - AF",
+      "description_en": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_am": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_or": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_sm": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_tg": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_af": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "66981ba020ff858ecdff1384"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "66981f534fe70af0ac094f25"
+          },
+          "_id": {
+            "$oid": "66981f534fe70af0ac094f27"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0ffe797d2345b032f8f11"
+          },
+          "_id": {
+            "$oid": "66a0ffe797d2345b032f8f13"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66981e264fe70af0ac094ede"
+      }
+    },
+    {
+      "name_en": "commercial houses auction management team",
+      "name_am": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "name_or": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - or",
+      "name_sm": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን -  sm",
+      "name_tg": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - TG",
+      "name_af": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን - AF",
+      "description_en": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_am": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_or": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_sm": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_tg": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "description_af": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "66981ba020ff858ecdff1384"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "66981f534fe70af0ac094f25"
+          },
+          "_id": {
+            "$oid": "66981f534fe70af0ac094f27"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0ffe797d2345b032f8f11"
+          },
+          "_id": {
+            "$oid": "66a0ffe797d2345b032f8f13"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a102d297d2345b032f91c4"
+          },
+          "_id": {
+            "$oid": "66a102d397d2345b032f91c6"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66981e264fe70af0ac094ede"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T19:40:22.941Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T13:34:11.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669896c24fe70af0ac095439"
+  },
+  "team_leader_id": {
+    "$oid": "669896c24fe70af0ac095437"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669896c24fe70af0ac09543a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T04:14:58.718Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669896e54fe70af0ac095486"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T04:15:33.295Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669897e44fe70af0ac09550e"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T04:19:48.745Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669914e84fe70af0ac09d882"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:13:12.533Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669e53d986c354d58a1b19f3"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:43:05.362Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a0f03497d2345b032f827b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T12:14:44.390Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a0f2fb97d2345b032f82ec"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T12:26:35.928Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a0f51997d2345b032f84b8"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T12:35:37.787Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a0f6d997d2345b032f85f0"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T12:43:05.936Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a0f93a97d2345b032f88f4"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T12:53:14.112Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a0fe0f97d2345b032f8d6c"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T13:13:51.621Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "condominium houses transfer group",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": null,
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    },
+    {
+      "name_en": "condominium houses transfer group",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    },
+    {
+      "name_en": "condominium houses transfer group",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669897e44fe70af0ac095507"
+          },
+          "_id": {
+            "$oid": "669897e44fe70af0ac095509"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    },
+    {
+      "name_en": "condominium houses transfer team",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669897e44fe70af0ac095507"
+          },
+          "_id": {
+            "$oid": "669897e44fe70af0ac095509"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    },
+    {
+      "name_en": "condominium houses transfer team",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669897e44fe70af0ac095507"
+          },
+          "_id": {
+            "$oid": "669897e44fe70af0ac095509"
+          }
+        },
+        {
+          "users": {
+            "$oid": "669e53d986c354d58a1b19ea"
+          },
+          "_id": {
+            "$oid": "669e53d986c354d58a1b19ec"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    },
+    {
+      "name_en": "condominium houses transfer team",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669897e44fe70af0ac095507"
+          },
+          "_id": {
+            "$oid": "669897e44fe70af0ac095509"
+          }
+        },
+        {
+          "users": {
+            "$oid": "669e53d986c354d58a1b19ea"
+          },
+          "_id": {
+            "$oid": "669e53d986c354d58a1b19ec"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f03497d2345b032f8270"
+          },
+          "_id": {
+            "$oid": "66a0f03497d2345b032f8272"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    },
+    {
+      "name_en": "condominium houses transfer team",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669897e44fe70af0ac095507"
+          },
+          "_id": {
+            "$oid": "669897e44fe70af0ac095509"
+          }
+        },
+        {
+          "users": {
+            "$oid": "669e53d986c354d58a1b19ea"
+          },
+          "_id": {
+            "$oid": "669e53d986c354d58a1b19ec"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f03497d2345b032f8270"
+          },
+          "_id": {
+            "$oid": "66a0f03497d2345b032f8272"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f2fb97d2345b032f82df"
+          },
+          "_id": {
+            "$oid": "66a0f2fb97d2345b032f82e1"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    },
+    {
+      "name_en": "condominium houses transfer team",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669897e44fe70af0ac095507"
+          },
+          "_id": {
+            "$oid": "669897e44fe70af0ac095509"
+          }
+        },
+        {
+          "users": {
+            "$oid": "669e53d986c354d58a1b19ea"
+          },
+          "_id": {
+            "$oid": "669e53d986c354d58a1b19ec"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f03497d2345b032f8270"
+          },
+          "_id": {
+            "$oid": "66a0f03497d2345b032f8272"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f2fb97d2345b032f82df"
+          },
+          "_id": {
+            "$oid": "66a0f2fb97d2345b032f82e1"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f51997d2345b032f84a9"
+          },
+          "_id": {
+            "$oid": "66a0f51997d2345b032f84ab"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    },
+    {
+      "name_en": "condominium houses transfer team",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669897e44fe70af0ac095507"
+          },
+          "_id": {
+            "$oid": "669897e44fe70af0ac095509"
+          }
+        },
+        {
+          "users": {
+            "$oid": "669e53d986c354d58a1b19ea"
+          },
+          "_id": {
+            "$oid": "669e53d986c354d58a1b19ec"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f03497d2345b032f8270"
+          },
+          "_id": {
+            "$oid": "66a0f03497d2345b032f8272"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f2fb97d2345b032f82df"
+          },
+          "_id": {
+            "$oid": "66a0f2fb97d2345b032f82e1"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f51997d2345b032f84a9"
+          },
+          "_id": {
+            "$oid": "66a0f51997d2345b032f84ab"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f6d997d2345b032f85da"
+          },
+          "_id": {
+            "$oid": "66a0f6d997d2345b032f85dd"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    },
+    {
+      "name_en": "condominium houses transfer team",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669897e44fe70af0ac095507"
+          },
+          "_id": {
+            "$oid": "669897e44fe70af0ac095509"
+          }
+        },
+        {
+          "users": {
+            "$oid": "669e53d986c354d58a1b19ea"
+          },
+          "_id": {
+            "$oid": "669e53d986c354d58a1b19ec"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f03497d2345b032f8270"
+          },
+          "_id": {
+            "$oid": "66a0f03497d2345b032f8272"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f2fb97d2345b032f82df"
+          },
+          "_id": {
+            "$oid": "66a0f2fb97d2345b032f82e1"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f51997d2345b032f84a9"
+          },
+          "_id": {
+            "$oid": "66a0f51997d2345b032f84ab"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f6d997d2345b032f85da"
+          },
+          "_id": {
+            "$oid": "66a0f6d997d2345b032f85dd"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f93997d2345b032f88e1"
+          },
+          "_id": {
+            "$oid": "66a0f93997d2345b032f88e3"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    },
+    {
+      "name_en": "condominium houses transfer team",
+      "name_am": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን",
+      "name_or": "condominium houses transfer group - or",
+      "name_sm": "condominium houses transfer group - sm",
+      "name_tg": "Condominium houses transfer group - TG",
+      "name_af": "Condominium houses transfer group - AF",
+      "description_en": "Condominium houses transfer group",
+      "description_am": "Condominium houses transfer group",
+      "description_or": "Condominium houses transfer group",
+      "description_sm": "Condominium houses transfer group",
+      "description_tg": "Condominium houses transfer group",
+      "description_af": "Condominium houses transfer group",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669897e44fe70af0ac095507"
+          },
+          "_id": {
+            "$oid": "669897e44fe70af0ac095509"
+          }
+        },
+        {
+          "users": {
+            "$oid": "669e53d986c354d58a1b19ea"
+          },
+          "_id": {
+            "$oid": "669e53d986c354d58a1b19ec"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f03497d2345b032f8270"
+          },
+          "_id": {
+            "$oid": "66a0f03497d2345b032f8272"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f2fb97d2345b032f82df"
+          },
+          "_id": {
+            "$oid": "66a0f2fb97d2345b032f82e1"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f51997d2345b032f84a9"
+          },
+          "_id": {
+            "$oid": "66a0f51997d2345b032f84ab"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f6d997d2345b032f85da"
+          },
+          "_id": {
+            "$oid": "66a0f6d997d2345b032f85dd"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0f93997d2345b032f88e1"
+          },
+          "_id": {
+            "$oid": "66a0f93997d2345b032f88e3"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66a0fe0f97d2345b032f8d57"
+          },
+          "_id": {
+            "$oid": "66a0fe0f97d2345b032f8d59"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669896c24fe70af0ac095437"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T04:14:58.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T13:13:51.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669913a84fe70af0ac09d6fc"
+  },
+  "team_leader_id": {
+    "$oid": "669913a84fe70af0ac09d6fa"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669913a84fe70af0ac09d6fd"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:07:52.166Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669914684fe70af0ac09d821"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:11:04.038Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669d2ca20e0d4cc1b7395076"
+      },
+      "updatedAt": {
+        "$date": "2024-07-21T15:43:30.247Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669e5f6086c354d58a1b2471"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T13:32:16.349Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "construction finance payment team",
+      "name_am": "የግንባታ ፋይናንስ ክፍያ ቡድን",
+      "name_or": "construction finance payment team",
+      "name_sm": "construction finance payment team",
+      "name_tg": "Construction finance payment team",
+      "name_af": "Construction finance payment team",
+      "description_en": "Construction finance payment team",
+      "description_am": "Construction finance payment team",
+      "description_or": "Construction finance payment team",
+      "description_sm": "Construction finance payment team",
+      "description_tg": "Construction finance payment team",
+      "description_af": "Construction finance payment team",
+      "directorate": {
+        "$oid": "6698192e20ff858ecdff11b2"
+      },
+      "manager": null,
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669913a84fe70af0ac09d6fa"
+      }
+    },
+    {
+      "name_en": "construction finance payment team",
+      "name_am": "የግንባታ ፋይናንስ ክፍያ ቡድን",
+      "name_or": "construction finance payment team",
+      "name_sm": "construction finance payment team",
+      "name_tg": "Construction finance payment team",
+      "name_af": "Construction finance payment team",
+      "description_en": "Construction finance payment team",
+      "description_am": "Construction finance payment team",
+      "description_or": "Construction finance payment team",
+      "description_sm": "Construction finance payment team",
+      "description_tg": "Construction finance payment team",
+      "description_af": "Construction finance payment team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": null,
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669913a84fe70af0ac09d6fa"
+      }
+    },
+    {
+      "name_en": "construction finance payment team",
+      "name_am": "የግንባታ ፋይናንስ ክፍያ ቡድን",
+      "name_or": "construction finance payment team",
+      "name_sm": "construction finance payment team",
+      "name_tg": "Construction finance payment team",
+      "name_af": "Construction finance payment team",
+      "description_en": "Construction finance payment team",
+      "description_am": "Construction finance payment team",
+      "description_or": "Construction finance payment team",
+      "description_sm": "Construction finance payment team",
+      "description_tg": "Construction finance payment team",
+      "description_af": "Construction finance payment team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": {
+        "$oid": "669a28532d455d0447d47c49"
+      },
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669913a84fe70af0ac09d6fa"
+      }
+    },
+    {
+      "name_en": "construction finance payment team",
+      "name_am": "የግንባታ ፋይናንስ ክፍያ ቡድን",
+      "name_or": "construction finance payment team",
+      "name_sm": "construction finance payment team",
+      "name_tg": "Construction finance payment team",
+      "name_af": "Construction finance payment team",
+      "description_en": "Construction finance payment team",
+      "description_am": "Construction finance payment team",
+      "description_or": "Construction finance payment team",
+      "description_sm": "Construction finance payment team",
+      "description_tg": "Construction finance payment team",
+      "description_af": "Construction finance payment team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": {
+        "$oid": "669a28532d455d0447d47c49"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669e5f6086c354d58a1b246a"
+          },
+          "_id": {
+            "$oid": "669e5f6086c354d58a1b246c"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669913a84fe70af0ac09d6fa"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T13:07:52.169Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T13:32:16.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669914334fe70af0ac09d73f"
+  },
+  "team_leader_id": {
+    "$oid": "669914334fe70af0ac09d73d"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669914334fe70af0ac09d740"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:10:11.397Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669d2ace0e0d4cc1b7394eff"
+      },
+      "updatedAt": {
+        "$date": "2024-07-21T15:35:42.038Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669e4b0a86c354d58a1b0de1"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:05:30.530Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "6697b63920ff858ecdfec41c"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669e4f6c86c354d58a1b1600"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:24:12.633Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669e526486c354d58a1b18bf"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:36:52.506Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "budget and cost report preparation team",
+      "name_am": "የበጀት የኮስትና ሪፖርት ዝግጅት ቡድን",
+      "name_or": "budget and cost report preparation team",
+      "name_sm": "budget and cost report preparation team",
+      "name_tg": "Budget and cost report preparation team",
+      "name_af": "Budget and cost report preparation team",
+      "description_en": "Budget and cost report preparation team",
+      "description_am": "Budget and cost report preparation team",
+      "description_or": "Budget and cost report preparation team",
+      "description_sm": "Budget and cost report preparation team",
+      "description_tg": "Budget and cost report preparation team",
+      "description_af": "Budget and cost report preparation team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": null,
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669914334fe70af0ac09d73d"
+      }
+    },
+    {
+      "name_en": "budget and cost report preparation team",
+      "name_am": "የበጀት የኮስትና ሪፖርት ዝግጅት ቡድን",
+      "name_or": "budget and cost report preparation team",
+      "name_sm": "budget and cost report preparation team",
+      "name_tg": "Budget and cost report preparation team",
+      "name_af": "Budget and cost report preparation team",
+      "description_en": "Budget and cost report preparation team",
+      "description_am": "Budget and cost report preparation team",
+      "description_or": "Budget and cost report preparation team",
+      "description_sm": "Budget and cost report preparation team",
+      "description_tg": "Budget and cost report preparation team",
+      "description_af": "Budget and cost report preparation team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": {
+        "$oid": "669d2aa00e0d4cc1b7394e87"
+      },
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669914334fe70af0ac09d73d"
+      }
+    },
+    {
+      "name_en": "budget and cost report preparation team",
+      "name_am": "የበጀት የኮስትና ሪፖርት ዝግጅት ቡድን",
+      "name_or": "budget and cost report preparation team",
+      "name_sm": "budget and cost report preparation team",
+      "name_tg": "Budget and cost report preparation team",
+      "name_af": "Budget and cost report preparation team",
+      "description_en": "Budget and cost report preparation team",
+      "description_am": "Budget and cost report preparation team",
+      "description_or": "Budget and cost report preparation team",
+      "description_sm": "Budget and cost report preparation team",
+      "description_tg": "Budget and cost report preparation team",
+      "description_af": "Budget and cost report preparation team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": {
+        "$oid": "669d2aa00e0d4cc1b7394e87"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669e4b0a86c354d58a1b0dda"
+          },
+          "_id": {
+            "$oid": "669e4b0a86c354d58a1b0ddc"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669914334fe70af0ac09d73d"
+      }
+    },
+    {
+      "name_en": "budget and cost report preparation team",
+      "name_am": "የበጀት የኮስትና ሪፖርት ዝግጅት ቡድን",
+      "name_or": "budget and cost report preparation team",
+      "name_sm": "budget and cost report preparation team",
+      "name_tg": "Budget and cost report preparation team",
+      "name_af": "Budget and cost report preparation team",
+      "description_en": "Budget and cost report preparation team",
+      "description_am": "Budget and cost report preparation team",
+      "description_or": "Budget and cost report preparation team",
+      "description_sm": "Budget and cost report preparation team",
+      "description_tg": "Budget and cost report preparation team",
+      "description_af": "Budget and cost report preparation team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": {
+        "$oid": "669d2aa00e0d4cc1b7394e87"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669e4b0a86c354d58a1b0dda"
+          },
+          "_id": {
+            "$oid": "669e4b0a86c354d58a1b0ddc"
+          }
+        },
+        {
+          "users": {
+            "$oid": "669e4f6c86c354d58a1b15f7"
+          },
+          "_id": {
+            "$oid": "669e4f6c86c354d58a1b15f9"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669914334fe70af0ac09d73d"
+      }
+    },
+    {
+      "name_en": "budget and cost report preparation team",
+      "name_am": "የበጀት የኮስትና ሪፖርት ዝግጅት ቡድን",
+      "name_or": "budget and cost report preparation team",
+      "name_sm": "budget and cost report preparation team",
+      "name_tg": "Budget and cost report preparation team",
+      "name_af": "Budget and cost report preparation team",
+      "description_en": "Budget and cost report preparation team",
+      "description_am": "Budget and cost report preparation team",
+      "description_or": "Budget and cost report preparation team",
+      "description_sm": "Budget and cost report preparation team",
+      "description_tg": "Budget and cost report preparation team",
+      "description_af": "Budget and cost report preparation team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": {
+        "$oid": "669d2aa00e0d4cc1b7394e87"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669e4b0a86c354d58a1b0dda"
+          },
+          "_id": {
+            "$oid": "669e4b0a86c354d58a1b0ddc"
+          }
+        },
+        {
+          "users": {
+            "$oid": "669e4f6c86c354d58a1b15f7"
+          },
+          "_id": {
+            "$oid": "669e4f6c86c354d58a1b15f9"
+          }
+        },
+        {
+          "users": {
+            "$oid": "669e526486c354d58a1b18b4"
+          },
+          "_id": {
+            "$oid": "669e526486c354d58a1b18b6"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669914334fe70af0ac09d73d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T13:10:11.400Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T12:36:52.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6699175f4fe70af0ac09db13"
+  },
+  "team_leader_id": {
+    "$oid": "6699175f4fe70af0ac09db11"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6699175f4fe70af0ac09db14"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:23:43.281Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669d2c3c0e0d4cc1b7394fe1"
+      },
+      "updatedAt": {
+        "$date": "2024-07-21T15:41:48.472Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669e51d286c354d58a1b17e0"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:34:26.248Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669e9e4fd7f49ba7ab92d83d"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T18:00:47.988Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669e9e60d7f49ba7ab92d8c5"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T18:01:04.807Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "alternative financing and bond lending monitoring team",
+      "name_am": "የአማራጭ ፋይናንስ አፈላላጊና የቦንድ ብድር ክትትል ቡድን",
+      "name_or": "alternative financing and bond lending monitoring team",
+      "name_sm": "alternative financing and bond lending monitoring team",
+      "name_tg": "Alternative financing and bond lending monitoring team",
+      "name_af": "Alternative financing and bond lending monitoring team",
+      "description_en": "Alternative financing and bond lending monitoring team",
+      "description_am": "Alternative financing and bond lending monitoring team",
+      "description_or": "Alternative financing and bond lending monitoring team",
+      "description_sm": "Alternative financing and bond lending monitoring team",
+      "description_tg": "Alternative financing and bond lending monitoring team",
+      "description_af": "Alternative financing and bond lending monitoring team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": null,
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6699175f4fe70af0ac09db11"
+      }
+    },
+    {
+      "name_en": "alternative financing and bond lending monitoring team",
+      "name_am": "የአማራጭ ፋይናንስ አፈላላጊና የቦንድ ብድር ክትትል ቡድን",
+      "name_or": "alternative financing and bond lending monitoring team",
+      "name_sm": "alternative financing and bond lending monitoring team",
+      "name_tg": "Alternative financing and bond lending monitoring team",
+      "name_af": "Alternative financing and bond lending monitoring team",
+      "description_en": "Alternative financing and bond lending monitoring team",
+      "description_am": "Alternative financing and bond lending monitoring team",
+      "description_or": "Alternative financing and bond lending monitoring team",
+      "description_sm": "Alternative financing and bond lending monitoring team",
+      "description_tg": "Alternative financing and bond lending monitoring team",
+      "description_af": "Alternative financing and bond lending monitoring team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": {
+        "$oid": "669d2bfd0e0d4cc1b7394f5f"
+      },
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6699175f4fe70af0ac09db11"
+      }
+    },
+    {
+      "name_en": "alternative financing and bond lending monitoring team",
+      "name_am": "የአማራጭ ፋይናንስ አፈላላጊና የቦንድ ብድር ክትትል ቡድን",
+      "name_or": "alternative financing and bond lending monitoring team",
+      "name_sm": "alternative financing and bond lending monitoring team",
+      "name_tg": "Alternative financing and bond lending monitoring team",
+      "name_af": "Alternative financing and bond lending monitoring team",
+      "description_en": "Alternative financing and bond lending monitoring team",
+      "description_am": "Alternative financing and bond lending monitoring team",
+      "description_or": "Alternative financing and bond lending monitoring team",
+      "description_sm": "Alternative financing and bond lending monitoring team",
+      "description_tg": "Alternative financing and bond lending monitoring team",
+      "description_af": "Alternative financing and bond lending monitoring team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": {
+        "$oid": "669d2bfd0e0d4cc1b7394f5f"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669e51d286c354d58a1b17d9"
+          },
+          "_id": {
+            "$oid": "669e51d286c354d58a1b17db"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6699175f4fe70af0ac09db11"
+      }
+    },
+    {
+      "name_en": "alternative financing and bond lending monitoring team",
+      "name_am": "የአማራጭ ፋይናንስ አፈላላጊና የቦንድ ብድር ክትትል ቡድን",
+      "name_or": "alternative financing and bond lending monitoring team",
+      "name_sm": "alternative financing and bond lending monitoring team",
+      "name_tg": "Alternative financing and bond lending monitoring team",
+      "name_af": "Alternative financing and bond lending monitoring team",
+      "description_en": "Alternative financing and bond lending monitoring team",
+      "description_am": "Alternative financing and bond lending monitoring team",
+      "description_or": "Alternative financing and bond lending monitoring team",
+      "description_sm": "Alternative financing and bond lending monitoring team",
+      "description_tg": "Alternative financing and bond lending monitoring team",
+      "description_af": "Alternative financing and bond lending monitoring team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": {
+        "$oid": "669d2bfd0e0d4cc1b7394f5f"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669e51d286c354d58a1b17d9"
+          },
+          "_id": {
+            "$oid": "669e9e4fd7f49ba7ab92d835"
+          }
+        },
+        {
+          "users": {
+            "$oid": "66981f534fe70af0ac094f25"
+          },
+          "_id": {
+            "$oid": "669e9e4fd7f49ba7ab92d836"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6699175f4fe70af0ac09db11"
+      }
+    },
+    {
+      "name_en": "alternative financing and bond lending monitoring team",
+      "name_am": "የአማራጭ ፋይናንስ አፈላላጊና የቦንድ ብድር ክትትል ቡድን",
+      "name_or": "alternative financing and bond lending monitoring team",
+      "name_sm": "alternative financing and bond lending monitoring team",
+      "name_tg": "Alternative financing and bond lending monitoring team",
+      "name_af": "Alternative financing and bond lending monitoring team",
+      "description_en": "Alternative financing and bond lending monitoring team",
+      "description_am": "Alternative financing and bond lending monitoring team",
+      "description_or": "Alternative financing and bond lending monitoring team",
+      "description_sm": "Alternative financing and bond lending monitoring team",
+      "description_tg": "Alternative financing and bond lending monitoring team",
+      "description_af": "Alternative financing and bond lending monitoring team",
+      "directorate": {
+        "$oid": "669819ac20ff858ecdff11d8"
+      },
+      "manager": {
+        "$oid": "669d2bfd0e0d4cc1b7394f5f"
+      },
+      "members": [
+        {
+          "users": {
+            "$oid": "669e51d286c354d58a1b17d9"
+          },
+          "_id": {
+            "$oid": "669e9e4fd7f49ba7ab92d835"
+          }
+        }
+      ],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6699175f4fe70af0ac09db11"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T13:23:43.284Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T18:01:04.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669918684fe70af0ac09de42"
+  },
+  "team_leader_id": {
+    "$oid": "669918684fe70af0ac09de3f"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669918684fe70af0ac09de43"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:28:08.259Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "engineering procurement and contract preparation team",
+      "name_am": "የምህንድስና ግዥና ውል ዝግጅት ቡድን",
+      "name_or": "engineering procurement and contract preparation team",
+      "name_sm": "engineering procurement and contract preparation team",
+      "name_tg": "Engineering procurement and contract preparation team",
+      "name_af": "Engineering procurement and contract preparation team",
+      "description_en": "Engineering procurement and contract preparation team",
+      "description_am": "Engineering procurement and contract preparation team",
+      "description_or": "Engineering procurement and contract preparation team",
+      "description_sm": "Engineering procurement and contract preparation team",
+      "description_tg": "Engineering procurement and contract preparation team",
+      "description_af": "Engineering procurement and contract preparation team",
+      "directorate": {
+        "$oid": "6697ca0e20ff858ecdff0ece"
+      },
+      "manager": null,
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669918684fe70af0ac09de3f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T13:28:08.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T13:28:08.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669919524fe70af0ac09dec7"
+  },
+  "team_leader_id": {
+    "$oid": "669919524fe70af0ac09dec5"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669919524fe70af0ac09dec8"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:32:02.739Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "marketing team",
+      "name_am": "የገበያ ትስስር ቡድን",
+      "name_or": "marketing team",
+      "name_sm": "marketing team",
+      "name_tg": "Marketing team",
+      "name_af": "Marketing team",
+      "description_en": "Marketing team",
+      "description_am": "Marketing team",
+      "description_or": "Marketing team",
+      "description_sm": "Marketing team",
+      "description_tg": "Marketing team",
+      "description_af": "Marketing team",
+      "directorate": {
+        "$oid": "6697ca0e20ff858ecdff0ece"
+      },
+      "manager": null,
+      "members": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669919524fe70af0ac09dec5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T13:32:02.742Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T13:32:02.742Z"
+  },
+  "__v": 0
+}]

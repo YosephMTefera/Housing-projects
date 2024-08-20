@@ -1,0 +1,3218 @@
+[{
+  "_id": {
+    "$oid": "6675307ae0813039801f9a4c"
+  },
+  "office_user_id": {
+    "$oid": "66753079e0813039801f9a4a"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": null,
+      "action": "create",
+      "_id": {
+        "$oid": "6675307ae0813039801f9a4d"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T07:49:14.183Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66753657fd40ac084cd5768a"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T08:14:15.466Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66754a5afd40ac084cd57a40"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T09:39:38.675Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c21020ff858ecdfee4e3"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:07:28.389Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669a25eb2d455d0447d47ada"
+      },
+      "updatedAt": {
+        "$date": "2024-07-19T08:38:03.237Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ሽመልስ",
+      "middlename": "ታምራት",
+      "lastname": "ደበበ",
+      "username": "shimeles12",
+      "email": "shimeles.tamirat@aahdc.gov.et",
+      "password": "$2b$10$02gzzE8lbkdikHcFf3eEy.TaGkyx6wBtSYs0tqDwmrUzvRqjDpSEe",
+      "phone": "0911410139",
+      "gender": "Male",
+      "position": "ዋና ዳይሬክተር",
+      "level": "MainExecutive",
+      "paraph": [],
+      "titer": "",
+      "signature": "1718956153671-156918616-Shimels-sign-removed.png",
+      "picture": "1718956153681-347387270-shemeles_picture.jpg",
+      "status": "active",
+      "_id": {
+        "$oid": "66753079e0813039801f9a4a"
+      }
+    },
+    {
+      "firstname": "ሽመልስ",
+      "middlename": "ታምራት",
+      "lastname": "ደበበ",
+      "username": "shimeles12",
+      "email": "shimeles.tamirat@aahdc.gov.et",
+      "password": "$2b$10$02gzzE8lbkdikHcFf3eEy.TaGkyx6wBtSYs0tqDwmrUzvRqjDpSEe",
+      "phone": "0911410139",
+      "gender": "Male",
+      "position": "ዋና ዳይሬክተር",
+      "level": "MainExecutive",
+      "division": null,
+      "paraph": [],
+      "titer": "",
+      "signature": "1718956153671-156918616-Shimels-sign-removed.png",
+      "picture": "1718957655338-696155035-shemeles_picture.jpg",
+      "status": "active",
+      "_id": {
+        "$oid": "66753079e0813039801f9a4a"
+      }
+    },
+    {
+      "firstname": "ሽመልስ",
+      "middlename": "ታምራት",
+      "lastname": "ደበበ",
+      "username": "shimeles12",
+      "email": "shimeles.tamirat@aahdc.gov.et",
+      "password": "$2b$10$02gzzE8lbkdikHcFf3eEy.TaGkyx6wBtSYs0tqDwmrUzvRqjDpSEe",
+      "phone": "0911410139",
+      "gender": "Male",
+      "position": "ዋና ዳይሬክተር",
+      "level": "MainExecutive",
+      "division": null,
+      "paraph": [],
+      "titer": "1718962778559-831009936-Shimeles Tamerat.png",
+      "signature": "1718956153671-156918616-Shimels-sign-removed.png",
+      "picture": "1718957655338-696155035-shemeles_picture.jpg",
+      "status": "active",
+      "_id": {
+        "$oid": "66753079e0813039801f9a4a"
+      }
+    },
+    {
+      "firstname": "ሽመልስ",
+      "middlename": "ታምራት",
+      "lastname": "ደበበ",
+      "username": "shimeles12",
+      "email": "shemetame@gmail.com",
+      "password": "$2b$10$02gzzE8lbkdikHcFf3eEy.TaGkyx6wBtSYs0tqDwmrUzvRqjDpSEe",
+      "phone": "0911410139",
+      "gender": "Male",
+      "position": "ዋና ዳይሬክተር",
+      "level": "MainExecutive",
+      "division": null,
+      "paraph": [],
+      "titer": "1718962778559-831009936-Shimeles Tamerat.png",
+      "signature": "1721221648286-738334348-Shimeles Tamirat.png",
+      "picture": "1718957655338-696155035-shemeles_picture.jpg",
+      "status": "active",
+      "_id": {
+        "$oid": "66753079e0813039801f9a4a"
+      }
+    },
+    {
+      "firstname": "ሽመልስ",
+      "middlename": "ታምራት",
+      "lastname": "ደበበ",
+      "username": "shimeles12",
+      "email": "shemetame@gmail.com",
+      "password": "$2b$10$02gzzE8lbkdikHcFf3eEy.TaGkyx6wBtSYs0tqDwmrUzvRqjDpSEe",
+      "phone": "0911410139",
+      "gender": "Male",
+      "position": "ዋና ዳይሬክተር",
+      "level": "MainExecutive",
+      "division": null,
+      "paraph": [],
+      "titer": "1718962778559-831009936-Shimeles Tamerat.png",
+      "signature": "1721378283133-303783457-SHIMELES TAMRAT DEBEBE copy.png",
+      "picture": "1718957655338-696155035-shemeles_picture.jpg",
+      "status": "active",
+      "_id": {
+        "$oid": "66753079e0813039801f9a4a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T07:49:14.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T08:38:03.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66754284fd40ac084cd577cf"
+  },
+  "office_user_id": {
+    "$oid": "66754284fd40ac084cd577cd"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66754284fd40ac084cd577d0"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T09:06:12.824Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667549b4fd40ac084cd5798d"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T09:36:52.995Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698cbc74fe70af0ac097bfd"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T08:01:11.184Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ስለሺ",
+      "middlename": "አጥናፌ",
+      "lastname": "ገ/ማርያም",
+      "username": "sileshi22",
+      "email": "satnafie@gmail.com",
+      "password": "$2b$10$V0JKbynhGGm8H58aSxePKewlbIcwCATKrly2sxAjLllAui/KdS9Xm",
+      "phone": "0911621412",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር ኮርፓሬት ሰርቪስ ዘርፍ",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "6675415dfd40ac084cd5779f"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1718960772623-960680165-housingLogo.png",
+      "picture": "1718960772636-78360597-sileshi.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66754284fd40ac084cd577cd"
+      }
+    },
+    {
+      "firstname": "ስለሺ",
+      "middlename": "አጥናፌ",
+      "lastname": "ገ/ማርያም",
+      "username": "sileshi22",
+      "email": "satnafie@gmail.com",
+      "password": "$2b$10$V0JKbynhGGm8H58aSxePKewlbIcwCATKrly2sxAjLllAui/KdS9Xm",
+      "phone": "0911621412",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር ኮርፓሬት ሰርቪስ ዘርፍ",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "6675415dfd40ac084cd5779f"
+      },
+      "paraph": [],
+      "titer": "1718962612870-345320907-Seleshi Atenafe Gebremariyam.png",
+      "signature": "1718960772623-960680165-housingLogo.png",
+      "picture": "1718960772636-78360597-sileshi.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66754284fd40ac084cd577cd"
+      }
+    },
+    {
+      "firstname": "ስለሺ",
+      "middlename": "አጥናፌ",
+      "lastname": "ገ/ማርያም",
+      "username": "sileshi22",
+      "email": "satnafie@gmail.com",
+      "password": "$2b$10$V0JKbynhGGm8H58aSxePKewlbIcwCATKrly2sxAjLllAui/KdS9Xm",
+      "phone": "0911621412",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር ኮርፓሬት ሰርቪስ ዘርፍ",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "6675415dfd40ac084cd5779f"
+      },
+      "paraph": [],
+      "titer": "1718962612870-345320907-Seleshi Atenafe Gebremariyam.png",
+      "signature": "1721289671080-363459359-SILESHI ATNAFIE GEBREMARIAM copy.png",
+      "picture": "1718960772636-78360597-sileshi.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66754284fd40ac084cd577cd"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T09:06:12.830Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T08:01:11.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66756fd4fd40ac084cd57d44"
+  },
+  "office_user_id": {
+    "$oid": "66756fd4fd40ac084cd57d42"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66756fd4fd40ac084cd57d45"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:19:32.982Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697aadb20ff858ecdfebcd1"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T11:28:27.072Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697ac3b20ff858ecdfebf12"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T11:34:19.014Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698da424fe70af0ac099f4f"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T09:02:58.682Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669fbdc817ae587818668915"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T14:27:20.920Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a21d3356d4b37c1d8a8cb5"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T09:38:59.092Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a21df956d4b37c1d8a9184"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T09:42:17.590Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ቶማስ",
+      "middlename": "ደበሌ",
+      "lastname": "ሮቢ",
+      "username": "tmb1024",
+      "email": "tmb1024@gmail.com",
+      "password": "$2b$10$ErugtOaMTn.Hzx1n35C3ZOXtZhM/Y.7P0Rg4XjkKV7qFpCjfPUHu2",
+      "phone": "0911584123",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር (የቤት ማስተላለፍና ግናባታ ፋይናንስ ዘርፍ)",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "1718972372782-629766483-Tomas Debele Robi.png",
+      "signature": "1718972372786-814324559-1713561740017-687557404-Mulat.png",
+      "picture": "1718972372790-942597568-housingLogo.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      }
+    },
+    {
+      "firstname": "ቶማስ",
+      "middlename": "ደበሌ",
+      "lastname": "ሮቢ",
+      "username": "tmb1024",
+      "email": "tmb1024@gmail.com",
+      "password": "$2b$10$ErugtOaMTn.Hzx1n35C3ZOXtZhM/Y.7P0Rg4XjkKV7qFpCjfPUHu2",
+      "phone": "0911584123",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር (የቤት ማስተላለፍና ግናባታ ፋይናንስ ዘርፍ)",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "1718972372782-629766483-Tomas Debele Robi.png",
+      "signature": "1721215706922-56037988-Thoma Debele copy.png",
+      "picture": "1718972372790-942597568-housingLogo.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      }
+    },
+    {
+      "firstname": "ቶማስ",
+      "middlename": "ደበሌ",
+      "lastname": "ሮቢ",
+      "username": "tmb1024",
+      "email": "thomasdebele@gmail.com",
+      "password": "$2b$10$ErugtOaMTn.Hzx1n35C3ZOXtZhM/Y.7P0Rg4XjkKV7qFpCjfPUHu2",
+      "phone": "0911746622",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር /የቤት ማስተላለፍና ግንባታ ፋይናንስ ዘርፍ ኃላፊ/",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "1718972372782-629766483-Tomas Debele Robi.png",
+      "signature": "1721215706922-56037988-Thoma Debele copy.png",
+      "picture": "1721216058892-626189465-thomas_picture.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      }
+    },
+    {
+      "firstname": "ቶማስ",
+      "middlename": "ደበሌ",
+      "lastname": "ሮቢ",
+      "username": "tmb1024",
+      "email": "thomasdebele@gmail.com",
+      "password": "$2b$10$ErugtOaMTn.Hzx1n35C3ZOXtZhM/Y.7P0Rg4XjkKV7qFpCjfPUHu2",
+      "phone": "0911746622",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር /የቤት ማስተላለፍና ግንባታ ፋይናንስ ዘርፍ ኃላፊ/",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "በመመሪያ መሰረት",
+          "_id": {
+            "$oid": "6698da424fe70af0ac099f4a"
+          }
+        }
+      ],
+      "titer": "1718972372782-629766483-Tomas Debele Robi.png",
+      "signature": "1721215706922-56037988-Thoma Debele copy.png",
+      "picture": "1721216058892-626189465-thomas_picture.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      }
+    },
+    {
+      "firstname": "ቶማስ",
+      "middlename": "ደበሌ",
+      "lastname": "ሮቢ",
+      "username": "tmb1024",
+      "email": "thomasdebele@gmail.com",
+      "password": "$2b$10$ErugtOaMTn.Hzx1n35C3ZOXtZhM/Y.7P0Rg4XjkKV7qFpCjfPUHu2",
+      "phone": "0911746622",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር /የቤት ማስተላለፍና ግንባታ ፋይናንስ ዘርፍ ኃላፊ/",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "በመመሪያ መሰረት",
+          "_id": {
+            "$oid": "669fbdc817ae58781866890d"
+          }
+        },
+        {
+          "title": "ታይቶ ተገቢ ማስተካከያ ይደረግ",
+          "_id": {
+            "$oid": "669fbdc817ae58781866890e"
+          }
+        }
+      ],
+      "titer": "1718972372782-629766483-Tomas Debele Robi.png",
+      "signature": "1721215706922-56037988-Thoma Debele copy.png",
+      "picture": "1721216058892-626189465-thomas_picture.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      }
+    },
+    {
+      "firstname": "ቶማስ",
+      "middlename": "ደበሌ",
+      "lastname": "ሮቢ",
+      "username": "tmb1024",
+      "email": "thomasdebele@gmail.com",
+      "password": "$2b$10$ErugtOaMTn.Hzx1n35C3ZOXtZhM/Y.7P0Rg4XjkKV7qFpCjfPUHu2",
+      "phone": "0911746622",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር /የቤት ማስተላለፍና ግንባታ ፋይናንስ ዘርፍ ኃላፊ/",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "በመመሪያ መሰረት",
+          "_id": {
+            "$oid": "66a21d3256d4b37c1d8a8caa"
+          }
+        },
+        {
+          "title": "ታይቶ ተገቢ ማስተካከያ ይደረግ",
+          "_id": {
+            "$oid": "66a21d3256d4b37c1d8a8cab"
+          }
+        },
+        {
+          "title": "ተደራሽ ቤት ይመደብ",
+          "_id": {
+            "$oid": "66a21d3256d4b37c1d8a8cac"
+          }
+        }
+      ],
+      "titer": "1718972372782-629766483-Tomas Debele Robi.png",
+      "signature": "1721215706922-56037988-Thoma Debele copy.png",
+      "picture": "1721216058892-626189465-thomas_picture.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      }
+    },
+    {
+      "firstname": "ቶማስ",
+      "middlename": "ደበሌ",
+      "lastname": "ሮቢ",
+      "username": "tmb1024",
+      "email": "thomasdebele@gmail.com",
+      "password": "$2b$10$ErugtOaMTn.Hzx1n35C3ZOXtZhM/Y.7P0Rg4XjkKV7qFpCjfPUHu2",
+      "phone": "0911746622",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር /የቤት ማስተላለፍና ግንባታ ፋይናንስ ዘርፍ ኃላፊ/",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "በመመሪያ መሰረት",
+          "_id": {
+            "$oid": "66a21df956d4b37c1d8a9176"
+          }
+        },
+        {
+          "title": "ታይቶ ተገቢ ማስተካከያ ይደረግ",
+          "_id": {
+            "$oid": "66a21df956d4b37c1d8a9177"
+          }
+        },
+        {
+          "title": "ተደራሽ ቤት ይመደብ",
+          "_id": {
+            "$oid": "66a21df956d4b37c1d8a9178"
+          }
+        },
+        {
+          "title": "በዘርፉ በኩል ይታይ",
+          "_id": {
+            "$oid": "66a21df956d4b37c1d8a9179"
+          }
+        }
+      ],
+      "titer": "1718972372782-629766483-Tomas Debele Robi.png",
+      "signature": "1721215706922-56037988-Thoma Debele copy.png",
+      "picture": "1721216058892-626189465-thomas_picture.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66756fd4fd40ac084cd57d42"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:19:32.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T09:42:17.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757223fd40ac084cd57e71"
+  },
+  "office_user_id": {
+    "$oid": "66757223fd40ac084cd57e6f"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757223fd40ac084cd57e72"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:29:23.886Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "667d1c7cfbbd97c3f9b06900"
+      },
+      "updatedAt": {
+        "$date": "2024-06-27T08:02:04.004Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697acbf20ff858ecdfebf4a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T11:36:31.445Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ስቶታዉ",
+      "middlename": "አካለ",
+      "lastname": "ጥላዬ",
+      "username": "sitotaw12",
+      "email": "sitotaw.akale@aahdc.gov.et",
+      "password": "$2b$10$W51feeCxdIedqCj9SNU9z.3zEjVwf0fySFlMaVX./PN78Zt.OJhdW",
+      "phone": "0911017315",
+      "gender": "Male",
+      "position": "የኮንስትራክሽን ዘርፍ ምክትል ዋና ዳይሬክተር",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "66756fd6fd40ac084cd57d4f"
+      },
+      "paraph": [],
+      "titer": "1718972963662-797485820-Setotawe Akele Thilaye.png",
+      "signature": "1718972963672-956246589-Sitota_sign-removed.png",
+      "picture": "1718972963692-596520737-sitotaw_picture.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757223fd40ac084cd57e6f"
+      }
+    },
+    {
+      "firstname": "ስጦታዉ",
+      "middlename": "አካለ",
+      "lastname": "ጥላዬ",
+      "username": "sitotaw12",
+      "email": "sitotaw.akale@aahdc.gov.et",
+      "password": "$2b$10$W51feeCxdIedqCj9SNU9z.3zEjVwf0fySFlMaVX./PN78Zt.OJhdW",
+      "phone": "0911017315",
+      "gender": "Male",
+      "position": "የኮንስትራክሽን ዘርፍ ምክትል ዋና ዳይሬክተር",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "66756fd6fd40ac084cd57d4f"
+      },
+      "paraph": [],
+      "titer": "1718972963662-797485820-Setotawe Akele Thilaye.png",
+      "signature": "1718972963672-956246589-Sitota_sign-removed.png",
+      "picture": "1718972963692-596520737-sitotaw_picture.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757223fd40ac084cd57e6f"
+      }
+    },
+    {
+      "firstname": "ስጦታዉ",
+      "middlename": "አካለ",
+      "lastname": "ጥላዬ",
+      "username": "sitotaw12",
+      "email": "veronicasitotaw@gmail.com",
+      "password": "$2b$10$W51feeCxdIedqCj9SNU9z.3zEjVwf0fySFlMaVX./PN78Zt.OJhdW",
+      "phone": "0911017315",
+      "gender": "Male",
+      "position": "ም/ዋና ዳይሬክተር /የኮንስትራክሽን ዘርፍ ኃላፊ/",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "66756fd6fd40ac084cd57d4f"
+      },
+      "paraph": [],
+      "titer": "1718972963662-797485820-Setotawe Akele Thilaye.png",
+      "signature": "1721216191322-162795130-SITOTAW AKALE copy.png",
+      "picture": "1718972963692-596520737-sitotaw_picture.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757223fd40ac084cd57e6f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:29:23.890Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T11:36:31.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669809e120ff858ecdff0ffd"
+  },
+  "office_user_id": {
+    "$oid": "669809e120ff858ecdff0ffb"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669809e120ff858ecdff0ffe"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T18:13:53.732Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ታምራት",
+      "middlename": "አክሊሉ",
+      "lastname": "ታደሰ",
+      "username": "tamirat45",
+      "email": "tamrataklilu12@gmail.com",
+      "password": "$2b$10$KLRWUm0ZgvUGseMQTV1lLOkGsVQbVLENKHob/oAV5.6fy6Dcr48ou",
+      "phone": "0913484858",
+      "gender": "Male",
+      "position": "አማራጭ የቤት ልማት ፕሮግራም ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "66756fd6fd40ac084cd57d4f"
+      },
+      "paraph": [],
+      "titer": "1721240033543-571083356-Tamerat Akelilu Tadesse.png",
+      "signature": "1721240033547-490758616-Tamrat Aklilu Tadesse copy.png",
+      "picture": "1721240033549-643329655-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669809e120ff858ecdff0ffb"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T18:13:53.736Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T18:13:53.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66980d1820ff858ecdff1085"
+  },
+  "office_user_id": {
+    "$oid": "66980d1820ff858ecdff1083"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66980d1820ff858ecdff1086"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T18:27:36.368Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "አበባ",
+      "middlename": "ሰቦቃ",
+      "lastname": "ደበሌ",
+      "username": "abeba24",
+      "email": "abebaseboka38@gmail.com",
+      "password": "$2b$10$Py3so.tMTE0d4BP2xvXmvuZyeu6zycLNTfmUSrNE3rqEvpHXcK9HC",
+      "phone": "0911568592",
+      "gender": "Female",
+      "position": "የሰው ሀይል አስተዳደር ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "6675415dfd40ac084cd5779f"
+      },
+      "paraph": [],
+      "titer": "1721240856179-836010344-Abeba Seboka Debele.png",
+      "signature": "1721240856182-835636574-Abeba HR.png",
+      "picture": "1721240856185-924246184-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66980d1820ff858ecdff1083"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T18:27:36.371Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T18:27:36.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66980f2520ff858ecdff10c7"
+  },
+  "office_user_id": {
+    "$oid": "66980f2520ff858ecdff10c5"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66980f2520ff858ecdff10c8"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T18:36:21.671Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "በየነ",
+      "middlename": "ረጋሳ",
+      "lastname": "ሰንበቱ",
+      "username": "beyene23",
+      "email": "beyenesenbetu@gmail.com",
+      "password": "$2b$10$IZmI//A2p5LRc9bl0pVFNeUkErNFx2vEoO4Po4F3uB/9lSVM2zp4O",
+      "phone": "0921874643",
+      "gender": "Male",
+      "position": "የኮንስትራክሽን አስተዳደር ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "66756fd6fd40ac084cd57d4f"
+      },
+      "paraph": [],
+      "titer": "1721241381479-508576123-Beyene Regassa Senbetu.png",
+      "signature": "1721241381482-667198153-BEYENE REGASSA copy.png",
+      "picture": "1721241381485-455199642-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66980f2520ff858ecdff10c5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T18:36:21.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T18:36:21.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698134e20ff858ecdff10f5"
+  },
+  "office_user_id": {
+    "$oid": "6698134e20ff858ecdff10f3"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6698134e20ff858ecdff10f6"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T18:54:06.687Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669fc6a817ae587818669976"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T15:05:12.918Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669fc6e117ae587818669a13"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T15:06:09.374Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a25681d925ab45920a69ab"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T13:43:29.954Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a256d5d925ab45920a6a47"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T13:44:53.863Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a256ecd925ab45920a6ab2"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T13:45:16.394Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a377babe5c30eee7952268"
+      },
+      "updatedAt": {
+        "$date": "2024-07-26T10:17:30.578Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ይድነቃቸው",
+      "middlename": "ስዩም",
+      "lastname": "አለማየሁ",
+      "username": "yidenekachew05",
+      "email": "trueman8595@gmail.com",
+      "password": "$2b$10$dZFHpD3DVj9.nJJpjRgIkOlHkuKxZSoRdKdRrcaWwDRBC0ihp57pG",
+      "phone": "0911899585",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤቶች ማስተላለፍ ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721242446498-621489198-YIDNEKACHEW SEYOUM ALEMAYEHU copy.png",
+      "picture": "1721242446501-698928517-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      }
+    },
+    {
+      "firstname": "ይድነቃቸው",
+      "middlename": "ስዩም",
+      "lastname": "አለማየሁ",
+      "username": "yidenekachew05",
+      "email": "trueman8595@gmail.com",
+      "password": "$2b$10$dZFHpD3DVj9.nJJpjRgIkOlHkuKxZSoRdKdRrcaWwDRBC0ihp57pG",
+      "phone": "0911899585",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤቶች ማስተላለፍ ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "ምላሽ ይሰጥ",
+          "_id": {
+            "$oid": "669fc6a817ae587818669971"
+          }
+        }
+      ],
+      "titer": "",
+      "signature": "1721242446498-621489198-YIDNEKACHEW SEYOUM ALEMAYEHU copy.png",
+      "picture": "1721242446501-698928517-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      }
+    },
+    {
+      "firstname": "ይድነቃቸው",
+      "middlename": "ስዩም",
+      "lastname": "አለማየሁ",
+      "username": "yidenekachew05",
+      "email": "trueman8595@gmail.com",
+      "password": "$2b$10$dZFHpD3DVj9.nJJpjRgIkOlHkuKxZSoRdKdRrcaWwDRBC0ihp57pG",
+      "phone": "0911899585",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤቶች ማስተላለፍ ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "ምላሽ ይሰጥ",
+          "_id": {
+            "$oid": "669fc6e117ae587818669a0b"
+          }
+        },
+        {
+          "title": "በመመሪያው መሰረት መላሽ ይስጥ",
+          "_id": {
+            "$oid": "669fc6e117ae587818669a0c"
+          }
+        }
+      ],
+      "titer": "",
+      "signature": "1721242446498-621489198-YIDNEKACHEW SEYOUM ALEMAYEHU copy.png",
+      "picture": "1721242446501-698928517-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      }
+    },
+    {
+      "firstname": "ይድነቃቸው",
+      "middlename": "ስዩም",
+      "lastname": "አለማየሁ",
+      "username": "yidenekachew05",
+      "email": "trueman8595@gmail.com",
+      "password": "$2b$10$dZFHpD3DVj9.nJJpjRgIkOlHkuKxZSoRdKdRrcaWwDRBC0ihp57pG",
+      "phone": "0911899585",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤቶች ማስተላለፍ ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "ምላሽ ይሰጥ",
+          "_id": {
+            "$oid": "66a25681d925ab45920a69a0"
+          }
+        },
+        {
+          "title": "በመመሪያው መሰረት መላሽ ይስጥ",
+          "_id": {
+            "$oid": "66a25681d925ab45920a69a1"
+          }
+        },
+        {
+          "title": "መረጃው ተጣርቶ በመመሪያው መሰረት ተደራሽ ቤት ተመድቦ ይቅረብ",
+          "_id": {
+            "$oid": "66a25681d925ab45920a69a2"
+          }
+        }
+      ],
+      "titer": "",
+      "signature": "1721242446498-621489198-YIDNEKACHEW SEYOUM ALEMAYEHU copy.png",
+      "picture": "1721242446501-698928517-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      }
+    },
+    {
+      "firstname": "ይድነቃቸው",
+      "middlename": "ስዩም",
+      "lastname": "አለማየሁ",
+      "username": "yidenekachew05",
+      "email": "trueman8595@gmail.com",
+      "password": "$2b$10$dZFHpD3DVj9.nJJpjRgIkOlHkuKxZSoRdKdRrcaWwDRBC0ihp57pG",
+      "phone": "0911899585",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤቶች ማስተላለፍ ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "ምላሽ ይሰጥ",
+          "_id": {
+            "$oid": "66a256d5d925ab45920a6a39"
+          }
+        },
+        {
+          "title": "በመመሪያው መሰረት መላሽ ይስጥ",
+          "_id": {
+            "$oid": "66a256d5d925ab45920a6a3a"
+          }
+        },
+        {
+          "title": "መረጃው ተጣርቶ በመመሪያው መሰረት ተደራሽ ቤት ተመድቦ ይቅረብ",
+          "_id": {
+            "$oid": "66a256d5d925ab45920a6a3b"
+          }
+        },
+        {
+          "title": "በፍርድ ቤት ትዕዛዝ መሰረት ምላሽ ተዘጋጅቶ ይቅረብ",
+          "_id": {
+            "$oid": "66a256d5d925ab45920a6a3c"
+          }
+        }
+      ],
+      "titer": "",
+      "signature": "1721242446498-621489198-YIDNEKACHEW SEYOUM ALEMAYEHU copy.png",
+      "picture": "1721242446501-698928517-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      }
+    },
+    {
+      "firstname": "ይድነቃቸው",
+      "middlename": "ስዩም",
+      "lastname": "አለማየሁ",
+      "username": "yidenekachew05",
+      "email": "trueman8595@gmail.com",
+      "password": "$2b$10$dZFHpD3DVj9.nJJpjRgIkOlHkuKxZSoRdKdRrcaWwDRBC0ihp57pG",
+      "phone": "0911899585",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤቶች ማስተላለፍ ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "ምላሽ ይሰጥ",
+          "_id": {
+            "$oid": "66a256d5d925ab45920a6a39"
+          }
+        },
+        {
+          "title": "መረጃው ተጣርቶ በመመሪያው መሰረት ተደራሽ ቤት ተመድቦ ይቅረብ",
+          "_id": {
+            "$oid": "66a256d5d925ab45920a6a3b"
+          }
+        },
+        {
+          "title": "በፍርድ ቤት ትዕዛዝ መሰረት ምላሽ ተዘጋጅቶ ይቅረብ",
+          "_id": {
+            "$oid": "66a256d5d925ab45920a6a3c"
+          }
+        }
+      ],
+      "titer": "",
+      "signature": "1721242446498-621489198-YIDNEKACHEW SEYOUM ALEMAYEHU copy.png",
+      "picture": "1721242446501-698928517-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      }
+    },
+    {
+      "firstname": "ይድነቃቸው",
+      "middlename": "ስዩም",
+      "lastname": "አለማየሁ",
+      "username": "yidenekachew05",
+      "email": "trueman8595@gmail.com",
+      "password": "$2b$10$dZFHpD3DVj9.nJJpjRgIkOlHkuKxZSoRdKdRrcaWwDRBC0ihp57pG",
+      "phone": "0911899585",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤቶች ማስተላለፍ ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "ምላሽ ይሰጥ",
+          "_id": {
+            "$oid": "66a256d5d925ab45920a6a39"
+          }
+        },
+        {
+          "title": "መረጃው ተጣርቶ በመመሪያው መሰረት ተደራሽ ቤት ተመድቦ ይቅረብ",
+          "_id": {
+            "$oid": "66a256d5d925ab45920a6a3b"
+          }
+        },
+        {
+          "title": "በፍርድ ቤት ትዕዛዝ መሰረት ምላሽ ተዘጋጅቶ ይቅረብ",
+          "_id": {
+            "$oid": "66a256d5d925ab45920a6a3c"
+          }
+        }
+      ],
+      "titer": "",
+      "signature": "1721242446498-621489198-YIDNEKACHEW SEYOUM ALEMAYEHU copy.png",
+      "picture": "1721242446501-698928517-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698134e20ff858ecdff10f3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T18:54:06.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-26T10:17:30.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66981ba020ff858ecdff1391"
+  },
+  "office_user_id": {
+    "$oid": "66981ba020ff858ecdff1384"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66981ba020ff858ecdff1392"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T19:29:36.880Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ሰላማዊት",
+      "middlename": "ጣፉ",
+      "lastname": "አብዲ",
+      "username": "selam44",
+      "email": "selamawittafa@gmail.com",
+      "password": "$2b$10$R37.M.jYTomOGGx8eEINuuPNSLsffLqC7cDTfc1x98Uq2J5r6PKIG",
+      "phone": "0911445766",
+      "gender": "Female",
+      "position": "የንግድ ቤቶች ጨረታ አስተዳደር ቡድን መሪ",
+      "level": "TeamLeaders",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "1721244576482-811740861-Selamawit Tafa Abedi.png",
+      "signature": "1721244576484-788755620-selamawit Mastelalef copy.png",
+      "picture": "1721244576487-593427726-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66981ba020ff858ecdff1384"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T19:29:36.883Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T19:29:36.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66981f544fe70af0ac094f40"
+  },
+  "office_user_id": {
+    "$oid": "66981f534fe70af0ac094f25"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66981f544fe70af0ac094f41"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T19:45:24.067Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ደርሶ",
+      "middlename": "ሞላ",
+      "lastname": "አለማየሁ",
+      "username": "derso02",
+      "email": "dersomolla123@gmail.com",
+      "password": "$2b$10$q/0nvXCJsySNRx3unEktK.oxISoPXkJeCOY/JnX4hv40xTeVSnHsS",
+      "phone": "0918187616",
+      "gender": "Male",
+      "position": "የንግድ ቤቶች ጨረታ አስተዳደር ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721245523469-369084800-derso mola Mastelalef copy.png",
+      "picture": "1721245523473-874228677-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66981f534fe70af0ac094f25"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-17T19:45:24.070Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T19:45:24.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669893c24fe70af0ac095292"
+  },
+  "office_user_id": {
+    "$oid": "669893c24fe70af0ac095290"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669893c24fe70af0ac095293"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T04:02:10.327Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "የአብነህ",
+      "middlename": "ገዳሙ",
+      "lastname": "አበበ",
+      "username": "yeabneh13",
+      "email": "yeabneh2007@gmail.com",
+      "password": "$2b$10$2pwqFme9hcUq8Ie/fOHsxO9Q7FbOYaJoUniQxD84wL8FkLEo0nGqu",
+      "phone": "0911062829",
+      "gender": "Male",
+      "position": "በም/ቢሮ ኃላፊ ደረጃ የቢቶች ልማት ኮርፖሬሽን አምካሪ",
+      "level": "DivisionManagers",
+      "division": {
+        "$oid": "6697af2820ff858ecdfec051"
+      },
+      "paraph": [],
+      "titer": "1721275330138-423033944-Yeabnehe Gedamu.png",
+      "signature": "1721275330140-198464335-Yeabneh Gedamu copy.png",
+      "picture": "1721275330143-143293795-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669893c24fe70af0ac095290"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T04:02:10.330Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T04:02:10.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669895974fe70af0ac0952f9"
+  },
+  "office_user_id": {
+    "$oid": "669895974fe70af0ac0952e1"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669895974fe70af0ac0952fa"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T04:09:59.582Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "6697b63920ff858ecdfec41c"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669e417f86c354d58a1b0785"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T11:24:47.459Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669fc85317ae587818669ef1"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T15:12:19.322Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a621f0be5c30eee7959019"
+      },
+      "updatedAt": {
+        "$date": "2024-07-28T10:48:16.563Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a6222abe5c30eee795907a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-28T10:49:14.139Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a62235be5c30eee79590e5"
+      },
+      "updatedAt": {
+        "$date": "2024-07-28T10:49:25.037Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "አይጠገብ",
+      "middlename": "ውዴ",
+      "lastname": "ቢያዝን",
+      "username": "ayitegeb10",
+      "email": "ayitegeb.wudie@gmail.com",
+      "password": "$2b$10$YxOZ4KvNlPCGyTnnUlqdQOtkAZ9xjQdleLG8qDbMecHViD94X1ywS",
+      "phone": "0920441991",
+      "gender": "Female",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን መሪ",
+      "level": "TeamLeaders",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "1721275799169-499377181-Ayetegebe Wude Biyazen.png",
+      "signature": "1721275799170-297891151-aytegeb mastelalef copy.png",
+      "picture": "1721275799171-388828553-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669895974fe70af0ac0952e1"
+      }
+    },
+    {
+      "firstname": "አይጠገብ",
+      "middlename": "ውዴ",
+      "lastname": "ቢያዝን",
+      "username": "ayitegeb10",
+      "email": "ayitegeb.wudie@gmail.com",
+      "password": "$2b$10$YxOZ4KvNlPCGyTnnUlqdQOtkAZ9xjQdleLG8qDbMecHViD94X1ywS",
+      "phone": "0920441991",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን መሪ",
+      "level": "TeamLeaders",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721275799170-297891151-aytegeb mastelalef copy.png",
+      "picture": "1721275799171-388828553-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669895974fe70af0ac0952e1"
+      }
+    },
+    {
+      "firstname": "አይጠገብ",
+      "middlename": "ውዴ",
+      "lastname": "ቢያዝን",
+      "username": "ayitegeb10",
+      "email": "ayitegeb.wudie@gmail.com",
+      "password": "$2b$10$YxOZ4KvNlPCGyTnnUlqdQOtkAZ9xjQdleLG8qDbMecHViD94X1ywS",
+      "phone": "0920441991",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን መሪ",
+      "level": "TeamLeaders",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "በመመሪያው መሰረት ይታይላቸው",
+          "_id": {
+            "$oid": "669fc85317ae587818669eec"
+          }
+        }
+      ],
+      "titer": "",
+      "signature": "1721275799170-297891151-aytegeb mastelalef copy.png",
+      "picture": "1721275799171-388828553-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669895974fe70af0ac0952e1"
+      }
+    },
+    {
+      "firstname": "አይጠገብ",
+      "middlename": "ውዴ",
+      "lastname": "ቢያዝን",
+      "username": "ayitegeb10",
+      "email": "ayitegeb.wudie@gmail.com",
+      "password": "$2b$10$YxOZ4KvNlPCGyTnnUlqdQOtkAZ9xjQdleLG8qDbMecHViD94X1ywS",
+      "phone": "0920441991",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን መሪ",
+      "level": "TeamLeaders",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "በመመሪያው መሰረት ይታይላቸው",
+          "_id": {
+            "$oid": "66a621f0be5c30eee7959011"
+          }
+        },
+        {
+          "title": "ከሌሎች የወለል ጥያቄ አቅራቢዎች ጋር ባቀረቡት የህክምና ማስረጃ መሰረት ይታይላቸው",
+          "_id": {
+            "$oid": "66a621f0be5c30eee7959012"
+          }
+        }
+      ],
+      "titer": "",
+      "signature": "1721275799170-297891151-aytegeb mastelalef copy.png",
+      "picture": "1721275799171-388828553-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669895974fe70af0ac0952e1"
+      }
+    },
+    {
+      "firstname": "አይጠገብ",
+      "middlename": "ውዴ",
+      "lastname": "ቢያዝን",
+      "username": "ayitegeb10",
+      "email": "ayitegeb.wudie@gmail.com",
+      "password": "$2b$10$YxOZ4KvNlPCGyTnnUlqdQOtkAZ9xjQdleLG8qDbMecHViD94X1ywS",
+      "phone": "0920441991",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን መሪ",
+      "level": "TeamLeaders",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "በመመሪያው መሰረት ይታይላቸው",
+          "_id": {
+            "$oid": "66a6222abe5c30eee795906f"
+          }
+        },
+        {
+          "title": "ከሌሎች የወለል ጥያቄ አቅራቢዎች ጋር ባቀረቡት የህክምና ማስረጃ መሰረት ይታይላቸው",
+          "_id": {
+            "$oid": "66a6222abe5c30eee7959070"
+          }
+        },
+        {
+          "title": "መረጃው ተጣርቆ ምላሽ ይሰጥ",
+          "_id": {
+            "$oid": "66a6222abe5c30eee7959071"
+          }
+        }
+      ],
+      "titer": "",
+      "signature": "1721275799170-297891151-aytegeb mastelalef copy.png",
+      "picture": "1721275799171-388828553-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669895974fe70af0ac0952e1"
+      }
+    },
+    {
+      "firstname": "አይጠገብ",
+      "middlename": "ውዴ",
+      "lastname": "ቢያዝን",
+      "username": "ayitegeb10",
+      "email": "ayitegeb.wudie@gmail.com",
+      "password": "$2b$10$YxOZ4KvNlPCGyTnnUlqdQOtkAZ9xjQdleLG8qDbMecHViD94X1ywS",
+      "phone": "0920441991",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ቡድን መሪ",
+      "level": "TeamLeaders",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [
+        {
+          "title": "በመመሪያው መሰረት ይታይላቸው",
+          "_id": {
+            "$oid": "66a6222abe5c30eee795906f"
+          }
+        },
+        {
+          "title": "ከሌሎች የወለል ጥያቄ አቅራቢዎች ጋር ባቀረቡት የህክምና ማስረጃ መሰረት ይታይላቸው",
+          "_id": {
+            "$oid": "66a6222abe5c30eee7959070"
+          }
+        }
+      ],
+      "titer": "",
+      "signature": "1721275799170-297891151-aytegeb mastelalef copy.png",
+      "picture": "1721275799171-388828553-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669895974fe70af0ac0952e1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T04:09:59.584Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-28T10:49:25.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669897e54fe70af0ac095531"
+  },
+  "office_user_id": {
+    "$oid": "669897e44fe70af0ac095507"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669897e54fe70af0ac095532"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T04:19:49.047Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669fc8fb17ae58781866a180"
+      },
+      "updatedAt": {
+        "$date": "2024-07-23T15:15:07.930Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ታገል",
+      "middlename": "መስፍን",
+      "lastname": "አበራ",
+      "username": "tamirat02",
+      "email": "tagelnemera@gmail.com",
+      "password": "$2b$10$E0FyHQmnNF4mKePcejIJpeOO9zs/0KiPMLpS7x1LqsN8Geba.sgkK",
+      "phone": "0911870011",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721276388463-193798224-tagel mesfin mastelalef copy.png",
+      "picture": "1721276388465-945765639-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669897e44fe70af0ac095507"
+      }
+    },
+    {
+      "firstname": "ታገል",
+      "middlename": "መስፍን",
+      "lastname": "አበራ",
+      "username": "tagel02",
+      "email": "tagelnemera@gmail.com",
+      "password": "$2b$10$E0FyHQmnNF4mKePcejIJpeOO9zs/0KiPMLpS7x1LqsN8Geba.sgkK",
+      "phone": "0911870011",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721276388463-193798224-tagel mesfin mastelalef copy.png",
+      "picture": "1721276388465-945765639-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669897e44fe70af0ac095507"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T04:19:49.050Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T15:15:07.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698cb7e4fe70af0ac097bb7"
+  },
+  "office_user_id": {
+    "$oid": "6698cb7e4fe70af0ac097bb5"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6698cb7e4fe70af0ac097bb8"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:59:58.267Z"
+      }
+    },
+    {
+      "updatedByOfficeUser": {
+        "$oid": "6698cb7e4fe70af0ac097bb5"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669a5ec92d455d0447d48251"
+      },
+      "updatedAt": {
+        "$date": "2024-07-19T12:40:41.885Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ልዩ",
+      "middlename": "አስራት",
+      "lastname": "አሰፋ",
+      "username": "lyu1221",
+      "email": "liyuasrat@gmail.com",
+      "password": "$2b$10$oLtDDlVR8QLb7Fr7GBYyqOCzV5JWqR0i701dNbsDaL9XkCPplII56",
+      "phone": "0913648514",
+      "gender": "Male",
+      "position": "ኢንፎርሜሽን ቴክኖሎጂ ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "6675415dfd40ac084cd5779f"
+      },
+      "paraph": [],
+      "titer": "1721289598068-825443825-Leyu Aserat Asefa.png",
+      "signature": "1721289598073-426223422-LIYU ASRAT ASSEFA copy.png",
+      "picture": "1721289598077-150438976-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698cb7e4fe70af0ac097bb5"
+      }
+    },
+    {
+      "firstname": "ልዩ",
+      "middlename": "አስራት",
+      "lastname": "አሰፋ",
+      "username": "lyu1221",
+      "email": "liyuasrat@gmail.com",
+      "password": "$2b$10$oLtDDlVR8QLb7Fr7GBYyqOCzV5JWqR0i701dNbsDaL9XkCPplII56",
+      "phone": "0913648514",
+      "gender": "Male",
+      "position": "ኢንፎርሜሽን ቴክኖሎጂ ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "6675415dfd40ac084cd5779f"
+      },
+      "paraph": [
+        {
+          "title": "ደብዳቤውን አዘጋጅቻለሁ",
+          "_id": {
+            "$oid": "669a5ec92d455d0447d4824c"
+          }
+        }
+      ],
+      "titer": "1721289598068-825443825-Leyu Aserat Asefa.png",
+      "signature": "1721289598073-426223422-LIYU ASRAT ASSEFA copy.png",
+      "picture": "1721289598077-150438976-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698cb7e4fe70af0ac097bb5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T07:59:58.270Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T12:40:41.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698d99c4fe70af0ac099bf0"
+  },
+  "office_user_id": {
+    "$oid": "6698d99c4fe70af0ac099bee"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6698d99c4fe70af0ac099bf1"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T09:00:12.518Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698d9f24fe70af0ac099eaa"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T09:01:38.038Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669a25bc2d455d0447d47a96"
+      },
+      "updatedAt": {
+        "$date": "2024-07-19T08:37:16.434Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ፍቃዱ",
+      "middlename": "አለሙ",
+      "lastname": "ይመር",
+      "username": "ፍቃዱ12",
+      "email": "feka2002alemu@gmail.com",
+      "password": "$2b$10$urlp3iKaei72G5.bFnAlaOl9Vt8/ejVCukIno3.cMAjYxSaUZ7r6i",
+      "phone": "0910597894",
+      "gender": "Male",
+      "position": "Plan and Design Preparation Directorate",
+      "level": "Directors",
+      "division": {
+        "$oid": "667d1c2bfbbd97c3f9b068b1"
+      },
+      "paraph": [],
+      "titer": "1721293212183-319572435-Fikadu Alemu.png",
+      "signature": "1721293212230-720631567-ABERA TEREFESA copy.png",
+      "picture": "1721293212271-502999474-fikadu.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698d99c4fe70af0ac099bee"
+      }
+    },
+    {
+      "firstname": "ፍቃዱ",
+      "middlename": "አለሙ",
+      "lastname": "ይመር",
+      "username": "fikadu12",
+      "email": "feka2002alemu@gmail.com",
+      "password": "$2b$10$urlp3iKaei72G5.bFnAlaOl9Vt8/ejVCukIno3.cMAjYxSaUZ7r6i",
+      "phone": "0910597894",
+      "gender": "Male",
+      "position": "Plan and Design Preparation Directorate",
+      "level": "Directors",
+      "division": {
+        "$oid": "667d1c2bfbbd97c3f9b068b1"
+      },
+      "paraph": [],
+      "titer": "1721293212183-319572435-Fikadu Alemu.png",
+      "signature": "1721293212230-720631567-ABERA TEREFESA copy.png",
+      "picture": "1721293212271-502999474-fikadu.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698d99c4fe70af0ac099bee"
+      }
+    },
+    {
+      "firstname": "ፍቃዱ",
+      "middlename": "አለሙ",
+      "lastname": "ይመር",
+      "username": "fikadu12",
+      "email": "feka2002alemu@gmail.com",
+      "password": "$2b$10$urlp3iKaei72G5.bFnAlaOl9Vt8/ejVCukIno3.cMAjYxSaUZ7r6i",
+      "phone": "0910597894",
+      "gender": "Male",
+      "position": "የፕላንና ዲዛይን ዝግጅት ዳይሬክተር ዳይሬክቶሬት",
+      "level": "Directors",
+      "division": {
+        "$oid": "667d1c2bfbbd97c3f9b068b1"
+      },
+      "paraph": [],
+      "titer": "1721293212183-319572435-Fikadu Alemu.png",
+      "signature": "1721378236295-695737673-FIKADU ALEMU YIMER copy.png",
+      "picture": "1721293212271-502999474-fikadu.jpg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698d99c4fe70af0ac099bee"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T09:00:12.555Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T08:37:16.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a274a2d455d0447d47b21"
+  },
+  "office_user_id": {
+    "$oid": "669a274a2d455d0447d47b1f"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669a274a2d455d0447d47b22"
+      },
+      "updatedAt": {
+        "$date": "2024-07-19T08:43:54.726Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "አዲሱ",
+      "middlename": "ቦደና",
+      "lastname": "ጋቢሳ",
+      "username": "addisubodena12",
+      "email": "bodenaaddisu@gmail.com",
+      "password": "$2b$10$7.FknAeScZKb4lcHtJPVtOTN0aoPtOdshoy6jX0UVXx7BFLnk7XAe",
+      "phone": "911913038",
+      "gender": "Male",
+      "position": "የግንባታ ፋይናንስ ዳይሬክቶሬት ዳይሬክተር",
+      "level": "Directors",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "1721378634522-545637066-Addisu Bodena Gebisa.png",
+      "signature": "1721378634526-343870594-ADDISU BODENA copy.png",
+      "picture": "1721378634530-55855735-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669a274a2d455d0447d47b1f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-19T08:43:54.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T08:43:54.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a28532d455d0447d47c54"
+  },
+  "office_user_id": {
+    "$oid": "669a28532d455d0447d47c49"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669a28532d455d0447d47c55"
+      },
+      "updatedAt": {
+        "$date": "2024-07-19T08:48:19.514Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "መሰረት",
+      "middlename": "ክፍሌ",
+      "lastname": "ሌንጮ",
+      "username": "meseret10",
+      "email": "mkifle900t@gmail.com",
+      "password": "$2b$10$n3xlIUt2XHxg9PK1Oj9yKuqOT14sxbtIfReIzRgq5WGpAJ8G3812i",
+      "phone": "0911888609",
+      "gender": "Female",
+      "position": "የግንባታ ፋይናንስ ክፍያ ቡድን መሪ",
+      "level": "TeamLeaders",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "1721378899116-722560875-Messeret Kefele Lencho.png",
+      "signature": "1721378899119-430835467-MESERET KIFLE LENCHO copy.png",
+      "picture": "1721378899122-354926055-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669a28532d455d0447d47c49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-19T08:48:19.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T08:48:19.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669d2aa10e0d4cc1b7394e9a"
+  },
+  "office_user_id": {
+    "$oid": "669d2aa00e0d4cc1b7394e87"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669d2aa10e0d4cc1b7394e9b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-21T15:34:57.185Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ምንላርግሽ",
+      "middlename": "ይመር",
+      "lastname": "ጣሰው",
+      "username": "menlargeshyimer12",
+      "email": "menlargeshyimer@yahoo.com",
+      "password": "$2b$10$IFwTE.ci.WlJ30oYhFz..uZlcKWVZ4/ZGblTe7hHFz4KzGQUlkvhi",
+      "phone": "0910195310",
+      "gender": "Female",
+      "position": "የበጀት የኮስትና ሪፖርት ዝግጅት ቡድን መሪ",
+      "level": "TeamLeaders",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "1721576096751-642673960-Menelaregelesh Yimere Tasew.png",
+      "signature": "1721576096754-179069211-MENLARGESH YIMER TASSWE copy.png",
+      "picture": "1721576096757-418399678-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669d2aa00e0d4cc1b7394e87"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-21T15:34:57.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-21T15:34:57.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669d2bfd0e0d4cc1b7394f78"
+  },
+  "office_user_id": {
+    "$oid": "669d2bfd0e0d4cc1b7394f5f"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669d2bfd0e0d4cc1b7394f79"
+      },
+      "updatedAt": {
+        "$date": "2024-07-21T15:40:45.822Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ሃና",
+      "middlename": "ጥላሁን",
+      "lastname": "ከሌቻ",
+      "username": "hannakiya08",
+      "email": "hannakiya@gmail.com",
+      "password": "$2b$10$FQXjSEtUHK2DB9ZzxO2cc.wdIyBz1Ft/SaKIRDktxbioN//CTxlum",
+      "phone": "0911124022",
+      "gender": "Female",
+      "position": "የአማራጭ ፋይናንስ አፈላላጊና የቦንድ ብድር ክትትል ቡድን መሪ",
+      "level": "TeamLeaders",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "1721576445436-3731164-Hanna Thilahun Kelecha.png",
+      "signature": "1721576445438-541150556-HANNA TILAHUN KELECHA copy.png",
+      "picture": "1721576445441-326440913-LOGO.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669d2bfd0e0d4cc1b7394f5f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-21T15:40:45.825Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-21T15:40:45.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e4b0a86c354d58a1b0e05"
+  },
+  "office_user_id": {
+    "$oid": "669e4b0a86c354d58a1b0dda"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669e4b0a86c354d58a1b0e06"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:05:30.855Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669e4cdc86c354d58a1b10a6"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:13:16.641Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ቤዛዊት",
+      "middlename": "ሙላቱ",
+      "lastname": "ገብረማርያም",
+      "username": "bezawit13",
+      "email": "bezawitmulatu24@gmail.com",
+      "password": "$2b$10$SIqjzGtxiCHP1k.d1ufS6eYz4WwnQUm2ngTcCfpaAB3coeKgASN/W",
+      "phone": "0907914313",
+      "gender": "Female",
+      "position": "cost and  budget report officer ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721649930198-86053566-BEZAWIT MULATU GEBREMARIAM copy.png",
+      "picture": "1721649930210-429705498-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "_id": {
+        "$oid": "669e4b0a86c354d58a1b0dda"
+      }
+    },
+    {
+      "firstname": "ቤዛዊት",
+      "middlename": "ሙላቱ",
+      "lastname": "ገብረማርያም",
+      "username": "bezawit13",
+      "email": "bezawitmulatu24@gmail.com",
+      "password": "$2b$10$SIqjzGtxiCHP1k.d1ufS6eYz4WwnQUm2ngTcCfpaAB3coeKgASN/W",
+      "phone": "0907914313",
+      "gender": "Female",
+      "position": "የበጀት የኮስትና ሪፖርት ዝግጅት ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721649930198-86053566-BEZAWIT MULATU GEBREMARIAM copy.png",
+      "picture": "1721649930210-429705498-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "_id": {
+        "$oid": "669e4b0a86c354d58a1b0dda"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-22T12:05:30.859Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T12:13:16.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e4f6c86c354d58a1b162f"
+  },
+  "office_user_id": {
+    "$oid": "669e4f6c86c354d58a1b15f7"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "6697b63920ff858ecdfec41c"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669e4f6c86c354d58a1b1630"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:24:12.948Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ትዝታ",
+      "middlename": "አቱሞ",
+      "lastname": " ወልዴ",
+      "username": "tizita12",
+      "email": "tizitaatumo@gmail.com",
+      "password": "$2b$10$GjBLrPg44P.17/SSG57u/uoXuLPEEfj9RE7A.IjZL3qCqTecz1pVK",
+      "phone": "0912991234",
+      "gender": "Female",
+      "position": "ጸሀፊ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721651052318-209692514-TIZITA ATUMO WOLDE copy.png",
+      "picture": "1721651052323-819567387-231209_-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b63920ff858ecdfec41c"
+      },
+      "_id": {
+        "$oid": "669e4f6c86c354d58a1b15f7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-22T12:24:12.952Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T12:24:12.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e51d286c354d58a1b1815"
+  },
+  "office_user_id": {
+    "$oid": "669e51d286c354d58a1b17d9"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669e51d286c354d58a1b1816"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:34:26.563Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ፀጋ",
+      "middlename": "እንግዳየሁ",
+      "lastname": "አየነው",
+      "username": "tsegaengidayehu",
+      "email": "tsegaengida88@gmail.com",
+      "password": "$2b$10$xVNykIoy28r6Q7nVXigIk.6AjEWwR2pDH0yP9FsCyB1nEFUnHLb/i",
+      "phone": "0916826942",
+      "gender": "Female",
+      "position": "አማራጭ ፋይናንስ አፈላላጊ ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721651665904-213059881-TSEGA ENGIDAYEHU AYENEW copy.png",
+      "picture": "1721651665911-26200280-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669e51d286c354d58a1b17d9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-22T12:34:26.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T12:34:26.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e526486c354d58a1b1906"
+  },
+  "office_user_id": {
+    "$oid": "669e526486c354d58a1b18b4"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669e526486c354d58a1b1907"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:36:52.825Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ሸዋዬ ",
+      "middlename": "መኮንን",
+      "lastname": "ወረታ",
+      "username": "shewaye",
+      "email": "shewayemekonenne@gmail.com",
+      "password": "$2b$10$0YsiJ33H3bOR2GsJn.bc0O.6CNXmCxVvnACWMTYWxiCnvqm2UG50.",
+      "phone": "0954885177",
+      "gender": "Female",
+      "position": "የግንባታ ፋይናንስ የሪፖርት ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721651812202-604814132-SHEWAYE MEKONENNE WARETA copy.png",
+      "picture": "1721651812205-643585351-logo.jpeg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "_id": {
+        "$oid": "669e526486c354d58a1b18b4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-22T12:36:52.829Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T12:36:52.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e53d986c354d58a1b1a24"
+  },
+  "office_user_id": {
+    "$oid": "669e53d986c354d58a1b19ea"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669e53d986c354d58a1b1a25"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T12:43:05.698Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ሰብለ",
+      "middlename": "ደምሴ",
+      "lastname": "ገብሩ",
+      "username": "seble19",
+      "email": "sebiymoke@gmail.com",
+      "password": "$2b$10$dFF9F9Ky3woZUDOE46vyoO.1oAD2xk9ME3WS77fKHvLrXvStsdNgq",
+      "phone": "0913767433",
+      "gender": "Female",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721652185045-188499815-SEBLE DEMISSIE GEBRU copy.png",
+      "picture": "1721652185056-574896697-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "_id": {
+        "$oid": "669e53d986c354d58a1b19ea"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-22T12:43:05.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T12:43:05.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e5f6086c354d58a1b24bd"
+  },
+  "office_user_id": {
+    "$oid": "669e5f6086c354d58a1b246a"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669e5f6086c354d58a1b24be"
+      },
+      "updatedAt": {
+        "$date": "2024-07-22T13:32:16.655Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "መሰረት",
+      "middlename": "ማሞ",
+      "lastname": "ሙላት",
+      "username": "meseret",
+      "email": "michaellegesse27@gmail.com",
+      "password": "$2b$10$j1H4C2J7f9V.Qs.k9G2PreHLQUeb55Ue9WrSkgvRlyA79IwIT5fKu",
+      "phone": "0911122627",
+      "gender": "Female",
+      "position": "ፋይናንስ ኦፊሰር",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721655136023-588542137-MESERET MAMO MULAT copy.png",
+      "picture": "1721655136042-634017736-logo.jpeg",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "_id": {
+        "$oid": "669e5f6086c354d58a1b246a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-22T13:32:16.659Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T13:32:16.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0f03497d2345b032f82b9"
+  },
+  "office_user_id": {
+    "$oid": "66a0f03497d2345b032f8270"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a0f03497d2345b032f82ba"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T12:14:44.718Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ሞገስ",
+      "middlename": "ግርማ",
+      "lastname": "ገብረኪዳን",
+      "username": "moges94",
+      "email": "mogina0911912194@gmail.com",
+      "password": "$2b$10$3P6s.anAzI2B0kT6QRV8JudnjXqnSsg0GEs5IxOkCaLS6/h6l5WVe",
+      "phone": "0911912194",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721823284028-880682341-Moges Girma copy.png",
+      "picture": "1721823284050-85993631-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a0f03497d2345b032f8270"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-24T12:14:44.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T12:14:44.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0f2fc97d2345b032f8339"
+  },
+  "office_user_id": {
+    "$oid": "66a0f2fb97d2345b032f82df"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a0f2fc97d2345b032f833a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T12:26:36.257Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ራሔል ",
+      "middlename": "ታሪኩ",
+      "lastname": "ይፍሩ",
+      "username": "rahel22",
+      "email": "enanuenu370@gmail.com",
+      "password": "$2b$10$uVfh.1qPkjRF7jMokHMxa.XJKcjKOcNgAyl1uQqvAUxaM7muAHM8m",
+      "phone": "0922000972",
+      "gender": "Female",
+      "position": "የጋራ መኖሪያ ቤቶች ማስተላለፍ ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721823995609-929890406-Rahel Tariku copy.png",
+      "picture": "1721823995623-738676938-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "_id": {
+        "$oid": "66a0f2fb97d2345b032f82df"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-24T12:26:36.260Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T12:26:36.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0f51a97d2345b032f8516"
+  },
+  "office_user_id": {
+    "$oid": "66a0f51997d2345b032f84a9"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a0f51a97d2345b032f8517"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T12:35:38.102Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "አለምፀሀይ",
+      "middlename": "ዘገየ",
+      "lastname": "በየነ",
+      "username": "alemtsehay79",
+      "email": "alemtsehayzgy@gmail.com",
+      "password": "$2b$10$t9oDnj564mtgm.rhMmlUReaMwQXxEdA.KhQks3YZfI6eA0Kgvtj/a",
+      "phone": "0935365279",
+      "gender": "Female",
+      "position": "የጋራ መኖሪያ ቤቶቸ ማስተላለፍ ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721824537317-892391052-Alemtsehay Zegeye copy.png",
+      "picture": "1721824537379-514710886-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a0f51997d2345b032f84a9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-24T12:35:38.109Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T12:35:38.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0f6da97d2345b032f8661"
+  },
+  "office_user_id": {
+    "$oid": "66a0f6d997d2345b032f85da"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a0f6da97d2345b032f8662"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T12:43:06.263Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ክፍሌ",
+      "middlename": "ገረመ",
+      "lastname": "መንግስቱ",
+      "username": "kifle53",
+      "email": "gerekef57@gmail.com",
+      "password": "$2b$10$rp1pd1JUgzLUaH7Q7rcjtOsN0Axil2jE0LxQXM8Tc89PPe1bYUADS",
+      "phone": "0912421853",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያና ንግድ ቤት ክትትል ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721824985612-804993470-Kifle Gereme copy.png",
+      "picture": "1721824985625-378952882-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a0f6d997d2345b032f85da"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-24T12:43:06.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T12:43:06.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0f93a97d2345b032f897a"
+  },
+  "office_user_id": {
+    "$oid": "66a0f93997d2345b032f88e1"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a0f93a97d2345b032f897b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T12:53:14.436Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "አለምአንተ",
+      "middlename": " አስማማው ",
+      "lastname": "በየነ",
+      "username": "alem49",
+      "email": "asmamawalemante@gmail.com",
+      "password": "$2b$10$hHU9qYzvRT0GrtUHxT8IzOvYNXev/FiUuZl9y8WSYGMTq9AHKtX/i",
+      "phone": "0912641749",
+      "gender": "Male",
+      "position": "የጋራ መኖሪያ ቤት ማስተላለፍ ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721825593727-174193682-Alemante Asemamaw copy.png",
+      "picture": "1721825593768-822362378-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "6697b12120ff858ecdfec0f0"
+      },
+      "_id": {
+        "$oid": "66a0f93997d2345b032f88e1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-24T12:53:14.438Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T12:53:14.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0fe0f97d2345b032f8e09"
+  },
+  "office_user_id": {
+    "$oid": "66a0fe0f97d2345b032f8d57"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a0fe0f97d2345b032f8e0a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T13:13:51.956Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ቅድስት",
+      "middlename": "ባየህ",
+      "lastname": "ደስታ",
+      "username": "kidist29",
+      "email": "kidistbayeh12@gmail.com",
+      "password": "$2b$10$U4LDv4VCBT.Hr6uVO33n0ORMBVLrs1lfsX2otA/OiQ.7guZbyzqIC",
+      "phone": "09010623029",
+      "gender": "Female",
+      "position": "የጋራ መኖሪያ ቤቶችና ንግድ ቤት ክትትል ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721826831277-241454931-Kidist Bayeh copy.png",
+      "picture": "1721826831295-934498549-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a0fe0f97d2345b032f8d57"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-24T13:13:51.959Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T13:13:51.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0ffe897d2345b032f8f9d"
+  },
+  "office_user_id": {
+    "$oid": "66a0ffe797d2345b032f8f11"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a0ffe897d2345b032f8f9e"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T13:21:44.445Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ጉዜ",
+      "middlename": "በለጠ",
+      "lastname": "ተገኝ",
+      "username": "guzie41",
+      "email": "guziebelete1@gmail.com",
+      "password": "$2b$10$VGYztTwPpkS1F3HaXbVtTOmz5EEvPTP3Ei.8qhAJH8p4MF0C44Rji",
+      "phone": "0913469241",
+      "gender": "Female",
+      "position": "የንግድ ቤቶች ጨረታ ሰነድ ያዥ ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721827303724-401949966-Guzie Belete copy.png",
+      "picture": "1721827303738-945379315-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a0ffe797d2345b032f8f11"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-24T13:21:44.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T13:21:44.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a102d397d2345b032f9266"
+  },
+  "office_user_id": {
+    "$oid": "66a102d297d2345b032f91c4"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a102d397d2345b032f9267"
+      },
+      "updatedAt": {
+        "$date": "2024-07-24T13:34:11.547Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "firstname": "ሀብታሙ",
+      "middlename": "ገዛኸኝ",
+      "lastname": "ተክለጻዲቅ",
+      "username": "habtamu16",
+      "email": "habtamugezahgen308@gmail.com",
+      "password": "$2b$10$t9BDIVQ.DQG9KTIb00iWh.5sBBznYOQ8zBYO8Hdi2Pnh2hEpdT05m",
+      "phone": "0938017016",
+      "gender": "Male",
+      "position": "የንግድ ቤቶች ጨረታ አስተዳደር ባለሙያ",
+      "level": "Professionals",
+      "division": {
+        "$oid": "66756e67fd40ac084cd57ca2"
+      },
+      "paraph": [],
+      "titer": "",
+      "signature": "1721828050750-322789404-Habtamu Gezahegn copy.png",
+      "picture": "1721828050779-32119233-housingLogo.041341a82bf5b243fc2b.png",
+      "status": "active",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66a102d297d2345b032f91c4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-24T13:34:11.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T13:34:11.549Z"
+  },
+  "__v": 0
+}]

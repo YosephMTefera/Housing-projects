@@ -1,0 +1,5498 @@
+[{
+  "_id": {
+    "$oid": "66757267fd40ac084cd57ebb"
+  },
+  "questions_id": {
+    "$oid": "66757267fd40ac084cd57eb1"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757267fd40ac084cd57ebc"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:30:31.825Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Health Status: Are you disabled (attach proof if any) ",
+      "name_am": "የጤና ሁኔታዎ እንዴት ነው?",
+      "name_or": "How is your health condition?",
+      "name_sm": "How is your health condition?",
+      "name_tg": "How is your health condition?",
+      "name_af": "How is your health condition?",
+      "caselist": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "66757267fd40ac084cd57eb2"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "66757267fd40ac084cd57eb3"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757267fd40ac084cd57eb1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:30:31.828Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T12:30:31.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757346fd40ac084cd57f44"
+  },
+  "questions_id": {
+    "$oid": "66757346fd40ac084cd57f37"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757346fd40ac084cd57f45"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:34:14.879Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Request to change the site (please attach documents)",
+      "name_am": "የሳይት ይቀየርልኝ/ይቀይርላቸው ጥያቄ የቀረበበት አግባብ (ማስረጀዎች ይያያዙ)",
+      "name_or": "Request to change the site (please attach documents)",
+      "name_sm": "Request to change the site (please attach documents)",
+      "name_tg": "Request to change the site (please attach documents)",
+      "name_af": "Request to change the site (please attach documents)",
+      "caselist": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "66757346fd40ac084cd57f38"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": " Assigned by special, assignment or discretionary status",
+            "value_sm": " Assigned by special, assignment or discretionary status",
+            "value_tg": " Assigned by special, assignment or discretionary status",
+            "value_af": " Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "66757346fd40ac084cd57f39"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "66757346fd40ac084cd57f3a"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757346fd40ac084cd57f37"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:34:14.882Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T12:34:14.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667574f3fd40ac084cd58045"
+  },
+  "questions_id": {
+    "$oid": "667574f2fd40ac084cd58035"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "667574f3fd40ac084cd58046"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:41:23.141Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Type of house",
+      "name_am": "የቤት ዓይነት ",
+      "name_or": "Type of house",
+      "name_sm": "Type of house",
+      "name_tg": "Type of house",
+      "name_af": "Type of house",
+      "caselist": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "studio",
+            "value_sm": "studio",
+            "value_tg": "studio",
+            "value_af": "studio"
+          },
+          "_id": {
+            "$oid": "667574f2fd40ac084cd58036"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "667574f2fd40ac084cd58037"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "667574f2fd40ac084cd58038"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "667574f2fd40ac084cd58039"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667574f2fd40ac084cd58035"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:41:23.146Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T12:41:23.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675762bfd40ac084cd581a5"
+  },
+  "questions_id": {
+    "$oid": "6675762bfd40ac084cd5819b"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675762bfd40ac084cd581a6"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:46:35.741Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Health Status: Are you disabled (attach proof if any) ",
+      "name_am": "የጤና ሁኔታ:- አካል ጉዳተኛ ኖት (ማስረጃ ካለ አባሪ ያያይዙ)",
+      "name_or": "Health Status: Are you disabled (attach proof if any) ",
+      "name_sm": "Health Status: Are you disabled (attach proof if any) ",
+      "name_tg": "Health Status: Are you disabled (attach proof if any) ",
+      "name_af": "Health Status: Are you disabled (attach proof if any) ",
+      "caselist": {
+        "$oid": "66757566fd40ac084cd580cd"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "6675762bfd40ac084cd5819c"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "6675762bfd40ac084cd5819d"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675762bfd40ac084cd5819b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:46:35.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T12:46:35.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675788efd40ac084cd5833d"
+  },
+  "questions_id": {
+    "$oid": "6675788dfd40ac084cd58330"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675788efd40ac084cd5833e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T12:56:46.237Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "How the request for house allocation/allocation to them has been submitted",
+      "name_am": "የቤት ይመደብልኝ /ይመደብላቸው ጥያቄ የቀረበበት አግባብ (ማስረጀዎች ይያያዙ)",
+      "name_or": "How the request for house allocation/allocation to them has been submitted",
+      "name_sm": "How the request for house allocation/allocation to them has been submitted",
+      "name_tg": "How the request for house allocation/allocation to them has been submitted",
+      "name_af": "How the request for house allocation/allocation to them has been submitted",
+      "caselist": {
+        "$oid": "66757566fd40ac084cd580cd"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Transferred by lottery",
+            "value_am": "በእጣ የተላለፈ ",
+            "value_or": "Transferred by lottery",
+            "value_sm": "Transferred by lottery",
+            "value_tg": "Transferred by lottery",
+            "value_af": "Transferred by lottery"
+          },
+          "_id": {
+            "$oid": "6675788dfd40ac084cd58331"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Assigned by special, assignment or decision",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ  የተመደበ",
+            "value_or": "Assigned by special, assignment or decision",
+            "value_sm": "Assigned by special, assignment or decision",
+            "value_tg": "Assigned by special, assignment or decision",
+            "value_af": "Assigned by special, assignment or decision"
+          },
+          "_id": {
+            "$oid": "6675788dfd40ac084cd58332"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Assigned to development initiative",
+            "value_am": "ልማት ተነሺነት የተመደበ",
+            "value_or": "Assigned to development initiative",
+            "value_sm": "Assigned to development initiative",
+            "value_tg": "Assigned to development initiative",
+            "value_af": "Assigned to development initiative"
+          },
+          "_id": {
+            "$oid": "6675788dfd40ac084cd58333"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675788dfd40ac084cd58330"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T12:56:46.241Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T12:56:46.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757979fd40ac084cd58396"
+  },
+  "questions_id": {
+    "$oid": "66757979fd40ac084cd58386"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757979fd40ac084cd58397"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:00:41.313Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "House type",
+      "name_am": "የቤት ዓይነት ",
+      "name_or": "House type",
+      "name_sm": "House type",
+      "name_tg": "House type",
+      "name_af": "House type",
+      "caselist": {
+        "$oid": "66757566fd40ac084cd580cd"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "66757979fd40ac084cd58387"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "66757979fd40ac084cd58388"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "66757979fd40ac084cd58389"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "66757979fd40ac084cd5838a"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757979fd40ac084cd58386"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:00:41.317Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:00:41.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757a98fd40ac084cd5847d"
+  },
+  "questions_id": {
+    "$oid": "66757a98fd40ac084cd58473"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757a98fd40ac084cd5847e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:05:28.671Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Health Status: Are you disabled (attach proof if any)",
+      "name_am": "የጤና ሁኔታ:- አካል ጉዳተኛ ኖት (ማስረጃ ካለ አባሪ ያያይዙ)",
+      "name_or": "Health Status: Are you disabled (attach proof if any)",
+      "name_sm": "Health Status: Are you disabled (attach proof if any)",
+      "name_tg": "Health Status: Are you disabled (attach proof if any)",
+      "name_af": "Health Status: Are you disabled (attach proof if any)",
+      "caselist": {
+        "$oid": "667579cafd40ac084cd58432"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "66757a98fd40ac084cd58474"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "66757a98fd40ac084cd58475"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757a98fd40ac084cd58473"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:05:28.677Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:05:28.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757b76fd40ac084cd584bc"
+  },
+  "questions_id": {
+    "$oid": "66757b76fd40ac084cd584b2"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757b76fd40ac084cd584bd"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:09:10.956Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "What you want to be served (attach evidence)",
+      "name_am": "አገልግሎት እዲሰጦት የሚፈልጉት (ማስረጃዎች ይያያዙ)",
+      "name_or": "What you want to be served (attach evidence) OR",
+      "name_sm": "What you want to be served (attach evidence) SM",
+      "name_tg": "What you want to be served (attach evidence) TG",
+      "name_af": "What you want to be served (attach evidence) AF",
+      "caselist": {
+        "$oid": "66757926fd40ac084cd5836d"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Construction works",
+            "value_am": "በህንፃ ግንባታ ስራዎች",
+            "value_or": "Hojii ijaarsaa",
+            "value_sm": "Construction works SM",
+            "value_tg": "ስራሕቲ ህንፀት",
+            "value_af": "Construction works AF"
+          },
+          "_id": {
+            "$oid": "66757b76fd40ac084cd584b3"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Field works",
+            "value_am": "በምድረ ግቢ ስራዎች",
+            "value_or": "Hojii dirree",
+            "value_sm": "Field works SM",
+            "value_tg": "Field works TG",
+            "value_af": "Field works AF"
+          },
+          "_id": {
+            "$oid": "66757b76fd40ac084cd584b4"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757b76fd40ac084cd584b2"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:09:10.961Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:09:10.961Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757b96fd40ac084cd58533"
+  },
+  "questions_id": {
+    "$oid": "66757b96fd40ac084cd58526"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757b96fd40ac084cd58534"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:09:42.866Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "How the request for change of house was submitted (documents should be attached)",
+      "name_am": "የቤት ይቀየርልኝ/ይቀይርላቸው ጥያቄ የቀረበበት አግባብ (ማስረጀዎች ይያያዙ)",
+      "name_or": "How the request for change of house was submitted (documents should be attached)",
+      "name_sm": "How the request for change of house was submitted (documents should be attached)",
+      "name_tg": "How the request for change of house was submitted (documents should be attached)",
+      "name_af": "How the request for change of house was submitted (documents should be attached)",
+      "caselist": {
+        "$oid": "667579cafd40ac084cd58432"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "66757b96fd40ac084cd58527"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": " Assigned by special, assignment or discretionary status",
+            "value_sm": " Assigned by special, assignment or discretionary status",
+            "value_tg": " Assigned by special, assignment or discretionary status",
+            "value_af": " Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "66757b96fd40ac084cd58528"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "66757b96fd40ac084cd58529"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757b96fd40ac084cd58526"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:09:42.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:09:42.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757c5bfd40ac084cd58578"
+  },
+  "questions_id": {
+    "$oid": "66757c5bfd40ac084cd5856e"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757c5bfd40ac084cd58579"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:12:59.987Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "If you have any further questions, please let us know",
+      "name_am": "ተጨማሪ ጥያቄ ካለ ይግለፁ",
+      "name_or": "Gaaffii dabalataa yoo qabaattan naaf himaa",
+      "name_sm": "If you have any further questions, please let us know SM",
+      "name_tg": "If you have any further questions, please let us know TG",
+      "name_af": "If you have any further questions, please let us know AF",
+      "caselist": {
+        "$oid": "66757926fd40ac084cd5836d"
+      },
+      "dataType": "string",
+      "hasEnum": "no",
+      "enumValues": [],
+      "isRequired": "yes",
+      "inputType": "text_area",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757c5bfd40ac084cd5856e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:12:59.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:12:59.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757ca3fd40ac084cd58677"
+  },
+  "questions_id": {
+    "$oid": "66757ca2fd40ac084cd58667"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757ca3fd40ac084cd58678"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:14:11.106Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Type of house",
+      "name_am": "የቤት ዓይነት ",
+      "name_or": "Type of house",
+      "name_sm": "Type of house",
+      "name_tg": "Type of house",
+      "name_af": "Type of house",
+      "caselist": {
+        "$oid": "667579cafd40ac084cd58432"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "66757ca2fd40ac084cd58668"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "66757ca2fd40ac084cd58669"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "66757ca2fd40ac084cd5866a"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "66757ca2fd40ac084cd5866b"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757ca2fd40ac084cd58667"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:14:11.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:14:11.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757e76fd40ac084cd5880a"
+  },
+  "questions_id": {
+    "$oid": "66757e76fd40ac084cd58800"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757e76fd40ac084cd5880b"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:21:58.626Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": " What kind of service do you want to be provided (attach document if any)",
+      "name_am": "አገልግሎት እዲሰጦት የሚፈልጉት (ማስረጃዎች ይያያዙ)",
+      "name_or": " What kind of service do you want to be provided?",
+      "name_sm": "What kind of service do you want to be provided?",
+      "name_tg": " What kind of service do you want to be provided?",
+      "name_af": " What kind of service do you want to be provided?",
+      "caselist": {
+        "$oid": "66757ce6fd40ac084cd58709"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Residential",
+            "value_am": "በመኖሪያ ቤት",
+            "value_or": "Residential",
+            "value_sm": "Residential",
+            "value_tg": "Residential",
+            "value_af": "Residential"
+          },
+          "_id": {
+            "$oid": "66757e76fd40ac084cd58801"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "business",
+            "value_am": "በንግድ ቤት",
+            "value_or": "business",
+            "value_sm": "business",
+            "value_tg": "business",
+            "value_af": "business"
+          },
+          "_id": {
+            "$oid": "66757e76fd40ac084cd58802"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757e76fd40ac084cd58800"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:21:58.630Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:21:58.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66757f46fd40ac084cd58853"
+  },
+  "questions_id": {
+    "$oid": "66757f45fd40ac084cd58845"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66757f46fd40ac084cd58854"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:25:26.168Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "House Type",
+      "name_am": "የቤት ዓይነት",
+      "name_or": "House Type",
+      "name_sm": "House Type",
+      "name_tg": "House Type",
+      "name_af": "House Type",
+      "caselist": {
+        "$oid": "66757ce6fd40ac084cd58709"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "66757f45fd40ac084cd58846"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "66757f45fd40ac084cd58847"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "66757f45fd40ac084cd58848"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "66757f45fd40ac084cd58849"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66757f45fd40ac084cd58845"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:25:26.172Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:25:26.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667580f3fd40ac084cd58975"
+  },
+  "questions_id": {
+    "$oid": "667580f2fd40ac084cd5896b"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "667580f3fd40ac084cd58976"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:32:35.082Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "types of payment",
+      "name_am": "የምን ክፍያ ነው",
+      "name_or": "Haala kaffalti",
+      "name_sm": "types of payment som",
+      "name_tg": "types of payment tg",
+      "name_af": "types of payment af",
+      "caselist": {
+        "$oid": "66757f5afd40ac084cd58889"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "association fee",
+            "value_am": "የማህበር ክፍያ",
+            "value_or": "Kaffaltii waldaa",
+            "value_sm": "association fee sm",
+            "value_tg": "association fee tg",
+            "value_af": "association fee af"
+          },
+          "_id": {
+            "$oid": "667580f2fd40ac084cd5896c"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Contractor payment",
+            "value_am": "ስራ ተቋራጭ ክፍያ",
+            "value_or": "Contractor payment or",
+            "value_sm": "Contractor payment sm",
+            "value_tg": "Contractor payment ትግ",
+            "value_af": "Contractor payment af"
+          },
+          "_id": {
+            "$oid": "667580f2fd40ac084cd5896d"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667580f2fd40ac084cd5896b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:32:35.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:32:35.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667580f7fd40ac084cd58989"
+  },
+  "questions_id": {
+    "$oid": "667580f7fd40ac084cd5897d"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "667580f7fd40ac084cd5898a"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:32:39.810Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698bff54fe70af0ac096821"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:10:45.967Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698c0014fe70af0ac096843"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:10:57.680Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Service you need (attach proof)",
+      "name_am": "የሚፈልጉት አገልግሎት (ማስረጃ ይያያዝ)",
+      "name_or": "Service you need (attach proof)",
+      "name_sm": "Service you need (attach proof)",
+      "name_tg": "Service you need (attach proof)",
+      "name_af": "Service you need (attach proof)",
+      "caselist": {
+        "$oid": "66757fccfd40ac084cd58922"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Ban a house",
+            "value_am": "ቤት ይታገድልኝ",
+            "value_or": "Ban a house",
+            "value_sm": "Ban a house",
+            "value_tg": "Ban a house",
+            "value_af": "Ban a house"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd5897e"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Finishing a contract",
+            "value_am": "ውል ይፈፀምልኝ",
+            "value_or": "Finishing a contract",
+            "value_sm": "Finishing a contract",
+            "value_tg": "Finishing a contract",
+            "value_af": "Finishing a contract"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd5897f"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Name correction",
+            "value_am": "ስም ይስተካከልኝ",
+            "value_or": "Name correction",
+            "value_sm": "Name correction",
+            "value_tg": "Name correction",
+            "value_af": "Name correction"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd58980"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Other",
+            "value_am": "ለላ",
+            "value_or": "Other",
+            "value_sm": "Other",
+            "value_tg": "Other",
+            "value_af": "Other"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd58981"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667580f7fd40ac084cd5897d"
+      }
+    },
+    {
+      "name_en": "Service you need (attach proof)",
+      "name_am": "የሚፈልጉት አገልግሎት (ማስረጃ ይያያዝ)",
+      "name_or": "Service you need (attach proof)",
+      "name_sm": "Service you need (attach proof)",
+      "name_tg": "Service you need (attach proof)",
+      "name_af": "Service you need (attach proof)",
+      "caselist": {
+        "$oid": "66757fccfd40ac084cd58922"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Ban a house",
+            "value_am": "ቤት ይታገድልኝ",
+            "value_or": "Ban a house",
+            "value_sm": "Ban a house",
+            "value_tg": "Ban a house",
+            "value_af": "Ban a house"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd5897e"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Finishing a contract",
+            "value_am": "ውል ይፈፀምልኝ",
+            "value_or": "Finishing a contract",
+            "value_sm": "Finishing a contract",
+            "value_tg": "Finishing a contract",
+            "value_af": "Finishing a contract"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd5897f"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Name correction",
+            "value_am": "ስም ይስተካከልኝ",
+            "value_or": "Name correction",
+            "value_sm": "Name correction",
+            "value_tg": "Name correction",
+            "value_af": "Name correction"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd58980"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Other",
+            "value_am": "ለላ",
+            "value_or": "Other",
+            "value_sm": "Other",
+            "value_tg": "Other",
+            "value_af": "Other"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd58981"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Other",
+            "value_am": "ሌላ",
+            "value_or": "Other",
+            "value_sm": "Other",
+            "value_tg": "Other",
+            "value_af": "Other"
+          },
+          "_id": {
+            "$oid": "6698bff54fe70af0ac096814"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667580f7fd40ac084cd5897d"
+      }
+    },
+    {
+      "name_en": "Service you need (attach proof)",
+      "name_am": "የሚፈልጉት አገልግሎት (ማስረጃ ይያያዝ)",
+      "name_or": "Service you need (attach proof)",
+      "name_sm": "Service you need (attach proof)",
+      "name_tg": "Service you need (attach proof)",
+      "name_af": "Service you need (attach proof)",
+      "caselist": {
+        "$oid": "66757fccfd40ac084cd58922"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Ban a house",
+            "value_am": "ቤት ይታገድልኝ",
+            "value_or": "Ban a house",
+            "value_sm": "Ban a house",
+            "value_tg": "Ban a house",
+            "value_af": "Ban a house"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd5897e"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Finishing a contract",
+            "value_am": "ውል ይፈፀምልኝ",
+            "value_or": "Finishing a contract",
+            "value_sm": "Finishing a contract",
+            "value_tg": "Finishing a contract",
+            "value_af": "Finishing a contract"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd5897f"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Name correction",
+            "value_am": "ስም ይስተካከልኝ",
+            "value_or": "Name correction",
+            "value_sm": "Name correction",
+            "value_tg": "Name correction",
+            "value_af": "Name correction"
+          },
+          "_id": {
+            "$oid": "667580f7fd40ac084cd58980"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Other",
+            "value_am": "ሌላ",
+            "value_or": "Other",
+            "value_sm": "Other",
+            "value_tg": "Other",
+            "value_af": "Other"
+          },
+          "_id": {
+            "$oid": "6698bff54fe70af0ac096814"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667580f7fd40ac084cd5897d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:32:39.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T07:10:57.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667581acfd40ac084cd58a84"
+  },
+  "questions_id": {
+    "$oid": "667581acfd40ac084cd58a76"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "667581acfd40ac084cd58a85"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:35:40.850Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "House type",
+      "name_am": "የቤት ዓይነት",
+      "name_or": "House type",
+      "name_sm": "House type",
+      "name_tg": "House type",
+      "name_af": "House type",
+      "caselist": {
+        "$oid": "66757fccfd40ac084cd58922"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዶዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "667581acfd40ac084cd58a77"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "667581acfd40ac084cd58a78"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "667581acfd40ac084cd58a79"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "667581acfd40ac084cd58a7a"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667581acfd40ac084cd58a76"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:35:40.854Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:35:40.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667583d6fd40ac084cd58bfe"
+  },
+  "questions_id": {
+    "$oid": "667583d6fd40ac084cd58bf4"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "667583d6fd40ac084cd58bff"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:44:54.528Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Health Status: Are you disabled (attach proof if any)",
+      "name_am": "የጤና ሁኔታ:- አካል ጉዳተኛ ኖት (ማስረጃ ካለ አባሪ ያያይዙ)",
+      "name_or": "Health Status: Are you disabled (attach proof if any)",
+      "name_sm": "Health Status: Are you disabled (attach proof if any)",
+      "name_tg": "Health Status: Are you disabled (attach proof if any)",
+      "name_af": "Health Status: Are you disabled (attach proof if any)",
+      "caselist": {
+        "$oid": "66758273fd40ac084cd58b80"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "667583d6fd40ac084cd58bf5"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "667583d6fd40ac084cd58bf6"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667583d6fd40ac084cd58bf4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:44:54.532Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:44:54.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66758561fd40ac084cd58c48"
+  },
+  "questions_id": {
+    "$oid": "66758561fd40ac084cd58c3a"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66758561fd40ac084cd58c49"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:51:29.798Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": " Residential / Business",
+      "name_am": "መኖሪያ ቤት / ንግድ ቤት",
+      "name_or": " Residential / Business",
+      "name_sm": " Residential / Business",
+      "name_tg": " Residential / Business",
+      "name_af": " Residential / Business",
+      "caselist": {
+        "$oid": "66758273fd40ac084cd58b80"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "66758561fd40ac084cd58c3b"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": "Assigned by special, assignment or discretionary status",
+            "value_sm": "Assigned by special, assignment or discretionary status",
+            "value_tg": "Assigned by special, assignment or discretionary status",
+            "value_af": "Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "66758561fd40ac084cd58c3c"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": " Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": " Classified by development"
+          },
+          "_id": {
+            "$oid": "66758561fd40ac084cd58c3d"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Won the bid",
+            "value_am": "ጨረታ አሸንፎ",
+            "value_or": "Won the bid",
+            "value_sm": "Won the bid",
+            "value_tg": "Won the bid",
+            "value_af": "Won the bid"
+          },
+          "_id": {
+            "$oid": "66758561fd40ac084cd58c3e"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758561fd40ac084cd58c3a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:51:29.801Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:51:29.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667586edfd40ac084cd58d77"
+  },
+  "questions_id": {
+    "$oid": "667586edfd40ac084cd58d67"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "667586edfd40ac084cd58d78"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T13:58:05.791Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": " Type of house",
+      "name_am": "የቤት ዓይነት",
+      "name_or": " Type of house",
+      "name_sm": " Type of house",
+      "name_tg": " Type of house",
+      "name_af": " Type of house",
+      "caselist": {
+        "$oid": "66758273fd40ac084cd58b80"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "667586edfd40ac084cd58d68"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "667586edfd40ac084cd58d69"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "667586edfd40ac084cd58d6a"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "667586edfd40ac084cd58d6b"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "667586edfd40ac084cd58d67"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T13:58:05.798Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T13:58:05.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66758817fd40ac084cd58e26"
+  },
+  "questions_id": {
+    "$oid": "66758817fd40ac084cd58e1a"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66758817fd40ac084cd58e27"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T14:03:03.415Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Residential / Business",
+      "name_am": "መኖሪያ ቤት / ንግድ ቤት",
+      "name_or": "Residential / Business",
+      "name_sm": "Residential / Business",
+      "name_tg": "Residential / Business",
+      "name_af": "Residential / Business",
+      "caselist": {
+        "$oid": "66758727fd40ac084cd58dcd"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ  ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "66758817fd40ac084cd58e1b"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": "Assigned by special, assignment or discretionary status",
+            "value_sm": "Assigned by special, assignment or discretionary status",
+            "value_tg": "Assigned by special, assignment or discretionary status",
+            "value_af": "Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "66758817fd40ac084cd58e1c"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "66758817fd40ac084cd58e1d"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Won the bid",
+            "value_am": "ጨረታ አሸንፎ",
+            "value_or": "Won the bid",
+            "value_sm": "Won the bid",
+            "value_tg": "Won the bid",
+            "value_af": "Won the bid"
+          },
+          "_id": {
+            "$oid": "66758817fd40ac084cd58e1e"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758817fd40ac084cd58e1a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T14:03:03.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T14:03:03.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675894afd40ac084cd58ed6"
+  },
+  "questions_id": {
+    "$oid": "6675894afd40ac084cd58eca"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675894afd40ac084cd58ed7"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T14:08:10.764Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Residential / Business",
+      "name_am": "መኖሪያ ቤት / ንግድ ቤት",
+      "name_or": "Residential / Business",
+      "name_sm": "Residential / Business",
+      "name_tg": "Residential / Business",
+      "name_af": "Residential / Business",
+      "caselist": {
+        "$oid": "66758859fd40ac084cd58e79"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "6675894afd40ac084cd58ecb"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": " Assigned by special, assignment or discretionary status",
+            "value_sm": " Assigned by special, assignment or discretionary status",
+            "value_tg": " Assigned by special, assignment or discretionary status",
+            "value_af": " Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "6675894afd40ac084cd58ecc"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675894afd40ac084cd58ecd"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Won the bid",
+            "value_am": "ጨረታ አሸንፎ",
+            "value_or": "Won the bid",
+            "value_sm": "Won the bid",
+            "value_tg": "Won the bid",
+            "value_af": "Won the bid"
+          },
+          "_id": {
+            "$oid": "6675894afd40ac084cd58ece"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675894afd40ac084cd58eca"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T14:08:10.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T14:08:10.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66758a69fd40ac084cd58f29"
+  },
+  "questions_id": {
+    "$oid": "66758a68fd40ac084cd58f1b"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66758a69fd40ac084cd58f2a"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T14:12:57.008Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": " Type of house",
+      "name_am": "የቤት ዓይነት ",
+      "name_or": "Type of house",
+      "name_sm": "Type of house",
+      "name_tg": "Type of house",
+      "name_af": "Type of house",
+      "caselist": {
+        "$oid": "66758859fd40ac084cd58e79"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "66758a68fd40ac084cd58f1c"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "66758a68fd40ac084cd58f1d"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "66758a68fd40ac084cd58f1e"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "66758a68fd40ac084cd58f1f"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66758a68fd40ac084cd58f1b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T14:12:57.013Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T14:12:57.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675b155fd40ac084cd5906b"
+  },
+  "questions_id": {
+    "$oid": "6675b155fd40ac084cd59063"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675b155fd40ac084cd5906c"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T16:59:01.802Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Certified document (attach proof)",
+      "name_am": "የተረጋገጠ ሰነድ (ማስረጀዎች ይያያዙ)",
+      "name_or": "Certified document",
+      "name_sm": "Certified document",
+      "name_tg": "Certified document",
+      "name_af": "Certified document",
+      "caselist": {
+        "$oid": "6675b03cfd40ac084cd58fd3"
+      },
+      "dataType": "string",
+      "hasEnum": "no",
+      "enumValues": [],
+      "isRequired": "yes",
+      "inputType": "text_area",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675b155fd40ac084cd59063"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T16:59:01.805Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T16:59:01.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675b199fd40ac084cd590b4"
+  },
+  "questions_id": {
+    "$oid": "6675b199fd40ac084cd590aa"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675b199fd40ac084cd590b5"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T17:00:09.697Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Company Name",
+      "name_am": "Company Name",
+      "name_or": "Company Name",
+      "name_sm": "Company Name",
+      "name_tg": "Company Name",
+      "name_af": "Company Name",
+      "caselist": {
+        "$oid": "6675b03cfd40ac084cd58fd3"
+      },
+      "dataType": "string",
+      "hasEnum": "no",
+      "enumValues": [],
+      "isRequired": "yes",
+      "inputType": "normal_input",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675b199fd40ac084cd590aa"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T17:00:09.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T17:00:09.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675bb26fd40ac084cd59174"
+  },
+  "questions_id": {
+    "$oid": "6675bb26fd40ac084cd59168"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675bb26fd40ac084cd59175"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T17:40:54.623Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": " Residential / Business",
+      "name_am": "መኖሪያ ቤት / ንግድ ቤት",
+      "name_or": " Residential / Business",
+      "name_sm": " Residential / Business",
+      "name_tg": " Residential / Business",
+      "name_af": " Residential / Business",
+      "caselist": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "6675bb26fd40ac084cd59169"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": "Assigned by special, assignment or discretionary status",
+            "value_sm": "Assigned by special, assignment or discretionary status",
+            "value_tg": "Assigned by special, assignment or discretionary status",
+            "value_af": "Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "6675bb26fd40ac084cd5916a"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675bb26fd40ac084cd5916b"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Won the bid",
+            "value_am": "ጨረታ አሸንፎ",
+            "value_or": "Won the bid",
+            "value_sm": "Won the bid",
+            "value_tg": "Won the bid",
+            "value_af": "Won the bid"
+          },
+          "_id": {
+            "$oid": "6675bb26fd40ac084cd5916c"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675bb26fd40ac084cd59168"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T17:40:54.628Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T17:40:54.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675bbe0fd40ac084cd591c3"
+  },
+  "questions_id": {
+    "$oid": "6675bbdffd40ac084cd591b5"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675bbe0fd40ac084cd591c4"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T17:44:00.229Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6698c4ca4fe70af0ac0975f1"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:31:22.004Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6699082c4fe70af0ac09be41"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T12:18:52.171Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Type of house",
+      "name_am": "3.\tየቤት ዓይነት ",
+      "name_or": "Type of house",
+      "name_sm": "Type of house",
+      "name_tg": "Type of house",
+      "name_af": "Type of house",
+      "caselist": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b6"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b7"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b8"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b9"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675bbdffd40ac084cd591b5"
+      }
+    },
+    {
+      "name_en": "Type of house",
+      "name_am": "3.\tየቤት ዓይነት ",
+      "name_or": "Type of house",
+      "name_sm": "Type of house",
+      "name_tg": "Type of house",
+      "name_af": "Type of house",
+      "caselist": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b6"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b7"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b8"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b9"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Shop",
+            "value_am": "ሱቅ",
+            "value_or": "Shop",
+            "value_sm": "Shop",
+            "value_tg": "Shop",
+            "value_af": "Shop"
+          },
+          "_id": {
+            "$oid": "6698c4c94fe70af0ac0975e4"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675bbdffd40ac084cd591b5"
+      }
+    },
+    {
+      "name_en": "Type of house",
+      "name_am": "የቤት ዓይነት ",
+      "name_or": "Type of house",
+      "name_sm": "Type of house",
+      "name_tg": "Type of house",
+      "name_af": "Type of house",
+      "caselist": {
+        "$oid": "6675ba12fd40ac084cd5911b"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b6"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b7"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b8"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "6675bbdffd40ac084cd591b9"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Shop",
+            "value_am": "ሱቅ",
+            "value_or": "Shop",
+            "value_sm": "Shop",
+            "value_tg": "Shop",
+            "value_af": "Shop"
+          },
+          "_id": {
+            "$oid": "6698c4c94fe70af0ac0975e4"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675bbdffd40ac084cd591b5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T17:44:00.232Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T12:18:52.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675bfa6fd40ac084cd592c5"
+  },
+  "questions_id": {
+    "$oid": "6675bfa5fd40ac084cd592bb"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675bfa6fd40ac084cd592c6"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:00:06.251Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Health Status: Are you disabled (attach proof if any)",
+      "name_am": "የጤና ሁኔታ:- አካል ጉዳተኛ ኖት (ማስረጃ ካለ አባሪ ያያይዙ)",
+      "name_or": "Health Status: Are you disabled (attach proof if any)",
+      "name_sm": "Health Status: Are you disabled (attach proof if any)",
+      "name_tg": "Health Status: Are you disabled (attach proof if any)",
+      "name_af": "Health Status: Are you disabled (attach proof if any)",
+      "caselist": {
+        "$oid": "6675be13fd40ac084cd5926e"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "6675bfa5fd40ac084cd592bc"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "6675bfa5fd40ac084cd592bd"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675bfa5fd40ac084cd592bb"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T18:00:06.254Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T18:00:06.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675c24bfd40ac084cd59315"
+  },
+  "questions_id": {
+    "$oid": "6675c24bfd40ac084cd59308"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675c24bfd40ac084cd59316"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:11:23.790Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": " How the request for change of house was submitted (documents should be attached)",
+      "name_am": "የቤት ይቀየርልኝ/ይቀይርላቸው ጥያቄ የቀረበበት አግባብ (ማስረጀዎች ይያያዙ)",
+      "name_or": " How the request for change of house was submitted (documents should be attached)",
+      "name_sm": " How the request for change of house was submitted (documents should be attached)",
+      "name_tg": " How the request for change of house was submitted (documents should be attached)",
+      "name_af": " How the request for change of house was submitted (documents should be attached)",
+      "caselist": {
+        "$oid": "6675be13fd40ac084cd5926e"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "6675c24bfd40ac084cd59309"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": "Assigned by special, assignment or discretionary status",
+            "value_sm": "Assigned by special, assignment or discretionary status",
+            "value_tg": "Assigned by special, assignment or discretionary status",
+            "value_af": "Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "6675c24bfd40ac084cd5930a"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675c24bfd40ac084cd5930b"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c24bfd40ac084cd59308"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T18:11:23.793Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T18:11:23.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675c463fd40ac084cd59364"
+  },
+  "questions_id": {
+    "$oid": "6675c463fd40ac084cd59354"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675c463fd40ac084cd59365"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:20:19.590Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "House type",
+      "name_am": "የቤት ዓይነት ",
+      "name_or": "House type",
+      "name_sm": "House type",
+      "name_tg": "House type",
+      "name_af": "House type",
+      "caselist": {
+        "$oid": "6675be13fd40ac084cd5926e"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "6675c463fd40ac084cd59355"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "6675c463fd40ac084cd59356"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኛታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "6675c463fd40ac084cd59357"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "6675c463fd40ac084cd59358"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c463fd40ac084cd59354"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T18:20:19.597Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T18:20:19.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675c66efd40ac084cd59410"
+  },
+  "questions_id": {
+    "$oid": "6675c66dfd40ac084cd59405"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675c66efd40ac084cd59411"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:29:02.071Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": " What you want to be served (attach evidence)",
+      "name_am": "አገልግሎት እዲሰጦት የሚፈልጉት (ማስረጃዎች ይያያዙ)",
+      "name_or": " What you want to be served (attach evidence)",
+      "name_sm": "What you want to be served (attach evidence)",
+      "name_tg": " What you want to be served (attach evidence)",
+      "name_af": " What you want to be served (attach evidence)",
+      "caselist": {
+        "$oid": "6675c513fd40ac084cd593b9"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Residential",
+            "value_am": "በመኖሪያ ቤት",
+            "value_or": "Residential",
+            "value_sm": "Residential",
+            "value_tg": "Residential",
+            "value_af": "Residential"
+          },
+          "_id": {
+            "$oid": "6675c66dfd40ac084cd59406"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Business",
+            "value_am": "በንግድ ቤት",
+            "value_or": "Business",
+            "value_sm": "Business",
+            "value_tg": "Business",
+            "value_af": "Business"
+          },
+          "_id": {
+            "$oid": "6675c66dfd40ac084cd59407"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Field Works",
+            "value_am": "በምድረ ግቢ",
+            "value_or": "Field Works",
+            "value_sm": "Field Works",
+            "value_tg": "Field Works",
+            "value_af": "Field Works"
+          },
+          "_id": {
+            "$oid": "6675c66dfd40ac084cd59408"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c66dfd40ac084cd59405"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T18:29:02.076Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T18:29:02.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675c90ffd40ac084cd594b8"
+  },
+  "questions_id": {
+    "$oid": "6675c90ffd40ac084cd594ae"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675c90ffd40ac084cd594b9"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:40:15.414Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Payment type",
+      "name_am": "የክፍያ ዓይነት",
+      "name_or": "Payment type",
+      "name_sm": "Payment type",
+      "name_tg": "Payment type",
+      "name_af": "Payment type",
+      "caselist": {
+        "$oid": "6675c774fd40ac084cd5945c"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Association fee",
+            "value_am": "የማህበር ክፍያ",
+            "value_or": "Association fee",
+            "value_sm": "Association fee",
+            "value_tg": "Association fee",
+            "value_af": "Association fee"
+          },
+          "_id": {
+            "$oid": "6675c90ffd40ac084cd594af"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Contractor's payment",
+            "value_am": "የስራ ተቋራጭ ክፍያ",
+            "value_or": "Contractor's payment",
+            "value_sm": " Contractor's payment",
+            "value_tg": "Contractor's payment",
+            "value_af": "Contractor's payment"
+          },
+          "_id": {
+            "$oid": "6675c90ffd40ac084cd594b0"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675c90ffd40ac084cd594ae"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T18:40:15.416Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T18:40:15.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675cae6fd40ac084cd59505"
+  },
+  "questions_id": {
+    "$oid": "6675cae5fd40ac084cd594f3"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675cae6fd40ac084cd59506"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T18:48:06.291Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": " What type of service do you want to be served (attach proof)",
+      "name_am": "አገልግሎት እዲሰጦት የሚፈልጉት (ማስረጃዎች ይያያዙ)",
+      "name_or": "What type of service do you want to be served (attach proof)",
+      "name_sm": "What type of service do you want to be served (attach proof)",
+      "name_tg": "What type of service do you want to be served (attach proof)",
+      "name_af": "What type of service do you want to be served (attach proof)",
+      "caselist": {
+        "$oid": "6675c774fd40ac084cd5945c"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": " Building construction works",
+            "value_am": "የህንፃ ግንባታ ስራዎች",
+            "value_or": "Building construction works",
+            "value_sm": "Building construction works",
+            "value_tg": "Building construction works",
+            "value_af": " Building construction works"
+          },
+          "_id": {
+            "$oid": "6675cae5fd40ac084cd594f4"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Aluminum",
+            "value_am": "የአልሙኒየም",
+            "value_or": "Aluminum",
+            "value_sm": "Aluminum",
+            "value_tg": "Aluminum",
+            "value_af": "Aluminum"
+          },
+          "_id": {
+            "$oid": "6675cae5fd40ac084cd594f5"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Field works",
+            "value_am": "በምድረ ግቢ ስራዎች",
+            "value_or": "Field works",
+            "value_sm": "Field works",
+            "value_tg": "Field works",
+            "value_af": "Field works"
+          },
+          "_id": {
+            "$oid": "6675cae5fd40ac084cd594f6"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Lift fee",
+            "value_am": "የሊፍት ክፍያ         ",
+            "value_or": "Lift fee",
+            "value_sm": "Lift fee",
+            "value_tg": "Lift fee",
+            "value_af": "Lift fee"
+          },
+          "_id": {
+            "$oid": "6675cae5fd40ac084cd594f7"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Electricity",
+            "value_am": "ኤሌክትሪክ         ",
+            "value_or": "Electricity",
+            "value_sm": "Electricity",
+            "value_tg": "Electricity",
+            "value_af": "Electricity"
+          },
+          "_id": {
+            "$oid": "6675cae5fd40ac084cd594f8"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Construction and renovation works",
+            "value_am": "ግንባታና እድሳት ስራዎች",
+            "value_or": "Construction and renovation works",
+            "value_sm": "Construction and renovation works",
+            "value_tg": "Construction and renovation works",
+            "value_af": "Construction and renovation works"
+          },
+          "_id": {
+            "$oid": "6675cae5fd40ac084cd594f9"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Nitri",
+            "value_am": "ኒተሪ",
+            "value_or": "Nitri",
+            "value_sm": "Nitri",
+            "value_tg": "Nitri",
+            "value_af": "Nitri"
+          },
+          "_id": {
+            "$oid": "6675cae5fd40ac084cd594fa"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Others",
+            "value_am": " ሌሎች",
+            "value_or": "Others",
+            "value_sm": "Others",
+            "value_tg": "Others",
+            "value_af": "Others"
+          },
+          "_id": {
+            "$oid": "6675cae5fd40ac084cd594fb"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675cae5fd40ac084cd594f3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T18:48:06.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T18:48:06.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675dcabfd40ac084cd595ef"
+  },
+  "questions_id": {
+    "$oid": "6675dcabfd40ac084cd595e5"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675dcabfd40ac084cd595f0"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:03:55.658Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Health Status: Are you disabled (attach proof if any)",
+      "name_am": "የጤና ሁኔታ:- አካል ጉዳተኛ ኖት (ማስረጃ ካለ አባሪ ያያይዙ)",
+      "name_or": "Health Status: Are you disabled (attach proof if any)",
+      "name_sm": "Health Status: Are you disabled (attach proof if any)",
+      "name_tg": "Health Status: Are you disabled (attach proof if any)",
+      "name_af": "Health Status: Are you disabled (attach proof if any)",
+      "caselist": {
+        "$oid": "6675dc23fd40ac084cd59598"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "6675dcabfd40ac084cd595e6"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "6675dcabfd40ac084cd595e7"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675dcabfd40ac084cd595e5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:03:55.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:03:55.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675dd70fd40ac084cd5963d"
+  },
+  "questions_id": {
+    "$oid": "6675dd70fd40ac084cd59630"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675dd70fd40ac084cd5963e"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:07:12.649Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": " Reason for request to change the floor (attach documents)",
+      "name_am": "የወለል ይቀየርልኝ/ይቀይርላቸው ጥያቄ የቀረበበት አግባብ (ማስረጀዎች ይያያዙ)",
+      "name_or": "Reason for request to change the floor (attach documents)",
+      "name_sm": "Reason for request to change the floor (attach documents)",
+      "name_tg": "Reason for request to change the floor (attach documents)",
+      "name_af": "Reason for request to change the floor (attach documents)",
+      "caselist": {
+        "$oid": "6675dc23fd40ac084cd59598"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "6675dd70fd40ac084cd59631"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": " Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": "Assigned by special, assignment or discretionary status",
+            "value_sm": "Assigned by special, assignment or discretionary status",
+            "value_tg": "Assigned by special, assignment or discretionary status",
+            "value_af": "Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "6675dd70fd40ac084cd59632"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675dd70fd40ac084cd59633"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675dd70fd40ac084cd59630"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:07:12.653Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:07:12.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675de26fd40ac084cd59692"
+  },
+  "questions_id": {
+    "$oid": "6675de26fd40ac084cd59682"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675de26fd40ac084cd59693"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:10:14.762Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "House type",
+      "name_am": "የቤት ዓይነት",
+      "name_or": "House type",
+      "name_sm": "House type",
+      "name_tg": "House type",
+      "name_af": "House type",
+      "caselist": {
+        "$oid": "6675dc23fd40ac084cd59598"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "6675de26fd40ac084cd59683"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "6675de26fd40ac084cd59684"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "6675de26fd40ac084cd59685"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "6675de26fd40ac084cd59686"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675de26fd40ac084cd59682"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:10:14.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:10:14.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e01cfd40ac084cd59742"
+  },
+  "questions_id": {
+    "$oid": "6675e01cfd40ac084cd59738"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e01cfd40ac084cd59743"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:18:36.553Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Health Status: Are you disabled (attach proof if any)",
+      "name_am": "የጤና ሁኔታ:- አካል ጉዳተኛ ኖት (ማስረጃ ካለ አባሪ ያያይዙ)",
+      "name_or": "Health Status: Are you disabled (attach proof if any)",
+      "name_sm": "Health Status: Are you disabled (attach proof if any)",
+      "name_tg": "Health Status: Are you disabled (attach proof if any)",
+      "name_af": "Health Status: Are you disabled (attach proof if any)",
+      "caselist": {
+        "$oid": "6675df87fd40ac084cd596e6"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "6675e01cfd40ac084cd59739"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "6675e01cfd40ac084cd5973a"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e01cfd40ac084cd59738"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:18:36.557Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:18:36.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e117fd40ac084cd59791"
+  },
+  "questions_id": {
+    "$oid": "6675e117fd40ac084cd59784"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e117fd40ac084cd59792"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:22:47.445Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Request to change the site (please attach documents)",
+      "name_am": "የሳይት ይቀየርልኝ/ይቀይርላቸው ጥያቄ የቀረበበት አግባብ (ማስረጀዎች ይያያዙ)",
+      "name_or": "Request to change the site (please attach documents)",
+      "name_sm": "Request to change the site (please attach documents)",
+      "name_tg": "Request to change the site (please attach documents)",
+      "name_af": "Request to change the site (please attach documents)",
+      "caselist": {
+        "$oid": "6675df87fd40ac084cd596e6"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "6675e117fd40ac084cd59785"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": "Assigned by special, assignment or discretionary status",
+            "value_sm": "Assigned by special, assignment or discretionary status",
+            "value_tg": "Assigned by special, assignment or discretionary status",
+            "value_af": "Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "6675e117fd40ac084cd59786"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675e117fd40ac084cd59787"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e117fd40ac084cd59784"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:22:47.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:22:47.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e1f0fd40ac084cd597e5"
+  },
+  "questions_id": {
+    "$oid": "6675e1effd40ac084cd597d5"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e1f0fd40ac084cd597e6"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:26:24.048Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Type of house",
+      "name_am": "የቤት ዓይነት",
+      "name_or": "Type of house",
+      "name_sm": "Type of house",
+      "name_tg": "Type of house",
+      "name_af": "Type of house",
+      "caselist": {
+        "$oid": "6675df87fd40ac084cd596e6"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "6675e1effd40ac084cd597d6"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "6675e1effd40ac084cd597d7"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "6675e1effd40ac084cd597d8"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "6675e1effd40ac084cd597d9"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e1effd40ac084cd597d5"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:26:24.054Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:26:24.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e3a0fd40ac084cd59914"
+  },
+  "questions_id": {
+    "$oid": "6675e3a0fd40ac084cd5990a"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e3a0fd40ac084cd59915"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:33:36.845Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Health Status: Are you disabled (attach proof if any)",
+      "name_am": "የጤና ሁኔታ:- አካል ጉዳተኛ ኖት (ማስረጃ ካለ አባሪ ያያይዙ)",
+      "name_or": "Health Status: Are you disabled (attach proof if any)",
+      "name_sm": "Health Status: Are you disabled (attach proof if any)",
+      "name_tg": "Health Status: Are you disabled (attach proof if any)",
+      "name_af": "Health Status: Are you disabled (attach proof if any)",
+      "caselist": {
+        "$oid": "6675e344fd40ac084cd598b8"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "6675e3a0fd40ac084cd5990b"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "6675e3a0fd40ac084cd5990c"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e3a0fd40ac084cd5990a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:33:36.848Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:33:36.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e493fd40ac084cd59963"
+  },
+  "questions_id": {
+    "$oid": "6675e493fd40ac084cd59956"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e493fd40ac084cd59964"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:37:39.873Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Request to change house type (attach documents)",
+      "name_am": "የቤት አይነት ይቀየርልኝ/ይቀይርላቸው ጥያቄ የቀረበበት አግባብ (ማስረጀዎች ይያያዙ)",
+      "name_or": "Request to change house type (attach documents)",
+      "name_sm": "Request to change house type (attach documents)",
+      "name_tg": "Request to change house type (attach documents)",
+      "name_af": "Request to change house type (attach documents)",
+      "caselist": {
+        "$oid": "6675e344fd40ac084cd598b8"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "6675e493fd40ac084cd59957"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": "Assigned by special, assignment or discretionary status",
+            "value_sm": "Assigned by special, assignment or discretionary status",
+            "value_tg": "Assigned by special, assignment or discretionary status",
+            "value_af": "Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "6675e493fd40ac084cd59958"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675e493fd40ac084cd59959"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e493fd40ac084cd59956"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:37:39.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:37:39.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e53bfd40ac084cd599b6"
+  },
+  "questions_id": {
+    "$oid": "6675e53bfd40ac084cd599a6"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e53bfd40ac084cd599b7"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:40:27.816Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "House type",
+      "name_am": "የቤት አይነት",
+      "name_or": "House type",
+      "name_sm": "House type",
+      "name_tg": "House type",
+      "name_af": "House type",
+      "caselist": {
+        "$oid": "6675e344fd40ac084cd598b8"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "6675e53bfd40ac084cd599a7"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "6675e53bfd40ac084cd599a8"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "6675e53bfd40ac084cd599a9"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "6675e53bfd40ac084cd599aa"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e53bfd40ac084cd599a6"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:40:27.819Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:40:27.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e642fd40ac084cd59a66"
+  },
+  "questions_id": {
+    "$oid": "6675e642fd40ac084cd59a5c"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e642fd40ac084cd59a67"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:44:50.939Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Health Status: Are you disabled (attach proof if any)",
+      "name_am": "የጤና ሁኔታ:- አካል ጉዳተኛ ኖት (ማስረጃ ካለ አባሪ ያያይዙ)",
+      "name_or": "Health Status: Are you disabled (attach proof if any)",
+      "name_sm": "Health Status: Are you disabled (attach proof if any)",
+      "name_tg": "Health Status: Are you disabled (attach proof if any)",
+      "name_af": "Health Status: Are you disabled (attach proof if any)",
+      "caselist": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "6675e642fd40ac084cd59a5d"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "6675e642fd40ac084cd59a5e"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e642fd40ac084cd59a5c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:44:50.942Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:44:50.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e75ffd40ac084cd59ab1"
+  },
+  "questions_id": {
+    "$oid": "6675e75ffd40ac084cd59aa4"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e75ffd40ac084cd59ab2"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:49:35.997Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Type of house and floor (accessible house) Request to be changed (attach documents)",
+      "name_am": "የቤት አይነት  እና ወለል (ተደራሽ ቤት) ይቀየርልኝ/ይቀይርላቸው ጥያቄ የቀረበበት አግባብ (ማስረጀዎች ይያያዙ)",
+      "name_or": "Type of house and floor (accessible house) Request to be changed (attach documents)",
+      "name_sm": "Type of house and floor (accessible house) Request to be changed (attach documents)",
+      "name_tg": "Type of house and floor (accessible house) Request to be changed (attach documents)",
+      "name_af": "Type of house and floor (accessible house) Request to be changed (attach documents)",
+      "caselist": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "6675e75ffd40ac084cd59aa5"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": "Assigned by special, assignment or discretionary status",
+            "value_sm": "Assigned by special, assignment or discretionary status",
+            "value_tg": "Assigned by special, assignment or discretionary status",
+            "value_af": "Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "6675e75ffd40ac084cd59aa6"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675e75ffd40ac084cd59aa7"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e75ffd40ac084cd59aa4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:49:35.999Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:49:35.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e7f0fd40ac084cd59b01"
+  },
+  "questions_id": {
+    "$oid": "6675e7f0fd40ac084cd59af1"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e7f0fd40ac084cd59b02"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:52:00.904Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Type of house",
+      "name_am": "የቤት ዓይነት",
+      "name_or": "Type of house",
+      "name_sm": "Type of house",
+      "name_tg": "Type of house",
+      "name_af": "Type of house",
+      "caselist": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "6675e7f0fd40ac084cd59af2"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "በለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "6675e7f0fd40ac084cd59af3"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "6675e7f0fd40ac084cd59af4"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "6675e7f0fd40ac084cd59af5"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e7f0fd40ac084cd59af1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:52:00.908Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T20:52:00.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675e8fefd40ac084cd59ba8"
+  },
+  "questions_id": {
+    "$oid": "6675e8fdfd40ac084cd59b9f"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675e8fefd40ac084cd59ba9"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T20:56:30.207Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66756e60fd40ac084cd57c7d"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6697c7ee20ff858ecdff0b8e"
+      },
+      "updatedAt": {
+        "$date": "2024-07-17T13:32:30.352Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Request for sanitary ware (documents to be attached)",
+      "name_am": "የሳኒተሪ ዕቃ ይሰጠን ጥያቄ የቀረበበት አግባብ (ማስረጀዎች ይያያዙ)",
+      "name_or": "Request for sanitary ware (documents to be attached)",
+      "name_sm": "Request for sanitary ware (documents to be attached)",
+      "name_tg": "Request for sanitary ware (documents to be attached)",
+      "name_af": "Request for sanitary ware (documents to be attached)",
+      "caselist": {
+        "$oid": "6675e856fd40ac084cd59b51"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675e8fdfd40ac084cd59ba0"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e8fdfd40ac084cd59b9f"
+      }
+    },
+    {
+      "name_en": "Assigned by Development Initiative",
+      "name_am": "በልማት ተነሺነት የተመደበ",
+      "name_or": "Assigned by Development Initiative OR",
+      "name_sm": "Assigned by Development Initiative SO",
+      "name_tg": "Assigned by Development Initiative TI",
+      "name_af": "Assigned by Development Initiative AF",
+      "caselist": {
+        "$oid": "6675e856fd40ac084cd59b51"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675e8fdfd40ac084cd59ba0"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675e8fdfd40ac084cd59b9f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T20:56:30.209Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:32:30.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675ea5efd40ac084cd59cc0"
+  },
+  "questions_id": {
+    "$oid": "6675ea5dfd40ac084cd59cb6"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675ea5efd40ac084cd59cc1"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T21:02:22.060Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Health Status: Are you disabled (attach proof if any)",
+      "name_am": "የጤና ሁኔታ:- አካል ጉዳተኛ ኖት (ማስረጃ ካለ አባሪ ያያይዙ)",
+      "name_or": "Health Status: Are you disabled (attach proof if any)",
+      "name_sm": "Health Status: Are you disabled (attach proof if any)",
+      "name_tg": "Health Status: Are you disabled (attach proof if any)",
+      "name_af": "Health Status: Are you disabled (attach proof if any)",
+      "caselist": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "6675ea5dfd40ac084cd59cb7"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "6675ea5dfd40ac084cd59cb8"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675ea5dfd40ac084cd59cb6"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T21:02:22.064Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-21T21:02:22.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675eb1dfd40ac084cd59d0a"
+  },
+  "questions_id": {
+    "$oid": "6675eb1dfd40ac084cd59cfd"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6675eb1dfd40ac084cd59d0b"
+      },
+      "updatedAt": {
+        "$date": "2024-06-21T21:05:33.907Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "6682ad191d437eb91b215b8b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-01T13:20:25.706Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Type of house, floor (accessible house) and purpose of change of site (attach evidence)",
+      "name_am": "የቤት አይነት ፣ ወለል (ተደራሽ ቤት) እና የሳይት ይቀየርልኝ/ይቀይርላቸው ጥያቄ የቀረበበት አግባብ (ማስረጃዎች ይያያዙ)",
+      "name_or": "Type of house, floor (accessible house) and purpose of change of site (attach evidence)",
+      "name_sm": "Type of house, floor (accessible house) and purpose of change of site (attach evidence)",
+      "name_tg": "Type of house, floor (accessible house) and purpose of change of site (attach evidence)",
+      "name_af": "Type of house, floor (accessible house) and purpose of change of site (attach evidence)",
+      "caselist": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "6675eb1dfd40ac084cd59cfe"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": "Assigned by special, assignment or discretionary status",
+            "value_sm": "Assigned by special, assignment or discretionary status",
+            "value_tg": "Assigned by special, assignment or discretionary status",
+            "value_af": "Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "6675eb1dfd40ac084cd59cff"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675eb1dfd40ac084cd59d00"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675eb1dfd40ac084cd59cfd"
+      }
+    },
+    {
+      "name_en": "Type of house, floor (accessible house) and purpose of change of site (attach evidence)",
+      "name_am": "የቤት አይነት ፣ ወለል (ተደራሽ ቤት) እና የሳይት ይቀየርልኝ/ይቀይርላቸው ጥያቄ የቀረበበት አግባብ (ማስረጃዎች ይያያዙ)",
+      "name_or": "Type of house, floor (accessible house) and purpose of change of site (attach evidence)",
+      "name_sm": "Type of house, floor (accessible house) and purpose of change of site (attach evidence)",
+      "name_tg": "Type of house, floor (accessible house) and purpose of change of site (attach evidence)",
+      "name_af": "Type of house, floor (accessible house) and purpose of change of site (attach evidence)",
+      "caselist": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Lottery",
+            "value_am": "እጣ",
+            "value_or": "Lottery",
+            "value_sm": "Lottery",
+            "value_tg": "Lottery",
+            "value_af": "Lottery"
+          },
+          "_id": {
+            "$oid": "6675eb1dfd40ac084cd59cfe"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Assigned by special, assignment or discretionary status",
+            "value_am": "በልዩ፣በምደባ ወይም በውሳኔ ሁኔታ የተመደበ",
+            "value_or": "Assigned by special, assignment or discretionary status",
+            "value_sm": "Assigned by special, assignment or discretionary status",
+            "value_tg": "Assigned by special, assignment or discretionary status",
+            "value_af": "Assigned by special, assignment or discretionary status"
+          },
+          "_id": {
+            "$oid": "6675eb1dfd40ac084cd59cff"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "Classified by development",
+            "value_am": "በልማት ተነሺነት የተመደበ",
+            "value_or": "Classified by development",
+            "value_sm": "Classified by development",
+            "value_tg": "Classified by development",
+            "value_af": "Classified by development"
+          },
+          "_id": {
+            "$oid": "6675eb1dfd40ac084cd59d00"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6675eb1dfd40ac084cd59cfd"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-21T21:05:33.911Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-01T13:20:25.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698c1894fe70af0ac096e27"
+  },
+  "questions_id": {
+    "$oid": "6698c1884fe70af0ac096e15"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "6698c1894fe70af0ac096e28"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T07:17:29.005Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "House type",
+      "name_am": "የቤት አይነት",
+      "name_or": "House type TI",
+      "name_sm": "House type SM",
+      "name_tg": "House type OR",
+      "name_af": "House type AF",
+      "caselist": {
+        "$oid": "66758727fd40ac084cd58dcd"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Studio",
+            "value_am": "ስቱዲዮ",
+            "value_or": "Studio",
+            "value_sm": "Studio",
+            "value_tg": "Studio",
+            "value_af": "Studio"
+          },
+          "_id": {
+            "$oid": "6698c1884fe70af0ac096e16"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "1 bedroom",
+            "value_am": "ባለ 1 መኝታ",
+            "value_or": "1 bedroom",
+            "value_sm": "1 bedroom",
+            "value_tg": "1 bedroom",
+            "value_af": "1 bedroom"
+          },
+          "_id": {
+            "$oid": "6698c1884fe70af0ac096e17"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "2 bedroom",
+            "value_am": "ባለ 2 መኝታ",
+            "value_or": "2 bedroom",
+            "value_sm": "2 bedroom",
+            "value_tg": "2 bedroom",
+            "value_af": "2 bedroom"
+          },
+          "_id": {
+            "$oid": "6698c1884fe70af0ac096e18"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "3 bedroom",
+            "value_am": "ባለ 3 መኝታ",
+            "value_or": "3 bedroom",
+            "value_sm": "3 bedroom",
+            "value_tg": "3 bedroom",
+            "value_af": "3 bedroom"
+          },
+          "_id": {
+            "$oid": "6698c1884fe70af0ac096e19"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "6698c1884fe70af0ac096e15"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T07:17:29.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T07:17:29.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66990f644fe70af0ac09c93c"
+  },
+  "questions_id": {
+    "$oid": "66990f644fe70af0ac09c928"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66990f644fe70af0ac09c93d"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T12:49:40.567Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "At the discretion of the city administration",
+      "name_am": "በከተማ አስተዳደር ውሳኔ",
+      "name_or": "At the discretion of the city administration",
+      "name_sm": "At the discretion of the city administration",
+      "name_tg": "At the discretion of the city administration",
+      "name_af": "At the discretion of the city administration",
+      "caselist": {
+        "$oid": "66758273fd40ac084cd58b80"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "66990f644fe70af0ac09c929"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "66990f644fe70af0ac09c92a"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66990f644fe70af0ac09c928"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T12:49:40.573Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T12:49:40.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669910de4fe70af0ac09ce26"
+  },
+  "questions_id": {
+    "$oid": "669910de4fe70af0ac09ce0c"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669910de4fe70af0ac09ce27"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T12:55:58.921Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": " Accessible",
+      "name_am": "ተደራሽ",
+      "name_or": " Accessible",
+      "name_sm": " Accessible",
+      "name_tg": " Accessible",
+      "name_af": " Accessible",
+      "caselist": {
+        "$oid": "66758273fd40ac084cd58b80"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "669910de4fe70af0ac09ce0d"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "669910de4fe70af0ac09ce0e"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669910de4fe70af0ac09ce0c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T12:55:58.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T12:55:58.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669913434fe70af0ac09d27c"
+  },
+  "questions_id": {
+    "$oid": "669913434fe70af0ac09d268"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669913434fe70af0ac09d27d"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:06:11.366Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "By the decision of the city administration",
+      "name_am": "በከተማ አስተዳዳሩ ውሳኔ",
+      "name_or": "By the decision of the city administration",
+      "name_sm": "By the decision of the city administration",
+      "name_tg": "By the decision of the city administration",
+      "name_af": "By the decision of the city administration",
+      "caselist": {
+        "$oid": "66757054fd40ac084cd57e0b"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "669913434fe70af0ac09d269"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "669913434fe70af0ac09d26a"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669913434fe70af0ac09d268"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T13:06:11.371Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T13:06:11.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669914434fe70af0ac09d794"
+  },
+  "questions_id": {
+    "$oid": "669914434fe70af0ac09d780"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "669914434fe70af0ac09d795"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:10:27.663Z"
+      }
+    },
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "669917744fe70af0ac09dbbd"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:24:04.398Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "By the decision of the city administration",
+      "name_am": "በከተማ አስተዳዳሩ ውሳኔ",
+      "name_or": "By the decision of the city administration",
+      "name_sm": "By the decision of the city administration",
+      "name_tg": "By the decision of the city administration",
+      "name_af": "By the decision of the city administration",
+      "caselist": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "669914434fe70af0ac09d781"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "669914434fe70af0ac09d782"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669914434fe70af0ac09d780"
+      }
+    },
+    {
+      "name_en": "Health condition: by the decision of the city administration",
+      "name_am": "የጤና ሁኔታ፡ በከተማ አስተዳዳሩ ውሳኔ",
+      "name_or": "Health condition: by the decision of the city administration",
+      "name_sm": "Health condition: by the decision of the city administration",
+      "name_tg": "Health condition: by the decision of the city administration",
+      "name_af": "Health condition: by the decision of the city administration",
+      "caselist": {
+        "$oid": "6675e59dfd40ac084cd59a0a"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "669914434fe70af0ac09d781"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "669914434fe70af0ac09d782"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "669914434fe70af0ac09d780"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T13:10:27.669Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T13:24:04.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66991b7d4fe70af0ac09e178"
+  },
+  "questions_id": {
+    "$oid": "66991b7c4fe70af0ac09e164"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66991b7d4fe70af0ac09e179"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:41:17.269Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "By the decision of the city administration",
+      "name_am": "በከተማ አስተዳዳሩ ውሳኔ",
+      "name_or": "By the decision of the city administration",
+      "name_sm": "By the decision of the city administration",
+      "name_tg": "By the decision of the city administration",
+      "name_af": "By the decision of the city administration",
+      "caselist": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አዎ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "66991b7c4fe70af0ac09e165"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "66991b7c4fe70af0ac09e166"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66991b7c4fe70af0ac09e164"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T13:41:17.273Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T13:41:17.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66991c5f4fe70af0ac09e1c7"
+  },
+  "questions_id": {
+    "$oid": "66991c5e4fe70af0ac09e1b1"
+  },
+  "updateHistory": [
+    {
+      "updatedByITUser": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66991c5f4fe70af0ac09e1c8"
+      },
+      "updatedAt": {
+        "$date": "2024-07-18T13:45:03.173Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "Accessible",
+      "name_am": "ተደራሽ",
+      "name_or": "Accessible",
+      "name_sm": "Accessible",
+      "name_tg": "Accessible",
+      "name_af": "Accessible",
+      "caselist": {
+        "$oid": "6675e98ffd40ac084cd59bf9"
+      },
+      "dataType": "string",
+      "hasEnum": "yes",
+      "enumValues": [
+        {
+          "expectedValues": {
+            "value_en": "Yes",
+            "value_am": "አይ",
+            "value_or": "Yes",
+            "value_sm": "Yes",
+            "value_tg": "Yes",
+            "value_af": "Yes"
+          },
+          "_id": {
+            "$oid": "66991c5e4fe70af0ac09e1b2"
+          }
+        },
+        {
+          "expectedValues": {
+            "value_en": "No",
+            "value_am": "አይ",
+            "value_or": "No",
+            "value_sm": "No",
+            "value_tg": "No",
+            "value_af": "No"
+          },
+          "_id": {
+            "$oid": "66991c5e4fe70af0ac09e1b3"
+          }
+        }
+      ],
+      "isRequired": "yes",
+      "inputType": "selected",
+      "createdBy": {
+        "$oid": "66753577fd40ac084cd575ef"
+      },
+      "_id": {
+        "$oid": "66991c5e4fe70af0ac09e1b1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-18T13:45:03.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T13:45:03.177Z"
+  },
+  "__v": 0
+}]

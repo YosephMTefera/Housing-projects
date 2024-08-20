@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "669d032875cd16d593e09c11"
+  },
+  "firstname": "Misganu",
+  "middlename": "Oljira",
+  "lastname": "Basha",
+  "email": "misgeob@gmail.com",
+  "password": "$2b$10$V.XZkPPfAVibVPatCMDzIO1iCPBCmh23mXqs8KgSud1A/P1t9jPUC",
+  "subcity": "Addis ketema",
+  "woreda": "09",
+  "house_number": "__",
+  "phone": "0923014791",
+  "house_phone_number": "__",
+  "gender": "Male",
+  "picture": "1721565992924-276446671-IMG_20240721_154525.jpg",
+  "preferred_language": "am",
+  "otp": null,
+  "haslogged": "yes",
+  "status": "active",
+  "createdAt": {
+    "$date": "2024-07-21T12:46:33.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-21T12:48:21.197Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,413 @@
+[{
+  "_id": {
+    "$oid": "66a2268156d4b37c1d8aa7db"
+  },
+  "archival_category": {
+    "$oid": "66a2268156d4b37c1d8aa7d9"
+  },
+  "updateHistory": [
+    {
+      "updatedByArchivalUser": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a2268156d4b37c1d8aa7dc"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T10:18:41.185Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "house transfer and construction finance division",
+      "name_am": "የቤት ማስተላለፍና ግንባታ ፋይናንስ ዘርፍ",
+      "presystem_letter": [],
+      "incoming_letter": [],
+      "outgoing_letter": [],
+      "internal_letter": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a2268156d4b37c1d8aa7d9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-25T10:18:41.190Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:18:41.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a226f856d4b37c1d8aa805"
+  },
+  "archival_category": {
+    "$oid": "66a226f856d4b37c1d8aa803"
+  },
+  "updateHistory": [
+    {
+      "updatedByArchivalUser": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a226f856d4b37c1d8aa806"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T10:20:40.181Z"
+      }
+    },
+    {
+      "updatedByArchivalUser": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a228b756d4b37c1d8aa922"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T10:28:07.104Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "main director",
+      "name_am": "ዋና ዳይሬክተር",
+      "presystem_letter": [],
+      "incoming_letter": [],
+      "outgoing_letter": [],
+      "internal_letter": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a226f856d4b37c1d8aa803"
+      }
+    },
+    {
+      "name_en": "main director",
+      "name_am": "ዋና ዳይሬክተር",
+      "presystem_letter": [],
+      "incoming_letter": [
+        {
+          "incoming_letter_id": {
+            "$oid": "669f9a8917ae5878186681e7"
+          },
+          "archivedBy": {
+            "$oid": "66a225ab56d4b37c1d8aa748"
+          },
+          "_id": {
+            "$oid": "66a228b656d4b37c1d8aa91d"
+          }
+        }
+      ],
+      "outgoing_letter": [],
+      "internal_letter": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a226f856d4b37c1d8aa803"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-25T10:20:40.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:28:07.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2272156d4b37c1d8aa81f"
+  },
+  "archival_category": {
+    "$oid": "66a2272156d4b37c1d8aa81d"
+  },
+  "updateHistory": [
+    {
+      "updatedByArchivalUser": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a2272156d4b37c1d8aa820"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T10:21:21.545Z"
+      }
+    },
+    {
+      "updatedByArchivalUser": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a2289a56d4b37c1d8aa8e2"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T10:27:38.580Z"
+      }
+    },
+    {
+      "updatedByArchivalUser": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a228a856d4b37c1d8aa900"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T10:27:52.541Z"
+      }
+    },
+    {
+      "updatedByArchivalUser": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a228b756d4b37c1d8aa92b"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T10:28:07.339Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "construction division",
+      "name_am": "ኮንስትራክሽን ዘርፍ",
+      "presystem_letter": [],
+      "incoming_letter": [],
+      "outgoing_letter": [],
+      "internal_letter": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a2272156d4b37c1d8aa81d"
+      }
+    },
+    {
+      "name_en": "construction division",
+      "name_am": "ኮንስትራክሽን ዘርፍ",
+      "presystem_letter": [],
+      "incoming_letter": [
+        {
+          "incoming_letter_id": {
+            "$oid": "669f9a8917ae5878186681e7"
+          },
+          "archivedBy": {
+            "$oid": "66a225ab56d4b37c1d8aa748"
+          },
+          "_id": {
+            "$oid": "66a2289a56d4b37c1d8aa8dd"
+          }
+        }
+      ],
+      "outgoing_letter": [],
+      "internal_letter": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a2272156d4b37c1d8aa81d"
+      }
+    },
+    {
+      "name_en": "construction division",
+      "name_am": "ኮንስትራክሽን ዘርፍ",
+      "presystem_letter": [],
+      "incoming_letter": [],
+      "outgoing_letter": [],
+      "internal_letter": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a2272156d4b37c1d8aa81d"
+      }
+    },
+    {
+      "name_en": "construction division",
+      "name_am": "ኮንስትራክሽን ዘርፍ",
+      "presystem_letter": [],
+      "incoming_letter": [
+        {
+          "incoming_letter_id": {
+            "$oid": "669f9a8917ae5878186681e7"
+          },
+          "archivedBy": {
+            "$oid": "66a225ab56d4b37c1d8aa748"
+          },
+          "_id": {
+            "$oid": "66a228b756d4b37c1d8aa926"
+          }
+        }
+      ],
+      "outgoing_letter": [],
+      "internal_letter": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a2272156d4b37c1d8aa81d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-25T10:21:21.547Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:28:07.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2275356d4b37c1d8aa839"
+  },
+  "archival_category": {
+    "$oid": "66a2275356d4b37c1d8aa837"
+  },
+  "updateHistory": [
+    {
+      "updatedByArchivalUser": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a2275356d4b37c1d8aa83a"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T10:22:11.349Z"
+      }
+    },
+    {
+      "updatedByArchivalUser": {
+        "$oid": "669e407d86c354d58a1b0679"
+      },
+      "action": "update",
+      "_id": {
+        "$oid": "66a78e6abe5c30eee795a58c"
+      },
+      "updatedAt": {
+        "$date": "2024-07-29T12:43:22.072Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "corporate service division",
+      "name_am": "ኮርፖሬት ሰርቪስ ዘርፍ",
+      "presystem_letter": [],
+      "incoming_letter": [],
+      "outgoing_letter": [],
+      "internal_letter": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a2275356d4b37c1d8aa837"
+      }
+    },
+    {
+      "name_en": "corporate service division",
+      "name_am": "ኮርፖሬት ሰርቪስ ዘርፍ",
+      "presystem_letter": [
+        {
+          "letter_id": {
+            "$oid": "66a78e25be5c30eee795a53b"
+          },
+          "archivedBy": {
+            "$oid": "669e407d86c354d58a1b0679"
+          },
+          "_id": {
+            "$oid": "66a78e69be5c30eee795a587"
+          }
+        }
+      ],
+      "incoming_letter": [],
+      "outgoing_letter": [],
+      "internal_letter": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a2275356d4b37c1d8aa837"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-25T10:22:11.352Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T12:43:22.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a227f456d4b37c1d8aa871"
+  },
+  "archival_category": {
+    "$oid": "66a227f456d4b37c1d8aa86f"
+  },
+  "updateHistory": [
+    {
+      "updatedByArchivalUser": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "action": "create",
+      "_id": {
+        "$oid": "66a227f456d4b37c1d8aa872"
+      },
+      "updatedAt": {
+        "$date": "2024-07-25T10:24:52.646Z"
+      }
+    }
+  ],
+  "history": [
+    {
+      "name_en": "land, design and infrastructure development division",
+      "name_am": "የመሬት ፣ ዲዛይንና መሠረተ ልማት ዘርፍ",
+      "presystem_letter": [],
+      "incoming_letter": [],
+      "outgoing_letter": [],
+      "internal_letter": [],
+      "status": "active",
+      "createdBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a227f456d4b37c1d8aa86f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-07-25T10:24:52.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:24:52.652Z"
+  },
+  "__v": 0
+}]

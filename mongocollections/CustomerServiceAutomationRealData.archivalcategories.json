@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "66a2268156d4b37c1d8aa7d9"
+  },
+  "name_en": "house transfer and construction finance division",
+  "name_am": "የቤት ማስተላለፍና ግንባታ ፋይናንስ ዘርፍ",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66a225ab56d4b37c1d8aa748"
+  },
+  "presystem_letter": [],
+  "incoming_letter": [],
+  "outgoing_letter": [],
+  "internal_letter": [],
+  "createdAt": {
+    "$date": "2024-07-25T10:18:41.053Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:18:41.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a226f856d4b37c1d8aa803"
+  },
+  "name_en": "main director",
+  "name_am": "ዋና ዳይሬክተር",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66a225ab56d4b37c1d8aa748"
+  },
+  "presystem_letter": [],
+  "incoming_letter": [
+    {
+      "incoming_letter_id": {
+        "$oid": "669f9a8917ae5878186681e7"
+      },
+      "archivedBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a228b656d4b37c1d8aa91d"
+      }
+    }
+  ],
+  "outgoing_letter": [],
+  "internal_letter": [],
+  "createdAt": {
+    "$date": "2024-07-25T10:20:40.063Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:28:06.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2272156d4b37c1d8aa81d"
+  },
+  "name_en": "construction division",
+  "name_am": "ኮንስትራክሽን ዘርፍ",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66a225ab56d4b37c1d8aa748"
+  },
+  "presystem_letter": [],
+  "incoming_letter": [
+    {
+      "incoming_letter_id": {
+        "$oid": "669f9a8917ae5878186681e7"
+      },
+      "archivedBy": {
+        "$oid": "66a225ab56d4b37c1d8aa748"
+      },
+      "_id": {
+        "$oid": "66a228b756d4b37c1d8aa926"
+      }
+    }
+  ],
+  "outgoing_letter": [],
+  "internal_letter": [],
+  "createdAt": {
+    "$date": "2024-07-25T10:21:21.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:28:07.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2275356d4b37c1d8aa837"
+  },
+  "name_en": "corporate service division",
+  "name_am": "ኮርፖሬት ሰርቪስ ዘርፍ",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66a225ab56d4b37c1d8aa748"
+  },
+  "presystem_letter": [
+    {
+      "letter_id": {
+        "$oid": "66a78e25be5c30eee795a53b"
+      },
+      "archivedBy": {
+        "$oid": "669e407d86c354d58a1b0679"
+      },
+      "_id": {
+        "$oid": "66a78e69be5c30eee795a587"
+      }
+    }
+  ],
+  "incoming_letter": [],
+  "outgoing_letter": [],
+  "internal_letter": [],
+  "createdAt": {
+    "$date": "2024-07-25T10:22:11.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-29T12:43:21.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a227f456d4b37c1d8aa86f"
+  },
+  "name_en": "land, design and infrastructure development division",
+  "name_am": "የመሬት ፣ ዲዛይንና መሠረተ ልማት ዘርፍ",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66a225ab56d4b37c1d8aa748"
+  },
+  "presystem_letter": [],
+  "incoming_letter": [],
+  "outgoing_letter": [],
+  "internal_letter": [],
+  "createdAt": {
+    "$date": "2024-07-25T10:24:52.512Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:24:52.512Z"
+  },
+  "__v": 0
+}]

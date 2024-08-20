@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "6697be9620ff858ecdfecfd8"
+  },
+  "firstname": "አለም ",
+  "middlename": "ከበደ",
+  "lastname": "ሄዪ",
+  "username": "alem12",
+  "email": "alemkebede651@gmail.com",
+  "password": "$2b$10$tSyKe/IZ9HDPXDxWdd7mMup04qoW086qZ2lowM5VpI6hcAi/Ofgzy",
+  "phone": "0920611365",
+  "gender": "Female",
+  "picture": "1721220758887-310097349-images.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "6697b12120ff858ecdfec0f0"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T12:52:38.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:52:38.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697ca9d20ff858ecdff0ef0"
+  },
+  "firstname": "እመቤት",
+  "middlename": "መኮንን ",
+  "lastname": "ማዶ",
+  "username": "emebet21",
+  "email": "emeet841@gmail.com",
+  "password": "$2b$10$FYI1f.4peYCS.rzrAE255e6jkzItxxlr4KFGC3KMvTTtf7G7PTqMi",
+  "phone": "0912128210",
+  "gender": "Female",
+  "picture": "1721578728919-60493499-housingLogo.041341a82bf5b243fc2b.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "6697b63920ff858ecdfec41c"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:43:57.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T11:45:27.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698a9724fe70af0ac095acc"
+  },
+  "firstname": "አለምፀሀይ",
+  "middlename": "ብርሃኔ",
+  "lastname": "ንርአዮ",
+  "username": "Alemtsehay23",
+  "email": "alemtsehaybirhane504@gmil.com",
+  "password": "$2b$10$78xUkP4tDu.yuPmoJPhPDesWxLJTj2r92APDwovRxdgMBvd1iSwM2",
+  "phone": "0911363323",
+  "gender": "Female",
+  "picture": "1721280882048-541553651-logo.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756e60fd40ac084cd57c7d"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T05:34:42.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T05:34:42.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669e407d86c354d58a1b0679"
+  },
+  "firstname": "የኔነህ",
+  "middlename": "ደሴ",
+  "lastname": "እውነቱ",
+  "username": "yeneneh65",
+  "email": "yenenehdese86@gmail.com",
+  "password": "$2b$10$vJhRcNlYT0IxxAvHdHJPQeeI50nT0hISxid100zf/Fg1CRilpsr/O",
+  "phone": "0945110165",
+  "gender": "Male",
+  "picture": "1721647229383-512245019-HOUSING-DEVELOPMENT-CORPORATION-LOGO-circle.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "6697b12120ff858ecdfec0f0"
+  },
+  "createdAt": {
+    "$date": "2024-07-22T11:20:29.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T11:20:29.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a225ab56d4b37c1d8aa748"
+  },
+  "firstname": "ልዩ",
+  "middlename": "አስራት",
+  "lastname": "አሰፋ",
+  "username": "lyu1221",
+  "email": "liyuasrat@gmail.com",
+  "password": "$2b$10$K7YWiedfFIzfkcvOpsSVUOhg5hjY0D/HNAZYDwjzw.d4XR3BtGEfy",
+  "phone": "0913648514",
+  "gender": "Male",
+  "picture": "1721902507056-997466990-housingLogo.041341a82bf5b243fc2b.png",
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753577fd40ac084cd575ef"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T10:15:07.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-25T10:15:07.281Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,909 @@
+[{
+  "_id": {
+    "$oid": "6697b4e920ff858ecdfec31e"
+  },
+  "name_en": "construction audit directorate  ",
+  "name_am": "የኮንስትራክሽን ኦዲት ዳይሬክቶሬት",
+  "name_or": "construction audit directorate or",
+  "name_sm": "construction audit directorate  so",
+  "name_tg": "construction audit directorate  TG",
+  "name_af": "construction audit directorate  AF",
+  "description_en": "construction audit directorate  ",
+  "description_am": "የኮንስትራክሽን ኦዲት ዳይሬክቶሬት",
+  "description_or": "construction audit directorate  OR",
+  "description_sm": "construction audit directorate  SO",
+  "description_tg": "construction audit directorate TG",
+  "description_af": "construction audit directorate  AF",
+  "division": {
+    "$oid": "6697af2820ff858ecdfec051"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T12:11:21.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:11:21.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697b5ca20ff858ecdfec3ee"
+  },
+  "name_en": "human resource management directorate ",
+  "name_am": "የሰው ሀብት አስተዳደር ዳይሬክቶሬት",
+  "name_or": "human resource management directorate or",
+  "name_sm": "human resource management directorate so",
+  "name_tg": "Human Resource Management Directorate TG",
+  "name_af": "Human Resource Management Directorate AF",
+  "description_en": "Human Resource Management Directorate ",
+  "description_am": "የሰው ሀብት አስተዳደር ዳይሬክቶሬት",
+  "description_or": "Human Resource Management Directorate OR",
+  "description_sm": "Human Resource Management Directorate SO",
+  "description_tg": "Human Resource Management Directorate TG",
+  "description_af": "Human Resource Management Directorate AF",
+  "division": {
+    "$oid": "6675415dfd40ac084cd5779f"
+  },
+  "manager": {
+    "$oid": "66980d1820ff858ecdff1083"
+  },
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T12:15:06.253Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T19:25:32.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697b67c20ff858ecdfec490"
+  },
+  "name_en": "information technology directorate",
+  "name_am": "ኢንፎርሜሽን ቴክኖሎጂ ዳይሬክቶሬት",
+  "name_or": "information technology directorate or",
+  "name_sm": "information technology directorate so",
+  "name_tg": "Information Technology Directorate TG",
+  "name_af": "Information Technology Directorate AF",
+  "description_en": "Information Technology Directorate",
+  "description_am": "ኢንፎርሜሽን ቴክኖሎጂ ዳይሬክቶሬት",
+  "description_or": "Information Technology Directorate OR",
+  "description_sm": "Information Technology Directorate SO",
+  "description_tg": "Information Technology Directorate TG",
+  "description_af": "Information Technology Directorate AF",
+  "division": {
+    "$oid": "6675415dfd40ac084cd5779f"
+  },
+  "manager": {
+    "$oid": "6698cb7e4fe70af0ac097bb5"
+  },
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T12:18:04.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T09:24:42.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697b92420ff858ecdfec74f"
+  },
+  "name_en": "finance directorate",
+  "name_am": "የፋይናንስ ዳይሬክቶሬት",
+  "name_or": "finance directorate or",
+  "name_sm": "finance directorate so",
+  "name_tg": "Finance Directorate TG",
+  "name_af": "Finance Directorate AF",
+  "description_en": "Finance Directorate",
+  "description_am": "የፋይናንስ ዳየሬክቶሬት",
+  "description_or": "Finance Directorate OR",
+  "description_sm": "Finance Directorate SO",
+  "description_tg": "Finance Directorate TG",
+  "description_af": "Finance Directorate AF",
+  "division": {
+    "$oid": "6675415dfd40ac084cd5779f"
+  },
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T12:29:24.614Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T09:29:33.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697ba5220ff858ecdfeca91"
+  },
+  "name_en": "government procurement management directorate",
+  "name_am": "የመንግስት ግዥ አስተዳደር ዳይሬክቶሬት",
+  "name_or": "government procurement management directorate or",
+  "name_sm": "government procurement management directorate so",
+  "name_tg": "Government Procurement Management Directorate TG",
+  "name_af": "Government Procurement Management Directorate AF",
+  "description_en": "Government Procurement Management Directorate",
+  "description_am": "የመንግስት ግዥ አስተዳደር ዳይሬክቶሬት",
+  "description_or": "Government Procurement Management Directorate OR",
+  "description_sm": "Government Procurement Management Directorate So",
+  "description_tg": "Government Procurement Management Directorate TG",
+  "description_af": "Government Procurement Management Directorate AF",
+  "division": {
+    "$oid": "6675415dfd40ac084cd5779f"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T12:34:26.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:34:26.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697bafe20ff858ecdfecd26"
+  },
+  "name_en": "property management general services directorate",
+  "name_am": "የንብረት አስተዳደር ጠቅላላ አገልግሎት ዳይሬክቶሬት",
+  "name_or": "property management general services directorate or",
+  "name_sm": "property management general services directorate so",
+  "name_tg": "Property Management General Services Directorate TG",
+  "name_af": "Property Management General Services Directorate AF",
+  "description_en": "Property Management General Services Directorate",
+  "description_am": "የንብረት አስተዳደር ጠቅላላ አገልግሎት ዳይሬክቶሬት",
+  "description_or": "Property Management General Services Directorate OR",
+  "description_sm": "Property Management General Services Directorate SO",
+  "description_tg": "Property Management General Services Directorate TG",
+  "description_af": "Property Management General Services Directorate AF",
+  "division": {
+    "$oid": "6675415dfd40ac084cd5779f"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T12:37:18.070Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:37:18.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697bc5e20ff858ecdfece95"
+  },
+  "name_en": "building management office",
+  "name_am": "የህንፃ አስተዳደር ጽህፈት ቤት",
+  "name_or": "building management office or",
+  "name_sm": "building management office so",
+  "name_tg": "Building Management Office TG",
+  "name_af": "building management office o",
+  "description_en": "Building Management Office",
+  "description_am": "የህንፃ አስተዳደር ጽህፈት ቤት",
+  "description_or": "Building Management Office OR",
+  "description_sm": "Building Management Office SO",
+  "description_tg": "Building Management Office TG",
+  "description_af": "Building Management Office AF",
+  "division": {
+    "$oid": "6675415dfd40ac084cd5779f"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T12:43:10.522Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T12:47:51.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697c1e820ff858ecdfee367"
+  },
+  "name_en": " information management team",
+  "name_am": "የመረጃ አስተዳደር ቡድን",
+  "name_or": " information management team or",
+  "name_sm": " information management team so",
+  "name_tg": " Information management team TG",
+  "name_af": " Information management team AF",
+  "description_en": "Information management team",
+  "description_am": "የመረጃ አስተዳደር ቡድን",
+  "description_or": "Information management team OR",
+  "description_sm": "Information management team SO",
+  "description_tg": "Information management team TG",
+  "description_af": "Information management team AF",
+  "division": {
+    "$oid": "6697af2820ff858ecdfec051"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:06:48.958Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:06:48.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697c31820ff858ecdfeef8e"
+  },
+  "name_en": "public relations and communication directorate",
+  "name_am": "የህዝብ ግንኙነት እና ኮሙኔኬሽን ዳይሬክቶሬት",
+  "name_or": "public relations and communication directorate or",
+  "name_sm": "public relations and communication directorate so",
+  "name_tg": "Public Relations and Communication Directorate TG",
+  "name_af": "Public Relations and Communication Directorate AF",
+  "description_en": "Public Relations and Communication Directorate",
+  "description_am": "የህዝብ ግንኙነት እና ኮሙኔኬሽን ዳይሬክቶሬት",
+  "description_or": "Public Relations and Communication Directorate OR",
+  "description_sm": "Public Relations and Communication Directorate SO",
+  "description_tg": "Public Relations and Communication Directorate TG",
+  "description_af": "Public Relations and Communication Directorate AF",
+  "division": {
+    "$oid": "6697af2820ff858ecdfec051"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:11:52.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:11:52.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697c3b620ff858ecdfef601"
+  },
+  "name_en": "planning and budget directorate",
+  "name_am": "የዕቅድና በጀት ዳይሬክቶሬት",
+  "name_or": "planning and budget directorate or",
+  "name_sm": "planning and budget directorate so",
+  "name_tg": "Planning and Budget Directorate TG",
+  "name_af": "Planning and Budget Directorate AF",
+  "description_en": "Planning and Budget Directorate",
+  "description_am": "የዕቅድና በጀት ዳይሬክቶሬት",
+  "description_or": "Planning and Budget Directorate OR",
+  "description_sm": "Planning and Budget Directorate SO",
+  "description_tg": "Planning and Budget Directorate TG",
+  "description_af": "Planning and Budget Directorate AF",
+  "division": {
+    "$oid": "6697af2820ff858ecdfec051"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:14:30.374Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:14:30.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697c44e20ff858ecdfefb7e"
+  },
+  "name_en": "legal services directorate",
+  "name_am": "የህግ አገልግሎት ዳይሬክቶሬት",
+  "name_or": "legal services directorate or",
+  "name_sm": "legal services directorate so",
+  "name_tg": "Legal Services Directorate TG",
+  "name_af": "Legal Services Directorate AF",
+  "description_en": "Legal Services Directorate",
+  "description_am": "የህግ አገልግሎት ዳይሬክቶሬት",
+  "description_or": "Legal Services Directorate OR",
+  "description_sm": "Legal Services Directorate SO",
+  "description_tg": "Legal Services Directorate TG",
+  "description_af": "Legal Services Directorate AF",
+  "division": {
+    "$oid": "6697af2820ff858ecdfec051"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:17:02.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:17:02.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697c4e520ff858ecdfefe7d"
+  },
+  "name_en": "ethics and anti-corruption directorate",
+  "name_am": "የስነ ምግባርና ፀረ-ሙስና ዳይሬክቶሬት",
+  "name_or": "ethics and anti-corruption directorate or",
+  "name_sm": "ethics and anti-corruption directorate so",
+  "name_tg": "Ethics and Anti-Corruption Directorate TG",
+  "name_af": "Ethics and Anti-Corruption Directorate AF",
+  "description_en": "Ethics and Anti-Corruption Directorate",
+  "description_am": "የስነ ምግባርና ፀረ-ሙስና ዳይሬክቶሬት",
+  "description_or": "Ethics and Anti-Corruption Directorate OR",
+  "description_sm": "Ethics and Anti-Corruption Directorate SO",
+  "description_tg": "Ethics and Anti-Corruption Directorate TG",
+  "description_af": "Ethics and Anti-Corruption Directorate AF",
+  "division": {
+    "$oid": "6697af2820ff858ecdfec051"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:19:33.148Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:19:33.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697c63520ff858ecdff0813"
+  },
+  "name_en": "service delivery monitoring, support and evaluation directorate",
+  "name_am": "የአገልግሎት አሰጣጥ ክትትል፣ ድጋፍና ምዘና ዳይሬክቶሬት",
+  "name_or": "service delivery monitoring, support and evaluation directorate or",
+  "name_sm": "service delivery monitoring, support and evaluation directorate so",
+  "name_tg": "Service Delivery Monitoring, Support and Evaluation Directorate TG",
+  "name_af": "Service Delivery Monitoring, Support and Evaluation Directorate AF",
+  "description_en": "Service Delivery Monitoring, Support and Evaluation Directorate",
+  "description_am": "የአገልግሎት አሰጣጥ ክትትል፣ ድጋፍና ምዘና ዳይሬክቶሬት",
+  "description_or": "Service Delivery Monitoring, Support and Evaluation Directorate OR",
+  "description_sm": "Service Delivery Monitoring, Support and Evaluation Directorate SO",
+  "description_tg": "Service Delivery Monitoring, Support and Evaluation Directorate TG",
+  "description_af": "Service Delivery Monitoring, Support and Evaluation Directorate AF",
+  "division": {
+    "$oid": "6697af2820ff858ecdfec051"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:25:09.619Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:25:09.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697c6ff20ff858ecdff0adc"
+  },
+  "name_en": "internal audit directorate",
+  "name_am": "የውስጥ ኦዲት ዳይሬክቶሬት",
+  "name_or": "internal audit directorate or",
+  "name_sm": "internal audit directorate so",
+  "name_tg": "Internal Audit Directorate TG",
+  "name_af": "Internal Audit Directorate AF",
+  "description_en": "Internal Audit Directorate",
+  "description_am": "የውስጥ ኦዲት ዳይሬክቶሬት",
+  "description_or": "Internal Audit Directorate OR",
+  "description_sm": "Internal Audit Directorate SO",
+  "description_tg": "Internal Audit Directorate TG",
+  "description_af": "Internal Audit Directorate AF",
+  "division": {
+    "$oid": "6697af2820ff858ecdfec051"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:28:31.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:28:31.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697c7f120ff858ecdff0b9f"
+  },
+  "name_en": " plan design and preparation directorate",
+  "name_am": "የፕላን ዲዛይንና ዝግጅት ዳይሬክቶሬት",
+  "name_or": " plan design and preparation directorate or",
+  "name_sm": " plan design and preparation directorate so",
+  "name_tg": " Plan Design and Preparation Directorate TG",
+  "name_af": " Plan Design and Preparation Directorate AF",
+  "description_en": " Plan Design and Preparation Directorate",
+  "description_am": "የፕላን ዲዛይንና ዝግጅት ዳይሬክቶሬት",
+  "description_or": " Plan Design and Preparation Directorate OR",
+  "description_sm": " Plan Design and Preparation Directorate SO",
+  "description_tg": " Plan Design and Preparation Directorate TG",
+  "description_af": " Plan Design and Preparation Directorate AF",
+  "division": {
+    "$oid": "667d1c2bfbbd97c3f9b068b1"
+  },
+  "manager": {
+    "$oid": "6698d99c4fe70af0ac099bee"
+  },
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:32:33.223Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T09:23:56.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697c8ba20ff858ecdff0dc8"
+  },
+  "name_en": "land and alternative technology directorate",
+  "name_am": "የመሬትና፣ አማራጭ ቴክኖሎጂ ዳይሬክቶሬት",
+  "name_or": "land and alternative technology directorate or",
+  "name_sm": "land and alternative technology directorate so",
+  "name_tg": "Land and Alternative Technology Directorate TG",
+  "name_af": "Land and Alternative Technology Directorate AF",
+  "description_en": "Land and Alternative Technology Directorate",
+  "description_am": "የመሬትና፣ አማራጭ ቴክኖሎጂ ዳይሬክቶሬት",
+  "description_or": "Land and Alternative Technology Directorate OR",
+  "description_sm": "Land and Alternative Technology Directorate SO",
+  "description_tg": "Land and Alternative Technology Directorate TG",
+  "description_af": "Land and Alternative Technology Directorate AF",
+  "division": {
+    "$oid": "667d1c2bfbbd97c3f9b068b1"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:35:54.135Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:35:54.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697c96920ff858ecdff0e36"
+  },
+  "name_en": "infrastructure construction monitoring directorate",
+  "name_am": "የመሰረተ ልማት ግንባታ ክትትል ዳይሬክቶሬት",
+  "name_or": "infrastructure construction monitoring directorate or",
+  "name_sm": "infrastructure construction monitoring directorate so",
+  "name_tg": "Infrastructure Construction Monitoring Directorate TG",
+  "name_af": "Infrastructure Construction Monitoring Directorate AF",
+  "description_en": "Infrastructure Construction Monitoring Directorate",
+  "description_am": "የመሰረተ ልማት ግንባታ ክትትል ዳይሬክቶሬት",
+  "description_or": "Infrastructure Construction Monitoring Directorate OR",
+  "description_sm": "Infrastructure Construction Monitoring Directorate SO",
+  "description_tg": "Infrastructure Construction Monitoring Directorate TG",
+  "description_af": "Infrastructure Construction Monitoring Directorate AF",
+  "division": {
+    "$oid": "667d1c2bfbbd97c3f9b068b1"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:38:49.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:38:49.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697ca0e20ff858ecdff0ece"
+  },
+  "name_en": "engineering procurement directorate",
+  "name_am": "የምህንድስና ግዥ ዳይሬክቶሬት",
+  "name_or": "engineering procurement directorate or",
+  "name_sm": "engineering procurement directorate so",
+  "name_tg": "Engineering Procurement Directorate TG",
+  "name_af": "Engineering Procurement Directorate AF",
+  "description_en": "Engineering Procurement Directorate",
+  "description_am": "የምህንድስና ግዥ ዳይሬክቶሬት",
+  "description_or": "Engineering Procurement Directorate OR",
+  "description_sm": "Engineering Procurement Directorate So",
+  "description_tg": "Engineering Procurement Directorate TG",
+  "description_af": "Engineering Procurement Directorate AF",
+  "division": {
+    "$oid": "66756fd6fd40ac084cd57d4f"
+  },
+  "manager": null,
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:41:34.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T13:41:34.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697caa620ff858ecdff0f06"
+  },
+  "name_en": "construction management directorate",
+  "name_am": " የኮንስትራክሽን አስተዳደር ዳይሬክቶሬት",
+  "name_or": "construction management directorate or",
+  "name_sm": "construction management directorate so",
+  "name_tg": "Construction Management Directorate TG",
+  "name_af": "Construction Management Directorate AF",
+  "description_en": "Construction Management Directorate",
+  "description_am": " የኮንስትራክሽን አስተዳደር ዳይሬክቶሬት",
+  "description_or": "Construction Management Directorate OR",
+  "description_sm": "Construction Management Directorate SO",
+  "description_tg": "Construction Management Directorate TG",
+  "description_af": "Construction Management Directorate Af",
+  "division": {
+    "$oid": "66756fd6fd40ac084cd57d4f"
+  },
+  "manager": {
+    "$oid": "66980f2520ff858ecdff10c5"
+  },
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:44:06.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T19:23:35.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6697cb2b20ff858ecdff0f2c"
+  },
+  "name_en": "alternative housing development program directorate",
+  "name_am": "የአማራጭ የቤት ልማት ፕሮግራም ዳይሬክቶሬት",
+  "name_or": "alternative housing development program directorate or",
+  "name_sm": "alternative housing development program directorate so",
+  "name_tg": "Alternative Housing Development Program Directorate TG",
+  "name_af": "Alternative Housing Development Program Directorate AF",
+  "description_en": "Alternative Housing Development Program Directorate",
+  "description_am": "የአማራጭ የቤት ልማት ፕሮግራም ዳይሬክቶሬት",
+  "description_or": "Alternative Housing Development Program Directorate OR",
+  "description_sm": "Alternative Housing Development Program Directorate SO",
+  "description_tg": "Alternative Housing Development Program Directorate TG",
+  "description_af": "Alternative Housing Development Program Directorate AF",
+  "division": {
+    "$oid": "66756fd6fd40ac084cd57d4f"
+  },
+  "manager": {
+    "$oid": "669809e120ff858ecdff0ffb"
+  },
+  "members": [],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66756dc1fd40ac084cd57c5b"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T13:46:19.401Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T19:24:25.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698192e20ff858ecdff11b2"
+  },
+  "name_en": "house transfer directorate",
+  "name_am": "የቤት ማስተላለፍ ዳይሬክቶሬት",
+  "name_or": "የቤት ማስተላለፍ ዳይሬክቶሬት - or",
+  "name_sm": "የቤት ማስተላለፍ ዳይሬክቶሬት - sm",
+  "name_tg": "የቤት ማስተላለፍ ዳይሬክቶሬት - TG",
+  "name_af": "የቤት ማስተላለፍ ዳይሬክቶሬት - AF",
+  "description_en": "የቤት ማስተላለፍ ዳይሬክቶሬት",
+  "description_am": "የቤት ማስተላለፍ ዳይሬክቶሬት",
+  "description_or": "የቤት ማስተላለፍ ዳይሬክቶሬት",
+  "description_sm": "የቤት ማስተላለፍ ዳይሬክቶሬት",
+  "description_tg": "የቤት ማስተላለፍ ዳይሬክቶሬት",
+  "description_af": "የቤት ማስተላለፍ ዳይሬክቶሬት",
+  "division": {
+    "$oid": "66756e67fd40ac084cd57ca2"
+  },
+  "manager": {
+    "$oid": "6698134e20ff858ecdff10f3"
+  },
+  "members": [
+    {
+      "users": {
+        "$oid": "66981ba020ff858ecdff1384"
+      },
+      "_id": {
+        "$oid": "66981ba020ff858ecdff1386"
+      }
+    },
+    {
+      "users": {
+        "$oid": "66981f534fe70af0ac094f25"
+      },
+      "_id": {
+        "$oid": "66981f534fe70af0ac094f30"
+      }
+    },
+    {
+      "users": {
+        "$oid": "669895974fe70af0ac0952e1"
+      },
+      "_id": {
+        "$oid": "669895974fe70af0ac0952e3"
+      }
+    },
+    {
+      "users": {
+        "$oid": "669897e44fe70af0ac095507"
+      },
+      "_id": {
+        "$oid": "669897e44fe70af0ac095514"
+      }
+    },
+    {
+      "users": {
+        "$oid": "669e53d986c354d58a1b19ea"
+      },
+      "_id": {
+        "$oid": "669e53d986c354d58a1b19ff"
+      }
+    },
+    {
+      "users": {
+        "$oid": "66a0f03497d2345b032f8270"
+      },
+      "_id": {
+        "$oid": "66a0f03497d2345b032f828b"
+      }
+    },
+    {
+      "users": {
+        "$oid": "66a0f2fb97d2345b032f82df"
+      },
+      "_id": {
+        "$oid": "66a0f2fc97d2345b032f8301"
+      }
+    },
+    {
+      "users": {
+        "$oid": "66a0f51997d2345b032f84a9"
+      },
+      "_id": {
+        "$oid": "66a0f51997d2345b032f84d3"
+      }
+    },
+    {
+      "users": {
+        "$oid": "66a0f6d997d2345b032f85da"
+      },
+      "_id": {
+        "$oid": "66a0f6da97d2345b032f8612"
+      }
+    },
+    {
+      "users": {
+        "$oid": "66a0f93997d2345b032f88e1"
+      },
+      "_id": {
+        "$oid": "66a0f93a97d2345b032f891e"
+      }
+    },
+    {
+      "users": {
+        "$oid": "66a0fe0f97d2345b032f8d57"
+      },
+      "_id": {
+        "$oid": "66a0fe0f97d2345b032f8d9f"
+      }
+    },
+    {
+      "users": {
+        "$oid": "66a0ffe797d2345b032f8f11"
+      },
+      "_id": {
+        "$oid": "66a0ffe897d2345b032f8f24"
+      }
+    },
+    {
+      "users": {
+        "$oid": "66a102d297d2345b032f91c4"
+      },
+      "_id": {
+        "$oid": "66a102d397d2345b032f91dd"
+      }
+    }
+  ],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753577fd40ac084cd575ef"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T19:19:10.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-24T13:34:11.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669819ac20ff858ecdff11d8"
+  },
+  "name_en": "construction finance directorate",
+  "name_am": "የግንባታ ፋይናንስ ዳይሬክቶሬት",
+  "name_or": "የግንባታ ፋይናንስ ዳይሬክቶሬት - or",
+  "name_sm": "የግንባታ ፋይናንስ ዳይሬክቶሬት - sm",
+  "name_tg": "የግንባታ ፋይናንስ ዳይሬክቶሬት - TG",
+  "name_af": "የግንባታ ፋይናንስ ዳይሬክቶሬት - AF",
+  "description_en": "የግንባታ ፋይናንስ ዳይሬክቶሬት",
+  "description_am": "የግንባታ ፋይናንስ ዳይሬክቶሬት",
+  "description_or": "የግንባታ ፋይናንስ ዳይሬክቶሬት",
+  "description_sm": "የግንባታ ፋይናንስ ዳይሬክቶሬት",
+  "description_tg": "የግንባታ ፋይናንስ ዳይሬክቶሬት",
+  "description_af": "የግንባታ ፋይናንስ ዳይሬክቶሬት",
+  "division": {
+    "$oid": "66756e67fd40ac084cd57ca2"
+  },
+  "manager": {
+    "$oid": "669a274a2d455d0447d47b1f"
+  },
+  "members": [
+    {
+      "users": {
+        "$oid": "669a28532d455d0447d47c49"
+      },
+      "_id": {
+        "$oid": "669a28532d455d0447d47c4b"
+      }
+    },
+    {
+      "users": {
+        "$oid": "669d2aa00e0d4cc1b7394e87"
+      },
+      "_id": {
+        "$oid": "669d2aa00e0d4cc1b7394e89"
+      }
+    },
+    {
+      "users": {
+        "$oid": "669d2bfd0e0d4cc1b7394f5f"
+      },
+      "_id": {
+        "$oid": "669d2bfd0e0d4cc1b7394f61"
+      }
+    },
+    {
+      "users": {
+        "$oid": "669e4b0a86c354d58a1b0dda"
+      },
+      "_id": {
+        "$oid": "669e4b0a86c354d58a1b0de7"
+      }
+    },
+    {
+      "users": {
+        "$oid": "669e4f6c86c354d58a1b15f7"
+      },
+      "_id": {
+        "$oid": "669e4f6c86c354d58a1b1609"
+      }
+    },
+    {
+      "users": {
+        "$oid": "669e51d286c354d58a1b17d9"
+      },
+      "_id": {
+        "$oid": "669e51d286c354d58a1b17e6"
+      }
+    },
+    {
+      "users": {
+        "$oid": "669e526486c354d58a1b18b4"
+      },
+      "_id": {
+        "$oid": "669e526486c354d58a1b18cd"
+      }
+    },
+    {
+      "users": {
+        "$oid": "669e5f6086c354d58a1b246a"
+      },
+      "_id": {
+        "$oid": "669e5f6086c354d58a1b2479"
+      }
+    }
+  ],
+  "status": "active",
+  "createdBy": {
+    "$oid": "66753577fd40ac084cd575ef"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T19:21:16.034Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-22T13:32:16.448Z"
+  },
+  "__v": 0
+}]
