@@ -7,11 +7,10 @@ import ServerError from "../components/ServerError";
 import apiRequest from "../utils/request";
 import {  useSelector } from "react-redux";
 import Loading from "../components/Loading";
-// import { translationAction } from "../components/REDUX/slices/translationSlice";
+
 
 function Login() {
   const navigate = useNavigate();
-  // const dispatch = useDispatch();
   const translationState = useSelector((state) => state?.translation);
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
@@ -46,7 +45,7 @@ function Login() {
           if(error?.response?.status === 429){
 
             setRateLimitTimer(180);
-            // toast.error("Too many attempts. Please try again later.")
+
           }
           translationState.lan === "En"
             ? toast.error(error?.response?.data?.Message_en)
@@ -73,20 +72,7 @@ function Login() {
   return (
     <div className="w-full min-h-[100vh] bg-gray-100 flex flex-col justify-center items-center">
       <ToastContainer theme="light" />
-      {/* <div className="w-[100%] bg-white">
-        <div className="w-[80%] h-[80px] mx-auto flex justify-end items-center">
-          <select
-            onChange={(e) =>
-              dispatch(translationAction.setLan(e?.target?.value))
-            }
-            className="py-1 px-4 border border-gray-300 rounded-[5px] text-[14px] text-[#0C73B8] outline-none max-lg2:text-[10px]"
-          >
-            <option value={"En"}>En</option>
-            <option value={"Am"}>አማ</option>
-          </select>
-        </div>
-      </div> */}
-      <div className="w-[50%] bg-white rounded-[45px] shadow-xl flex gap-[10px] max-lg2:w-[60%] max-lg1:w-[90%] max-lg:w-[70%] max-lg:justify-center max-md2:w-[90%]">
+      <div className="w-[50%]  min-h-[700px] bg-white rounded-[45px] shadow-xl flex gap-[10px] max-lg2:w-[60%] max-lg2:min-h-[300px]  max-lg1:w-[90%] max-lg:w-[70%] max-lg:justify-center max-md2:w-[90%]">
         <div className="w-[50%]  bg-[#0C73B8] rounded-tl-[45px] rounded-bl-[45px] max-lg:hidden">
           <div className="w-[90%] h-[65%] mx-auto  flex flex-col items-center justify-around">
             <div className="relative  bg-white rounded-full mt-[20px]">
@@ -108,8 +94,8 @@ function Login() {
             </div>
           </div>
         </div>
-        <div className="w-[70%]   py-4 flex flex-col gap-[10px] justify-center items-center max-md2:w-[100%]">
-          <div className="relative border  bg-white rounded-full my-[50px] max-sm1:mt-0">
+        <div className="w-[70%]  py-4 flex flex-col gap-[10px] justify-center items-center max-md2:w-[100%]">
+          <div className="relative border  bg-white rounded-full my-[50px] max-lg2:my-[30px] max-sm1:mt-0">
           <img
                 src={require("../CAS/housingLogo.png")}
                 alt=""
